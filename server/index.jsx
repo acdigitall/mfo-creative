@@ -1,136 +1,95 @@
-// src/api/index.js  (veya senin dosya neredeyse)
+// src/api/index.js (MOCK DATA VERSION)
 
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || "";
-// örn prod: https://api.mfocreative.com.tr
-// örn local: http://localhost:4000
+const MOCK_DELAY = 500;
+const delay = (ms) => new Promise(r => setTimeout(r, ms));
 
-async function safeJson(res) {
-  return res.json().catch(() => null);
-}
+let mockProducts = [
+  { id: "1", title: "Örnek Web Tasarım", category: "Web", description: "Kurumsal web sitesi tasarımı", tur: ["tasarim", "sosyal"], image_path: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&q=80", client: "Acme Corp", year: 2024 },
+  { id: "2", title: "Örnek Logo Tasarımı", category: "Kimlik", description: "Yeni marka kimliği", tur: ["kmlik", "tasarim"], image_path: "https://images.unsplash.com/photo-1626785773985-9a8c0811e5a5?w=500&q=80", client: "XYZ Lojistik", year: 2023 },
+  { id: "3", title: "Örnek Katalog", category: "Baskı", description: "2024 Ürün Kataloğu", tur: ["baski"], image_path: "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&q=80", client: "ABC Mobilya", year: 2024 }
+];
 
 /** -------------------- PRODUCTS -------------------- **/
 
 export async function getProducts() {
-  const res = await fetch(`${API_BASE}/api/products`, {
-    credentials: "include", // ✅ her ihtimale karşı
-  });
-
-  const data = await safeJson(res);
-  if (!res.ok) throw new Error(data?.error || "Failed to fetch products");
-  return data;
-  console.log("API_BASE:", API_BASE);
-
+  await delay(MOCK_DELAY);
+  return [...mockProducts];
 }
 
 export async function getProductsByTur(tur) {
-  const res = await fetch(`${API_BASE}/api/products?tur=${encodeURIComponent(tur)}`, {
-    credentials: "include",
-  });
-
-  const data = await safeJson(res);
-  if (!res.ok) throw new Error(data?.error || "Failed to fetch products");
-  return data;
+  await delay(MOCK_DELAY);
+  return mockProducts.filter(p => (p.tur || []).includes(tur));
 }
 
 export async function createProduct(form) {
-  const fd = new FormData();
-  fd.append("title", form.title);
-
-  if (form.category) fd.append("category", form.category);
-  if (form.description) fd.append("description", form.description);
-  if (form.alt) fd.append("alt", form.alt);
-  if (form.client) fd.append("client", form.client);
-  if (form.year) fd.append("year", String(form.year));
-
-  fd.append("tags", JSON.stringify(form.tags || []));
-  fd.append("tur", JSON.stringify(form.tur || []));
-
-  if (form.imageFile) fd.append("image", form.imageFile);
-  if (form.videoFile) fd.append("video", form.videoFile);
-
-  const res = await fetch(`${API_BASE}/api/products`, {
-    method: "POST",
-    body: fd,
-    credentials: "include", // ✅ ÇOK ÖNEMLİ
-  });
-
-  const data = await safeJson(res);
-  if (!res.ok) throw new Error(data?.error || `Request failed (${res.status})`);
-  if (!data || typeof data !== "object") throw new Error("Server returned empty response.");
-  return data;
+  await delay(MOCK_DELAY);
+  const newProduct = {
+    id: Math.random().toString(36).substr(2, 9),
+    title: form.title,
+    category: form.category,
+    description: form.description,
+    alt: form.alt,
+    client: form.client,
+    year: form.year,
+    tur: form.tur || [],
+    tags: form.tags || [],
+    image_path: form.imageFile ? URL.createObjectURL(form.imageFile) : null
+  };
+  mockProducts.unshift(newProduct);
+  return newProduct;
 }
 
 export async function updateProduct(id, form) {
-  const fd = new FormData();
-
-  if (form.title !== undefined && form.title !== null) fd.append("title", form.title);
-  if (form.category) fd.append("category", form.category);
-  if (form.description) fd.append("description", form.description);
-  if (form.alt) fd.append("alt", form.alt);
-  if (form.client) fd.append("client", form.client);
-  if (form.year) fd.append("year", String(form.year));
-
-  fd.append("tags", JSON.stringify(form.tags || []));
-  fd.append("tur", JSON.stringify(form.tur || []));
-
-  if (form.imageFile) fd.append("image", form.imageFile);
-  if (form.videoFile) fd.append("video", form.videoFile);
-
-  const res = await fetch(`${API_BASE}/api/products/${id}`, {
-    method: "PUT",
-    body: fd,
-    credentials: "include", // ✅ ÇOK ÖNEMLİ
-  });
-
-  const data = await safeJson(res);
-  if (!res.ok) throw new Error(data?.error || `Request failed (${res.status})`);
-  if (!data || typeof data !== "object") throw new Error("Server returned empty response.");
-  return data;
+  await delay(MOCK_DELAY);
+  const index = mockProducts.findIndex(p => p.id === id);
+  if (index === -1) throw new Error("Product not found");
+  
+  if (form.title !== undefined && form.title !== null) mockProducts[index].title = form.title;
+  if (form.category !== undefined) mockProducts[index].category = form.category;
+  if (form.description !== undefined) mockProducts[index].description = form.description;
+  if (form.alt !== undefined) mockProducts[index].alt = form.alt;
+  if (form.client !== undefined) mockProducts[index].client = form.client;
+  if (form.year !== undefined) mockProducts[index].year = form.year;
+  if (form.tur !== undefined) mockProducts[index].tur = form.tur;
+  if (form.tags !== undefined) mockProducts[index].tags = form.tags;
+  
+  if (form.imageFile) {
+    mockProducts[index].image_path = URL.createObjectURL(form.imageFile);
+  }
+  
+  return { ...mockProducts[index] };
 }
 
 export async function deleteProduct(id) {
-  const res = await fetch(`${API_BASE}/api/products/${id}`, {
-    method: "DELETE",
-    credentials: "include", // ✅ ÇOK ÖNEMLİ
-  });
-
-  const data = await safeJson(res);
-  if (!res.ok) throw new Error(data?.error || "Failed to delete product");
-  return data;
+  await delay(MOCK_DELAY);
+  mockProducts = mockProducts.filter(p => p.id !== id);
+  return { ok: true };
 }
 
 /** -------------------- ADMIN -------------------- **/
 
 export async function adminLogin(username, password) {
-  const res = await fetch(`${API_BASE}/api/admin/login`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    credentials: "include", // ✅ cookie al/gönder
-    body: JSON.stringify({ username, password }),
-  });
-
-  const data = await safeJson(res);
-  if (!res.ok) throw new Error(data?.error || `Login failed (${res.status})`);
-  return data; // { ok: true }
+  await delay(MOCK_DELAY);
+  // Her şifreyle girişe izin ver:
+  if (typeof window !== "undefined") {
+    localStorage.setItem("mock_admin_auth", "true");
+  }
+  return { ok: true };
 }
 
 export async function adminLogout() {
-  const res = await fetch(`${API_BASE}/api/admin/logout`, {
-    method: "POST",
-    credentials: "include", // ✅ cookie silme için
-  });
-
-  const data = await safeJson(res);
-  if (!res.ok) throw new Error(data?.error || `Logout failed (${res.status})`);
-  return data; // { ok: true }
+  await delay(MOCK_DELAY);
+  if (typeof window !== "undefined") {
+    localStorage.removeItem("mock_admin_auth");
+  }
+  return { ok: true };
 }
 
 export async function adminMe() {
-  const res = await fetch(`${API_BASE}/api/admin/me`, {
-    credentials: "include", // ✅ session var mı bak
-  });
-
-  const data = await safeJson(res);
-  if (!res.ok) throw new Error(data?.error || `Me failed (${res.status})`);
-  return data; // { admin: true/false }
+  await delay(MOCK_DELAY);
+  let isAuth = false;
+  if (typeof window !== "undefined") {
+    isAuth = localStorage.getItem("mock_admin_auth") === "true";
+  }
+  return { admin: isAuth };
 }
