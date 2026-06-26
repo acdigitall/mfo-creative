@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Eğer /deneme indexlenmesin istiyorsan:
+Disallow: /deneme
+
+Sitemap: https://mfocreative.com.tr/sitemap.xml

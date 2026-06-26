@@ -1,0 +1,5328 @@
+[
+  {
+    "id": 4,
+    "title": "Kurumsal Hizmet Broşürü",
+    "category": "Kitap & Yayın",
+    "description": "Profesyonel hizmet tanıtımı için hazırlanan katlamalı broşür. Temiz tasarım, net bilgi akışı ve etkileyici görsel düzen.",
+    "image": "/A5-Tek-kırım-1/Bro焷r-1.jpg",
+    "tags": [
+      "Broşür",
+      "Kurumsal",
+      "Tanıtım"
+    ],
+    "client": "Kurumsal Müşteri",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kurumsal hizmet tanıtım broşürü tasarımı"
+  },
+  {
+    "id": 5,
+    "title": "Ayspak Tanıtım Broşürü",
+    "category": "Kitap & Yayın",
+    "description": "Ayspak firması için hazırlanan ürün ve hizmet tanıtım broşürü. Modern layout ve profesyonel sunum.",
+    "image": "/A5-Tek-kırım-1/Bro焷r-Ayspak.jpg",
+    "tags": [
+      "Broşür",
+      "Ürün Tanıtım",
+      "Kurumsal"
+    ],
+    "client": "Ayspak",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Ayspak ürün tanıtım broşürü"
+  },
+  {
+    "id": 6,
+    "title": "Berre Marka Kataloğu",
+    "category": "Promosyon",
+    "description": "Berre markası için tasarlanan ürün kataloğu. Şık tasarım ve ürün odaklı görsel sunum.",
+    "image": "/A5-Tek-kırım-1/Bro焷r-Berre.jpg",
+    "tags": [
+      "Katalog",
+      "Ürün",
+      "Marka"
+    ],
+    "client": "Berre",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Berre marka ürün kataloğu tasarımı"
+  },
+  {
+    "id": 7,
+    "title": "Bigg Pizza Menü Broşürü",
+    "category": "Günlük Tüketim",
+    "description": "Bigg Pizza restoranı için hazırlanan lezzetli menü broşürü. Appetizing görseller ve kolay okunabilir düzen.",
+    "image": "/A5-Tek-kırım-1/Bro焷r-Bigg-Pizza.jpg",
+    "tags": [
+      "Menü",
+      "Restoran",
+      "Food & Beverage"
+    ],
+    "client": "Bigg Pizza",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Bigg Pizza restoran menü broşürü"
+  },
+  {
+    "id": 8,
+    "title": "Bios Ürün Kataloğu",
+    "category": "Tanıtım Materyali",
+    "description": "Bios firması için hazırlanan detaylı ürün kataloğu. Teknik bilgiler ve profesyonel ürün sunumu.",
+    "image": "/A5-Tek-kırım-1/Bro焷r-Bios.jpg",
+    "tags": [
+      "Katalog",
+      "Ürün",
+      "Teknik"
+    ],
+    "client": "Bios",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Bios ürün kataloğu tasarımı"
+  },
+  {
+    "id": 9,
+    "title": "Dives Kurumsal Broşür",
+    "category": "Tanıtım Materyali",
+    "description": "Dives firması için tasarlanan kurumsal tanıtım broşürü. Profesyonel sunum ve marka değerlerini yansıtan tasarım.",
+    "image": "/A5-Tek-kırım-1/Bro焷r-Dives.jpg",
+    "tags": [
+      "Broşür",
+      "Kurumsal",
+      "Tanıtım"
+    ],
+    "client": "Dives",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Dives kurumsal tanıtım broşürü"
+  },
+  {
+    "id": 10,
+    "title": "Dr. Burcu Klinik Broşürü",
+    "category": "Broşür",
+    "description": "Dr. Burcu kliniği için hazırlanan hizmet tanıtım broşürü. Sağlık sektörüne uygun temiz ve güvenilir tasarım dili.",
+    "image": "/A5-Tek-kırım-1/Bro焷r-Dr-Burcu.jpg",
+    "tags": [
+      "Broşür",
+      "Sağlık",
+      "Klinik"
+    ],
+    "client": "Dr. Burcu",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Dr. Burcu klinik tanıtım broşürü"
+  },
+  {
+    "id": 11,
+    "title": "Dr. Nurullah Klinik Hizmet Broşürü",
+    "category": "Broşür",
+    "description": "Dr. Nurullah kliniği için hazırlanan sağlık hizmetleri tanıtım broşürü. Medikal sektöre uygun profesyonel ve güvenilir tasarım.",
+    "image": "/A5-Tek-kırım-1/Bro焷r-Dr-Nur焌h.jpg",
+    "tags": [
+      "Broşür",
+      "Sağlık",
+      "Klinik"
+    ],
+    "client": "Dr. Nurullah",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Dr. Nurullah klinik hizmetleri tanıtım broşürü"
+  },
+  {
+    "id": 12,
+    "title": "Trafik Kaza Tutanağı Broşürü",
+    "category": "Broşür",
+    "description": "Trafik kazası sonrası tutanak ve prosedür bilgilendirme broşürü. Net bilgilendirme ve kolay anlaşılır içerik.",
+    "image": "/A5-Tek-kırım-1/Bro焷r-Trafik-Kaza-Tutana.jpg",
+    "tags": [
+      "Broşür",
+      "Bilgilendirme",
+      "Hukuk"
+    ],
+    "client": "Hukuk Danışmanlık",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Trafik kaza tutanağı bilgilendirme broşürü"
+  },
+  {
+    "id": 13,
+    "title": "Avrasya Danışmanlık Kartvizit",
+    "category": "Kartvizit",
+    "description": "Avrasya Danışmanlık firması için tasarlanan kurumsal kartvizit. Profesyonel görünüm ve minimal tasarım dili.",
+    "image": "/A5-Tek-kırım-1/Kartvizit-Avrasya-Danmanlk.jpg",
+    "client": "Avrasya Danışmanlık",
+    "tags": [
+      "Kartvizit",
+      "Kurumsal",
+      "Danışmanlık"
+    ],
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Avrasya Danışmanlık kurumsal kartvizit tasarımı"
+  },
+  {
+    "id": 14,
+    "title": "Alpin Kartvizit Tasarımı",
+    "category": "Günlük Tüketim",
+    "description": "Alpin markası için hazırlanan şık ve modern kartvizit tasarımı. Marka kimliğini yansıtan tasarım detayları.",
+    "image": "/A5-Tek-kırım-1/Kartvizit-Alpin.jpg",
+    "client": "Alpin",
+    "tags": [
+      "Kartvizit",
+      "Marka",
+      "Kurumsal"
+    ],
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Alpin marka kartvizit tasarımı"
+  },
+  {
+    "id": 15,
+    "title": "Dr. Nurullah Klinik Kartviziti",
+    "category": "Tanıtım Materyali",
+    "description": "Dr. Nurullah kliniği için tasarlanan medikal kartvizit. Sağlık sektörüne uygun temiz ve profesyonel görünüm.",
+    "image": "/A5-Tek-kırım-1/Kartvizit-Dr-Nur焌h.jpg",
+    "tags": [
+      "Kartvizit",
+      "Sağlık",
+      "Doktor"
+    ],
+    "client": "Dr. Nurullah",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Dr. Nurullah klinik kartvizit tasarımı"
+  },
+  {
+    "id": 16,
+    "title": "Ertan Hoca Kartvizit",
+    "category": "Promosyon",
+    "description": "Akademik danışmanlık için hazırlanan profesyonel kartvizit tasarımı. Eğitim sektörüne uygun düzen.",
+    "image": "/A5-Tek-kırım-1/Kartvizit-Ertan-Hoca.jpg",
+    "tags": [
+      "Kartvizit",
+      "Eğitim",
+      "Akademik"
+    ],
+    "client": "Ertan Hoca",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Ertan Hoca akademik kartvizit tasarımı"
+  },
+  {
+    "id": 17,
+    "title": "Sigorta Vadisi Kartvizit",
+    "category": "Kartvizit",
+    "description": "Sigorta Vadisi firması için kurumsal kartvizit tasarımı. Güvenilir ve profesyonel görünüm.",
+    "image": "/A5-Tek-kırım-1/Kartvizit-Sigorta-Vadisi.jpg",
+    "tags": [
+      "Kartvizit",
+      "Sigorta",
+      "Kurumsal"
+    ],
+    "client": "Sigorta Vadisi",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Sigorta Vadisi kurumsal kartvizit"
+  },
+  {
+    "id": 18,
+    "title": "Bios Ürün Kataloğu",
+    "category": "katalog",
+    "description": "Bios firması için hazırlanan kapsamlı ürün kataloğu. Teknik detaylar ve profesyonel ürün görselleri.",
+    "image": "/A5-Tek-kırım-1/Katalog-Bios.jpg",
+    "tags": [
+      "Katalog",
+      "Ürün",
+      "Teknik"
+    ],
+    "client": "Bios",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Bios ürün kataloğu tasarımı"
+  },
+  {
+    "id": 19,
+    "title": "Capsule Ürün Kataloğu Vol.1",
+    "category": "katalog",
+    "description": "Capsule markası için hazırlanan ilk ürün kataloğu. Modern layout ve etkileyici ürün sunumu.",
+    "image": "/A5-Tek-kırım-1/Katalog-Capsule-1.jpg",
+    "tags": [
+      "Katalog",
+      "Moda",
+      "Ürün"
+    ],
+    "client": "Capsule",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Capsule ürün kataloğu volume 1"
+  },
+  {
+    "id": 20,
+    "title": "Capsule Ürün Kataloğu Vol.2",
+    "category": "katalog",
+    "description": "Capsule markasının ikinci sezon ürün kataloğu. Yenilikçi tasarım ve görsel zenginlik.",
+    "image": "/A5-Tek-kırım-1/Katalog-Capsule-2.jpg",
+    "tags": [
+      "Katalog",
+      "Moda",
+      "Sezon"
+    ],
+    "client": "Capsule",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Capsule ürün kataloğu volume 2"
+  },
+  {
+    "id": 21,
+    "title": "Capsule Ürün Kataloğu Vol.3",
+    "category": "katalog",
+    "description": "Capsule markasının üçüncü sezon koleksiyonu. Şık tasarım ve premium sunum.",
+    "image": "/A5-Tek-kırım-1/Katalog-Capsule-3.jpg",
+    "tags": [
+      "Katalog",
+      "Koleksiyon",
+      "Premium"
+    ],
+    "client": "Capsule",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Capsule ürün kataloğu volume 3"
+  },
+  {
+    "id": 22,
+    "title": "Capsule Ürün Kataloğu Vol.4",
+    "category": "katalog",
+    "description": "Capsule markasının dördüncü sezon kataloğu. Trend odaklı ve dinamik tasarım.",
+    "image": "/A5-Tek-kırım-1/Katalog-Capsule-4.jpg",
+    "tags": [
+      "Katalog",
+      "Trend",
+      "Moda"
+    ],
+    "client": "Capsule",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Capsule ürün kataloğu volume 4"
+  },
+  {
+    "id": 23,
+    "title": "Capsule Ürün Kataloğu Vol.5",
+    "category": "katalog",
+    "description": "Capsule markasının beşinci sezon yayını. Yenilikçi sunum ve etkileyici görseller.",
+    "image": "/A5-Tek-kırım-1/Katalog-Capsule-5.jpg",
+    "tags": [
+      "Katalog",
+      "Sezon",
+      "Koleksiyon"
+    ],
+    "client": "Capsule",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Capsule ürün kataloğu volume 5"
+  },
+  {
+    "id": 24,
+    "title": "Capsule Ürün Kataloğu Vol.6",
+    "category": "katalog",
+    "description": "Capsule markasının altıncı sezon kataloğu. Modern estetik ve profesyonel düzen.",
+    "image": "/A5-Tek-kırım-1/Katalog-Capsule-6.jpg",
+    "tags": [
+      "Katalog",
+      "Modern",
+      "Tasarım"
+    ],
+    "client": "Capsule",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Capsule ürün kataloğu volume 6"
+  },
+  {
+    "id": 25,
+    "title": "Capsule Ürün Kataloğu Vol.7",
+    "category": "katalog",
+    "description": "Capsule markasının yedinci sezon yayını. Final serisi ve özel koleksiyon sunumu.",
+    "image": "/A5-Tek-kırım-1/Katalog-Capsule-7.jpg",
+    "tags": [
+      "Katalog",
+      "Final",
+      "Özel Seri"
+    ],
+    "client": "Capsule",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Capsule ürün kataloğu volume 7"
+  },
+  {
+    "id": 26,
+    "title": "Formcure Ürün Kataloğu",
+    "category": "katalog",
+    "description": "Formcure firması için hazırlanan medikal ürün kataloğu. Teknik detaylar ve profesyonel sunum.",
+    "image": "/A5-Tek-kırım-1/Katalog-Formcure.jpg",
+    "tags": [
+      "Katalog",
+      "Medikal",
+      "Teknik"
+    ],
+    "client": "Formcure",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Formcure medikal ürün kataloğu"
+  },
+  {
+    "id": 27,
+    "title": "Sakikad Kurumsal Katalog",
+    "category": "katalog",
+    "description": "Sakikad firması için kurumsal hizmet kataloğu. Kapsamlı içerik ve profesyonel tasarım.",
+    "image": "/A5-Tek-kırım-1/Katalog-Sakikad.jpg",
+    "tags": [
+      "Katalog",
+      "Kurumsal",
+      "Hizmet"
+    ],
+    "client": "Sakikad",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Sakikad kurumsal hizmet kataloğu"
+  },
+  {
+    "id": 28,
+    "title": "Zenyat Ürün Kataloğu",
+    "category": "katalog",
+    "description": "Zenyat markası için ürün tanıtım kataloğu. Modern tasarım ve görsel zenginlik.",
+    "image": "/A5-Tek-kırım-1/Katalog-Zenyat.jpg",
+    "tags": [
+      "Katalog",
+      "Ürün",
+      "Modern"
+    ],
+    "client": "Zenyat",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Zenyat ürün tanıtım kataloğu"
+  },
+  {
+    "id": 31,
+    "title": "Aloe Vera Logo Tasarımı",
+    "category": "Logo",
+    "description": "Doğal kozmetik markası için organik ve sade logo tasarımı. Doğallık vurgulu görsel kimlik.",
+    "image": "/A5-Tek-kırım-1/Logo-4Aloa-Vera.jpg",
+    "tags": [
+      "Logo",
+      "Kozmetik",
+      "Doğal"
+    ],
+    "client": "4 Aloe Vera",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Aloe Vera doğal kozmetik logo tasarımı"
+  },
+  {
+    "id": 32,
+    "title": "Adalçalar Logo Tasarımı",
+    "category": "Logo",
+    "description": "Adalçalar firması için profesyonel ve kurumsal logo tasarımı. Güçlü marka kimliği.",
+    "image": "/A5-Tek-kırım-1/Logo-Adal考ar.png",
+    "tags": [
+      "Logo",
+      "Kurumsal",
+      "Marka"
+    ],
+    "client": "Adalçalar",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Adalçalar kurumsal logo tasarımı"
+  },
+  {
+    "id": 33,
+    "title": "AR-GE Logo Tasarımı",
+    "category": "Logo",
+    "description": "Teknoloji ve Ar-Ge firması için inovatif logo tasarımı. Modern ve teknolojik görünüm.",
+    "image": "/A5-Tek-kırım-1/Logo-Ar-Ge.jpg",
+    "tags": [
+      "Logo",
+      "Teknoloji",
+      "İnovasyon"
+    ],
+    "client": "AR-GE",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "AR-GE teknoloji firması logo tasarımı"
+  },
+  {
+    "id": 34,
+    "title": "Arete Logo Tasarımı",
+    "category": "Logo",
+    "description": "Arete markası için zarif ve minimal logo tasarımı. Mükemmellik vurgulu kimlik.",
+    "image": "/A5-Tek-kırım-1/Logo-Arete.jpg",
+    "tags": [
+      "Logo",
+      "Minimal",
+      "Zarif"
+    ],
+    "client": "Arete",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Arete minimal logo tasarımı"
+  },
+  {
+    "id": 35,
+    "title": "Arma Logo Tasarımı",
+    "category": "Logo",
+    "description": "Arma markası için güçlü ve etkileyici logo tasarımı. Prestij odaklı görsel kimlik.",
+    "image": "/A5-Tek-kırım-1/Logo-Arma.jpg",
+    "tags": [
+      "Logo",
+      "Güçlü",
+      "Prestij"
+    ],
+    "client": "Arma",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Arma prestij logo tasarımı"
+  },
+  {
+    "id": 36,
+    "title": "Arsa Nerede Logo Tasarımı",
+    "category": "Logo",
+    "description": "Gayrimenkul platformu için modern ve dijital logo tasarımı. Emlak sektörüne uygun kimlik.",
+    "image": "/A5-Tek-kırım-1/Logo-Arsa-nerede.jpg",
+    "tags": [
+      "Logo",
+      "Emlak",
+      "Dijital"
+    ],
+    "client": "Arsa Nerede",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Arsa Nerede emlak platformu logo"
+  },
+  {
+    "id": 37,
+    "title": "ATC Vital Logo Tasarımı",
+    "category": "Logo",
+    "description": "ATC Vital sağlık markası için medikal logo tasarımı. Sağlık ve yaşam vurgulu kimlik.",
+    "image": "/A5-Tek-kırım-1/Logo-ATC-Vital.jpg",
+    "tags": [
+      "Logo",
+      "Sağlık",
+      "Medikal"
+    ],
+    "client": "ATC Vital",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "ATC Vital sağlık markası logo"
+  },
+  {
+    "id": 38,
+    "title": "Avrasya Logo Tasarımı",
+    "category": "Logo",
+    "description": "Avrasya firması için kurumsal ve profesyonel logo tasarımı. Güven veren marka kimliği.",
+    "image": "/A5-Tek-kırım-1/Logo-Avrasya.jpg",
+    "tags": [
+      "Logo",
+      "Kurumsal",
+      "Profesyonel"
+    ],
+    "client": "Avrasya",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Avrasya kurumsal logo tasarımı"
+  },
+  {
+    "id": 39,
+    "title": "Besoly Logo Tasarımı",
+    "category": "Logo",
+    "description": "Besoly markası için modern ve dinamik logo tasarımı. Genç ve enerjik marka kimliği.",
+    "image": "/A5-Tek-kırım-1/Logo-Besoly.jpg",
+    "tags": [
+      "Logo",
+      "Modern",
+      "Dinamik"
+    ],
+    "client": "Besoly",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Besoly modern logo tasarımı"
+  },
+  {
+    "id": 40,
+    "title": "Cocorise Logo Tasarımı",
+    "category": "Logo",
+    "description": "Cocorise markası için tatlı ve organik logo tasarımı. Hindistan cevizi temalı doğal ürün kimliği.",
+    "image": "/A5-Tek-kırım-1/Logo-Cocorise.jpg",
+    "tags": [
+      "Logo",
+      "Organik",
+      "Doğal"
+    ],
+    "client": "Cocorise",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Cocorise organik ürün logo tasarımı"
+  },
+  {
+    "id": 41,
+    "title": "Dr. Nurullah Logo Tasarımı",
+    "category": "Logo",
+    "description": "Dr. Nurullah kliniği için medikal logo tasarımı. Sağlık sektörüne uygun profesyonel ve güvenilir görünüm.",
+    "image": "/A5-Tek-kırım-1/Logo-Dr-Nur焌h.jpg",
+    "tags": [
+      "Logo",
+      "Sağlık",
+      "Doktor"
+    ],
+    "client": "Dr. Nurullah",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Dr. Nurullah klinik logo tasarımı"
+  },
+  {
+    "id": 42,
+    "title": "Durmaz Logo Tasarımı",
+    "category": "Logo",
+    "description": "Durmaz firması için güçlü ve kararlı logo tasarımı. Kurumsal duruş ve güvenilirlik vurgusu.",
+    "image": "/A5-Tek-kırım-1/Logo-Durmaz.jpg",
+    "tags": [
+      "Logo",
+      "Kurumsal",
+      "Güçlü"
+    ],
+    "client": "Durmaz",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Durmaz kurumsal logo tasarımı"
+  },
+  {
+    "id": 43,
+    "title": "Eduars Logo Tasarımı",
+    "category": "Logo",
+    "description": "Eduars eğitim platformu için akademik logo tasarımı. Eğitim ve bilgi odaklı modern görsel kimlik.",
+    "image": "/A5-Tek-kırım-1/Logo-Eduars.jpg",
+    "tags": [
+      "Logo",
+      "Eğitim",
+      "Akademik"
+    ],
+    "client": "Eduars",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Eduars eğitim platformu logo"
+  },
+  {
+    "id": 44,
+    "title": "Erenler Anaokulu Logo Tasarımı",
+    "category": "Logo",
+    "description": "Erenler Anaokulu için renkli ve neşeli logo tasarımı. Çocuk dostu ve eğlenceli görsel dil.",
+    "image": "/A5-Tek-kırım-1/Logo-Erenler-Anaokulu.jpg",
+    "tags": [
+      "Logo",
+      "Okul",
+      "Çocuk"
+    ],
+    "client": "Erenler Anaokulu",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Erenler Anaokulu logo tasarımı"
+  },
+  {
+    "id": 45,
+    "title": "Etiket Logo Tasarımı",
+    "category": "Logo",
+    "description": "Etiket markası için modern ve şık logo tasarımı. Fashion ve moda sektörüne uygun kimlik.",
+    "image": "/A5-Tek-kırım-1/Logo-Etiket.jpg",
+    "tags": [
+      "Logo",
+      "Moda",
+      "Fashion"
+    ],
+    "client": "Etiket",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Etiket moda markası logo"
+  },
+  {
+    "id": 46,
+    "title": "Harbi Logo Tasarımı",
+    "category": "Logo",
+    "description": "Harbi markası için güçlü ve otantik logo tasarımı. Geleneksel değerleri modern tasarımla buluşturan kimlik.",
+    "image": "/A5-Tek-kırım-1/Logo-Harbi-2.jpg",
+    "tags": [
+      "Logo",
+      "Otantik",
+      "Modern"
+    ],
+    "client": "Harbi",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Harbi marka logo tasarımı"
+  },
+  {
+    "id": 47,
+    "title": "Hey Courier Logo Tasarımı",
+    "category": "Logo",
+    "description": "Hey Courier kurye firması için dinamik ve hızlı logo tasarımı. Lojistik sektörüne uygun modern kimlik.",
+    "image": "/A5-Tek-kırım-1/Logo-Hey-Courier.jpg",
+    "tags": [
+      "Logo",
+      "Lojistik",
+      "Kurye"
+    ],
+    "client": "Hey Courier",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Hey Courier lojistik firması logo"
+  },
+  {
+    "id": 48,
+    "title": "Mest Logo Tasarımı",
+    "category": "Logo",
+    "description": "Mest markası için zarif ve çekici logo tasarımı. Premium segment odaklı görsel kimlik.",
+    "image": "/A5-Tek-kırım-1/Logo-Mest.jpg",
+    "tags": [
+      "Logo",
+      "Premium",
+      "Zarif"
+    ],
+    "client": "Mest",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Mest premium marka logo"
+  },
+  {
+    "id": 49,
+    "title": "Viome Logo Tasarımı",
+    "category": "Logo",
+    "description": "Viome markası için modern ve teknolojik logo tasarımı. İnovasyon ve gelecek odaklı kimlik.",
+    "image": "/A5-Tek-kırım-1/Logo-Viome.jpg",
+    "tags": [
+      "Logo",
+      "Teknoloji",
+      "Modern"
+    ],
+    "client": "Viome",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Viome teknoloji markası logo"
+  },
+  {
+    "id": 51,
+    "title": "Dives Sosyal Medya Postu",
+    "category": "Sosyal Medya",
+    "description": "Dives markası için hazırlanan etkileyici sosyal medya görseli. Modern tasarım ve marka kimliğine uygun içerik.",
+    "image": "/A5-Tek-kırım-1/Sosyal-Medya-Dives.jpg",
+    "tags": [
+      "Sosyal Medya",
+      "Instagram",
+      "Post"
+    ],
+    "client": "Dives",
+    "year": "2024",
+    "tur": [
+      "sosyal"
+    ],
+    "alt": "Dives sosyal medya post tasarımı"
+  },
+  {
+    "id": 52,
+    "title": "Ebruli Sosyal Medya Görseli",
+    "category": "Sosyal Medya",
+    "description": "Ebruli Sanat Atölyesi için özel sosyal medya içeriği. Sanatsal ve estetik görsel dil.",
+    "image": "/A5-Tek-kırım-1/Sosyal-Medya-Ebruli.jpg",
+    "tags": [
+      "Sosyal Medya",
+      "Sanat",
+      "Kültür"
+    ],
+    "client": "Ebruli Sanat Atölyesi",
+    "year": "2024",
+    "tur": [
+      "sosyal"
+    ],
+    "alt": "Ebruli sanat atölyesi sosyal medya"
+  },
+  {
+    "id": 53,
+    "title": "Ertan Hoca Kaza Animasyonu",
+    "category": "Sosyal Medya",
+    "description": "Trafik kazası bilgilendirme için hazırlanan animasyonlu sosyal medya içeriği. Eğitici ve dikkat çekici.",
+    "image": "/A5-Tek-kırım-1/Sosyal-Medya-Ertan-Hoca-Kaza-Animeleri.jpg",
+    "tags": [
+      "Sosyal Medya",
+      "Animasyon",
+      "Eğitim"
+    ],
+    "client": "Ertan Hoca",
+    "year": "2024",
+    "tur": [
+      "sosyal"
+    ],
+    "alt": "Trafik kazası bilgilendirme animasyonu"
+  },
+  {
+    "id": 54,
+    "title": "Ertan Hoca Sosyal Medya",
+    "category": "Sosyal Medya",
+    "description": "Hukuk danışmanlığı için profesyonel sosyal medya içeriği. Bilgilendirici ve güvenilir görsel.",
+    "image": "/A5-Tek-kırım-1/Sosyal-Medya-Ertan-Hoca.jpg",
+    "tags": [
+      "Sosyal Medya",
+      "Hukuk",
+      "Danışmanlık"
+    ],
+    "client": "Ertan Hoca",
+    "year": "2024",
+    "tur": [
+      "sosyal"
+    ],
+    "alt": "Ertan Hoca hukuk sosyal medya"
+  },
+  {
+    "id": 55,
+    "title": "Remax Mavi Sosyal Medya",
+    "category": "Sosyal Medya",
+    "description": "Remax Mavi emlak ofisi için hazırlanan sosyal medya görseli. Emlak sektörüne uygun profesyonel tasarım.",
+    "image": "/A5-Tek-kırım-1/Sosyal-Medya-Remax-Mavi.jpg",
+    "tags": [
+      "Sosyal Medya",
+      "Emlak",
+      "Remax"
+    ],
+    "client": "Remax Mavi",
+    "year": "2024",
+    "tur": [
+      "sosyal"
+    ],
+    "alt": "Remax Mavi emlak sosyal medya"
+  },
+  {
+    "id": 56,
+    "title": "Adalçalar Kurumsal Kimlik Paketi",
+    "category": "Kurumsal Kimlik",
+    "description": "Adalçalar firması için kapsamlı kurumsal kimlik tasarımı. Logo, kartvizit, antetli kağıt ve tüm kurumsal materyaller.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Adal考ar-1.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Branding",
+      "Logo"
+    ],
+    "client": "Adalçalar",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Adalçalar kurumsal kimlik tasarım paketi"
+  },
+  {
+    "id": 57,
+    "title": "Burcu Poyraz Kişisel Marka Kimliği",
+    "category": "Kurumsal Kimlik",
+    "description": "Burcu Poyraz için kişisel marka kimliği tasarımı. Modern ve profesyonel görsel dil.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Burcu Poyraz.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Kişisel Marka",
+      "Profesyonel"
+    ],
+    "client": "Burcu Poyraz",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Burcu Poyraz kişisel marka kimliği"
+  },
+  {
+    "id": 58,
+    "title": "Edda Kurumsal Kimlik Tasarımı",
+    "category": "Kurumsal Kimlik",
+    "description": "Edda markası için şık ve zarif kurumsal kimlik çalışması. Premium segment odaklı tasarım.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Edda.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Premium",
+      "Zarif"
+    ],
+    "client": "Edda",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Edda kurumsal kimlik tasarımı"
+  },
+  {
+    "id": 59,
+    "title": "Eva Store Kurumsal Kimlik Vol.2",
+    "category": "Kurumsal Kimlik",
+    "description": "Eva Store mağaza zinciri için ikinci versiyon kurumsal kimlik. Güncel ve trend odaklı tasarım.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Eva Stote-2.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Retail",
+      "Mağaza"
+    ],
+    "client": "Eva Store",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Eva Store kurumsal kimlik versiyon 2"
+  },
+  {
+    "id": 60,
+    "title": "Eva Store Kurumsal Kimlik",
+    "category": "Kurumsal Kimlik",
+    "description": "Eva Store için ana kurumsal kimlik tasarımı. Mağaza konsepti ve marka kimliği entegrasyonu.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Eva Stote.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Store",
+      "Branding"
+    ],
+    "client": "Eva Store",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Eva Store ana kurumsal kimlik"
+  },
+  {
+    "id": 61,
+    "title": "Hey Courier Kurumsal Kimlik Vol.2",
+    "category": "Kurumsal Kimlik",
+    "description": "Hey Courier kurye firması için güncellenmiş kurumsal kimlik. Dinamik ve hızlı görsel dil.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Hey Courier-2.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Lojistik",
+      "Kurye"
+    ],
+    "client": "Hey Courier",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Hey Courier kurumsal kimlik versiyon 2"
+  },
+  {
+    "id": 62,
+    "title": "Hey Courier Kurumsal Kimlik",
+    "category": "Kurumsal Kimlik",
+    "description": "Hey Courier için kapsamlı kurumsal kimlik paketi. Araç giydirme, uniforma ve tüm materyaller.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Hey Courier.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Courier",
+      "Fleet"
+    ],
+    "client": "Hey Courier",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Hey Courier ana kurumsal kimlik paketi"
+  },
+  {
+    "id": 63,
+    "title": "Horizon Kurumsal Kimlik Tasarımı",
+    "category": "Kurumsal Kimlik",
+    "description": "Horizon firması için vizyoner kurumsal kimlik. Gelecek odaklı ve modern tasarım anlayışı.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Horizon.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Vizyon",
+      "Modern"
+    ],
+    "client": "Horizon",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Horizon kurumsal kimlik tasarımı"
+  },
+  {
+    "id": 64,
+    "title": "Samara Kurumsal Kimlik Vol.1",
+    "category": "Kurumsal Kimlik",
+    "description": "Samara markası için ilk versiyon kurumsal kimlik çalışması. Zarif ve sofistike tasarım.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Samara-1.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Elegant",
+      "Sofistike"
+    ],
+    "client": "Samara",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Samara kurumsal kimlik versiyon 1"
+  },
+  {
+    "id": 65,
+    "title": "Samara Kurumsal Kimlik Vol.2",
+    "category": "Kurumsal Kimlik",
+    "description": "Samara markası için güncellenmiş kurumsal kimlik. Yenilenmiş görsel dil ve modern yaklaşım.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Samara-2.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Premium",
+      "Modern"
+    ],
+    "client": "Samara",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Samara kurumsal kimlik versiyon 2"
+  },
+  {
+    "id": 66,
+    "title": "Shume Kurumsal Kimlik Tasarımı",
+    "category": "Kurumsal Kimlik",
+    "description": "Shume markası için özgün kurumsal kimlik. Güçlü marka duruşu ve etkileyici görsel kimlik.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Shume.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Güçlü",
+      "Etkileyici"
+    ],
+    "client": "Shume",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Shume kurumsal kimlik tasarımı"
+  },
+  {
+    "id": 67,
+    "title": "Teen Eagle Gençlik Markası Kimliği",
+    "category": "Kurumsal Kimlik",
+    "description": "Teen Eagle gençlik markası için dinamik kurumsal kimlik. Genç ve enerjik görsel dil.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Teeneagle.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Genç",
+      "Dinamik"
+    ],
+    "client": "Teen Eagle",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Teen Eagle gençlik markası kimliği"
+  },
+  {
+    "id": 68,
+    "title": "TNC Kurumsal Kimlik Vol.2",
+    "category": "Kurumsal Kimlik",
+    "description": "TNC firması için güncellenmiş kurumsal kimlik. Profesyonel ve güvenilir görsel dil.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-TNC-2.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Profesyonel",
+      "Güvenilir"
+    ],
+    "client": "TNC",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "TNC kurumsal kimlik versiyon 2"
+  },
+  {
+    "id": 69,
+    "title": "TNC Kurumsal Kimlik",
+    "category": "Kurumsal Kimlik",
+    "description": "TNC için kapsamlı kurumsal kimlik paketi. Logo, renk paleti ve tüm kullanım standartları.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-TNC.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Kapsamlı",
+      "Standartlar"
+    ],
+    "client": "TNC",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "TNC ana kurumsal kimlik paketi"
+  },
+  {
+    "id": 70,
+    "title": "Vil Kauçuk Kurumsal Kimlik Vol.1",
+    "category": "Kurumsal Kimlik",
+    "description": "Vil Kauçuk sanayi firması için kurumsal kimlik. Endüstriyel ve güçlü görsel dil.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Vil Kau‡uk-1.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Sanayi",
+      "Endüstriyel"
+    ],
+    "client": "Vil Kauçuk",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Vil Kauçuk kurumsal kimlik versiyon 1"
+  },
+  {
+    "id": 71,
+    "title": "Vil Kauçuk Kurumsal Kimlik Vol.2",
+    "category": "Kurumsal Kimlik",
+    "description": "Vil Kauçuk için güncellenmiş kurumsal kimlik. Modern sanayi estetiği ve profesyonel duruş.",
+    "image": "/A5-Tek-kırım-1/Kurumsal Kimlik-Vil Kau‡uk-2.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Kauçuk",
+      "Modern"
+    ],
+    "client": "Vil Kauçuk",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Vil Kauçuk kurumsal kimlik versiyon 2"
+  },
+  {
+    "id": 72,
+    "title": "Aloe Vera Kurumsal Kimlik",
+    "category": "Kurumsal Kimlik",
+    "description": "Aloe Vera doğal kozmetik markası için organik kurumsal kimlik. Doğallık ve saflık vurgusu.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Aloa-Vera.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Organik",
+      "Kozmetik"
+    ],
+    "client": "Aloe Vera",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Aloe Vera organik kozmetik kurumsal kimlik"
+  },
+  {
+    "id": 73,
+    "title": "AR-GE Kurumsal Kimlik Tasarımı",
+    "category": "Kurumsal Kimlik",
+    "description": "AR-GE teknoloji firması için inovatif kurumsal kimlik. Bilim ve teknoloji odaklı tasarım.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-ArGe.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Teknoloji",
+      "İnovasyon"
+    ],
+    "client": "AR-GE",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "AR-GE teknoloji kurumsal kimlik"
+  },
+  {
+    "id": 74,
+    "title": "Horizon Kurumsal Kimlik Paketi",
+    "category": "Kurumsal Kimlik",
+    "description": "Horizon firması için tam kurumsal kimlik çalışması. Vizyoner yaklaşım ve gelecek odaklı tasarım.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Horizan.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Vizyoner",
+      "Gelecek"
+    ],
+    "client": "Horizon",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Horizon kapsamlı kurumsal kimlik paketi"
+  },
+  {
+    "id": 75,
+    "title": "Adalçalar Kurumsal Kimlik Seti",
+    "category": "Kurumsal Kimlik",
+    "description": "Adalçalar için eksiksiz kurumsal kimlik seti. Kırtasiye, dijital ve baskı materyalleri.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Adal考ar-1.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Eksiksiz",
+      "Kırtasiye"
+    ],
+    "client": "Adalçalar",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Adalçalar eksiksiz kurumsal kimlik seti"
+  },
+  {
+    "id": 76,
+    "title": "Arete Kurumsal Kimlik",
+    "category": "Kurumsal Kimlik",
+    "description": "Arete markası için mükemmellik odaklı kurumsal kimlik. Zarif ve minimal tasarım yaklaşımı.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Arete.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Mükemmellik",
+      "Minimal"
+    ],
+    "client": "Arete",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Arete minimal kurumsal kimlik"
+  },
+  {
+    "id": 77,
+    "title": "Dr. Burcu Klinik Kurumsal Kimliği",
+    "category": "Kurumsal Kimlik",
+    "description": "Dr. Burcu kliniği için medikal kurumsal kimlik. Sağlık sektörüne uygun güvenilir tasarım.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Burcu.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Sağlık",
+      "Klinik"
+    ],
+    "client": "Dr. Burcu",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Dr. Burcu klinik kurumsal kimliği"
+  },
+  {
+    "id": 78,
+    "title": "Edda Marka Kurumsal Kimliği",
+    "category": "Kurumsal Kimlik",
+    "description": "Edda markası için kapsamlı kurumsal kimlik çalışması. Premium kalite ve şık görünüm.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Edda.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Premium",
+      "Şık"
+    ],
+    "client": "Edda",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Edda premium marka kurumsal kimliği"
+  },
+  {
+    "id": 79,
+    "title": "Erenler Anaokulu Kurumsal Kimliği",
+    "category": "Kurumsal Kimlik",
+    "description": "Erenler Anaokulu için renkli ve neşeli kurumsal kimlik. Çocuk dostu ve eğitici tasarım.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Erenler-Anaokulu.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Okul",
+      "Çocuk"
+    ],
+    "client": "Erenler Anaokulu",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Erenler Anaokulu kurumsal kimlik"
+  },
+  {
+    "id": 80,
+    "title": "Eva Marka Kurumsal Kimliği",
+    "category": "Kurumsal Kimlik",
+    "description": "Eva markası için modern ve çağdaş kurumsal kimlik. Kadın odaklı zarif tasarım dili.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Eva.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Kadın",
+      "Modern"
+    ],
+    "client": "Eva",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Eva modern marka kurumsal kimliği"
+  },
+  {
+    "id": 81,
+    "title": "Hey Courier Lojistik Kurumsal Kimlik Vol.2",
+    "category": "Kurumsal Kimlik",
+    "description": "Hey Courier için geliştirilmiş lojistik kurumsal kimlik. Hız ve güvenilirlik vurgusu.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Hey-Courier-2.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Lojistik",
+      "Hızlı"
+    ],
+    "client": "Hey Courier",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Hey Courier lojistik kurumsal kimlik v2"
+  },
+  {
+    "id": 82,
+    "title": "Hey Courier Lojistik Kurumsal Kimlik",
+    "category": "Kurumsal Kimlik",
+    "description": "Hey Courier kurye firması için tam kurumsal kimlik. Araç, uniforma ve dijital uygulamalar.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Hey-Courier.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Kurye",
+      "Tam Paket"
+    ],
+    "client": "Hey Courier",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Hey Courier tam kurumsal kimlik paketi"
+  },
+  {
+    "id": 83,
+    "title": "Nova Guard Güvenlik Kurumsal Kimlik Vol.2",
+    "category": "Kurumsal Kimlik",
+    "description": "Nova Guard güvenlik firması için güncellenmiş kurumsal kimlik. Güvenilir ve profesyonel imaj.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Nova-Guard-2.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Güvenlik",
+      "Profesyonel"
+    ],
+    "client": "Nova Guard",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Nova Guard güvenlik kurumsal kimlik v2"
+  },
+  {
+    "id": 84,
+    "title": "Nova Guard Güvenlik Kurumsal Kimlik",
+    "category": "Kurumsal Kimlik",
+    "description": "Nova Guard için kapsamlı güvenlik sektörü kurumsal kimlik. Güç ve güven vurgusu.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Nova-Guard.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Security",
+      "Güçlü"
+    ],
+    "client": "Nova Guard",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Nova Guard güvenlik kurumsal kimlik"
+  },
+  {
+    "id": 85,
+    "title": "Samara Premium Kurumsal Kimlik Vol.2",
+    "category": "Kurumsal Kimlik",
+    "description": "Samara markası için güncellenmiş premium kurumsal kimlik. Lüks ve sofistike yaklaşım.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Samara-2.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Lüks",
+      "Sofistike"
+    ],
+    "client": "Samara",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Samara premium kurumsal kimlik v2"
+  },
+  {
+    "id": 86,
+    "title": "Samara Premium Kurumsal Kimlik",
+    "category": "Kurumsal Kimlik",
+    "description": "Samara için lüks segment kurumsal kimlik. Prestijli ve zarif marka duruşu.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Samara.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Prestij",
+      "Zarif"
+    ],
+    "client": "Samara",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Samara lüks segment kurumsal kimlik"
+  },
+  {
+    "id": 87,
+    "title": "Shume Mire Kurumsal Kimlik",
+    "category": "Kurumsal Kimlik",
+    "description": "Shume Mire markası için özgün kurumsal kimlik. Kültürel değerler ve modern tasarım sentezi.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Shume-Mire.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Kültürel",
+      "Özgün"
+    ],
+    "client": "Shume Mire",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Shume Mire kültürel kurumsal kimlik"
+  },
+  {
+    "id": 88,
+    "title": "Teen Eagle Gençlik Kurumsal Kimliği",
+    "category": "Kurumsal Kimlik",
+    "description": "Teen Eagle için gençlik odaklı kurumsal kimlik. Dinamik, enerjik ve trend-savvy tasarım.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Teen-Eagle.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Youth",
+      "Enerjik"
+    ],
+    "client": "Teen Eagle",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Teen Eagle gençlik kurumsal kimliği"
+  },
+  {
+    "id": 89,
+    "title": "TNC Teknoloji Kurumsal Kimliği",
+    "category": "Kurumsal Kimlik",
+    "description": "TNC teknoloji firması için kurumsal kimlik. İnovatif ve profesyonel görsel dil.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-TNC.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Teknoloji",
+      "İnovatif"
+    ],
+    "client": "TNC",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "TNC teknoloji kurumsal kimliği"
+  },
+  {
+    "id": 90,
+    "title": "Vil Kauçuk Sanayi Kurumsal Kimlik Vol.2",
+    "category": "Kurumsal Kimlik",
+    "description": "Vil Kauçuk için güncellenmiş sanayi kurumsal kimlik. Modern endüstriyel estetik.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Vil-Kau‡uk-2.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Sanayi",
+      "Modern"
+    ],
+    "client": "Vil Kauçuk",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Vil Kauçuk sanayi kurumsal kimlik v2"
+  },
+  {
+    "id": 91,
+    "title": "Vil Kauçuk Sanayi Kurumsal Kimlik",
+    "category": "Kurumsal Kimlik",
+    "description": "Vil Kauçuk için endüstriyel kurumsal kimlik. Güçlü ve dayanıklı marka imajı.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Kimlik-Vil-Kau‡uk.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Endüstri",
+      "Güçlü"
+    ],
+    "client": "Vil Kauçuk",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Vil Kauçuk endüstriyel kurumsal kimlik"
+  },
+  {
+    "id": 92,
+    "title": "Eva Store Mağaza Kurumsal Kimliği",
+    "category": "Kurumsal Kimlik",
+    "description": "Eva Store mağaza zinciri için retail kurumsal kimlik. Mağaza konsepti ve müşteri deneyimi odaklı.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-KimlikEva.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Retail",
+      "Store"
+    ],
+    "client": "Eva Store",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Eva Store retail kurumsal kimliği"
+  },
+  {
+    "id": 93,
+    "title": "TNC Holding Kurumsal Kimliği",
+    "category": "Kurumsal Kimlik",
+    "description": "TNC Holding için kurumsal kimlik çalışması. Profesyonel ve prestijli görünüm.",
+    "image": "/A5-Tek-kırım-1/Kurumsal-Tnc.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Holding",
+      "Prestijli"
+    ],
+    "client": "TNC Holding",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "TNC Holding kurumsal kimliği"
+  },
+  {
+    "id": 94,
+    "title": "Dr. Burcu Klinik Tabela Tasarımı",
+    "category": "Kurumsal Kimlik",
+    "description": "Dr. Burcu kliniği için modern tabela tasarımı. Sağlık sektörüne uygun temiz ve profesyonel görünüm.",
+    "image": "/A5-Tek-kırım-1/Tabela-Burcu.jpg",
+    "tags": [
+      "Tabela",
+      "Klinik",
+      "Medikal"
+    ],
+    "client": "Dr. Burcu",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Dr. Burcu klinik tabela tasarımı"
+  },
+  {
+    "id": 96,
+    "title": "Dr. Nurullah Klinik Cepli Dosya",
+    "category": "Kurumsal Kimlik",
+    "description": "Dr. Nurullah kliniği için kurumsal cepli dosya tasarımı. Hasta dokümanları için profesyonel sunum.",
+    "image": "/A5-Tek-kırım-1/Cepli-Dosya-Dr-Nur焌h.jpg",
+    "tags": [
+      "Cepli Dosya",
+      "Klinik",
+      "Doküman"
+    ],
+    "client": "Dr. Nurullah",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Dr. Nurullah klinik cepli dosya"
+  },
+  {
+    "id": 97,
+    "title": "Erenler Anaokulu Cepli Dosya",
+    "category": "Kurumsal Kimlik",
+    "description": "Erenler Anaokulu için renkli cepli dosya tasarımı. Eğitim materyalleri ve veli iletişimi için.",
+    "image": "/A5-Tek-kırım-1/Cepli-Dosya-Erenler-Anaokulu.jpg",
+    "tags": [
+      "Cepli Dosya",
+      "Okul",
+      "Eğitim"
+    ],
+    "client": "Erenler Anaokulu",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Erenler Anaokulu cepli dosya tasarımı"
+  },
+  {
+    "id": 98,
+    "tur": [
+      "baski"
+    ],
+    "title": "Hasan Ekonomi Afiş Tasarımı",
+    "description": "Hasan Ekonomi için hazırlanan bilgilendirme afişi. Ekonomik içerik ve profesyonel sunum.",
+    "image": "/Afis-Hasan-Ekonomi/Afis-Hasan-Ekonomi.jpg",
+    "tags": [
+      "Afiş",
+      "Ekonomi",
+      "Bilgilendirme"
+    ],
+    "client": "Hasan Ekonomi",
+    "year": "2024",
+    "alt": "Hasan Ekonomi bilgilendirme afişi"
+  },
+  {
+    "id": 99,
+    "tur": [
+      "baski"
+    ],
+    "title": "iWise Afiş Tasarımı",
+    "description": "iWise teknoloji firması için modern afiş tasarımı. Dijital çözümler ve inovasyon vurgusu.",
+    "image": "/Afis-Hasan-Ekonomi/Afis-Iwise.jpg",
+    "tags": [
+      "Afiş",
+      "Teknoloji",
+      "Dijital"
+    ],
+    "client": "iWise",
+    "year": "2024",
+    "alt": "iWise teknoloji afişi"
+  },
+  {
+    "id": 100,
+    "tur": [
+      "baski"
+    ],
+    "title": "Kadir Yiğit Afiş Tasarımı",
+    "description": "Kadir Yiğit için kişisel marka afişi. Profesyonel ve etkileyici görsel sunum.",
+    "image": "/Afis-Hasan-Ekonomi/Afis-Kadir-Yigit.jpg",
+    "tags": [
+      "Afiş",
+      "Kişisel Marka",
+      "Profesyonel"
+    ],
+    "client": "Kadir Yiğit",
+    "year": "2024",
+    "alt": "Kadir Yiğit kişisel marka afişi"
+  },
+  {
+    "id": 101,
+    "tur": [
+      "baski"
+    ],
+    "title": "Robo Mower Afiş Tasarımı",
+    "description": "Robo Mower robotik çim biçme makinesi için ürün tanıtım afişi. Teknolojik ve modern tasarım.",
+    "image": "/Afis-Hasan-Ekonomi/Afis-Robo-Mower.jpg",
+    "tags": [
+      "Afiş",
+      "Teknoloji",
+      "Ürün"
+    ],
+    "client": "Robo Mower",
+    "year": "2024",
+    "alt": "Robo Mower ürün tanıtım afişi"
+  },
+  {
+    "id": 102,
+    "title": "Horizon Araç Giydirme",
+    "category": "Kurumsal Kimlik",
+    "description": "Horizon firması için profesyonel araç kaplama tasarımı. Mobil reklam ve marka görünürlüğü odaklı.",
+    "image": "/Afis-Hasan-Ekonomi/Arac-Giydirme-Horizon.jpg",
+    "tags": [
+      "Araç Kaplama",
+      "Reklam",
+      "Branding"
+    ],
+    "client": "Horizon",
+    "year": "2024",
+    "tur": [
+      "kimlik",
+      "baski"
+    ],
+    "alt": "Horizon araç kaplama tasarımı"
+  },
+  {
+    "id": 103,
+    "title": "iWise Kurumsal Broşür",
+    "category": "Kitap & Yayın",
+    "description": "iWise teknoloji firması için hazırlanan kurumsal broşür. Dijital çözümler ve hizmet tanıtımı.",
+    "image": "/Afis-Hasan-Ekonomi/Brosur-Iwise.jpg",
+    "tags": [
+      "Broşür",
+      "Teknoloji",
+      "Kurumsal"
+    ],
+    "client": "iWise",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "iWise kurumsal tanıtım broşürü"
+  },
+  {
+    "id": 104,
+    "title": "Kitap Sarayı Broşür Vol.2",
+    "category": "Kitap & Yayın",
+    "description": "Kitap Sarayı için hazırlanan yayın kataloğu. Kitap ve edebiyat temalı profesyonel tasarım.",
+    "image": "/Afis-Hasan-Ekonomi/Brosur-Kitap-Sarayi-2.jpg",
+    "tags": [
+      "Broşür",
+      "Kitap",
+      "Katalog"
+    ],
+    "client": "Kitap Sarayı",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kitap Sarayı yayın kataloğu 2"
+  },
+  {
+    "id": 105,
+    "title": "Kitap Sarayı Broşür Vol.3",
+    "category": "Kitap & Yayın",
+    "description": "Kitap Sarayı yayın kataloğunun üçüncü cildi. Zengin içerik ve estetik tasarım.",
+    "image": "/Afis-Hasan-Ekonomi/Brosur-Kitap-Sarayi-3.jpg",
+    "tags": [
+      "Broşür",
+      "Edebiyat",
+      "Yayın"
+    ],
+    "client": "Kitap Sarayı",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kitap Sarayı yayın kataloğu 3"
+  },
+  {
+    "id": 106,
+    "title": "Kitap Sarayı Broşür Vol.4",
+    "category": "Kitap & Yayın",
+    "description": "Kitap Sarayı sezon kataloğu. Yeni çıkan yayınlar ve özel koleksiyonlar.",
+    "image": "/Afis-Hasan-Ekonomi/Brosur-Kitap-Sarayi-4.jpg",
+    "tags": [
+      "Broşür",
+      "Katalog",
+      "Sezon"
+    ],
+    "client": "Kitap Sarayı",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kitap Sarayı sezon kataloğu 4"
+  },
+  {
+    "id": 108,
+    "title": "Robomower Tanıtım Broşürü",
+    "category": "Kitap & Yayın",
+    "description": "Robomower için hazırlanan kapsamlı tanıtım broşürü. Modern teknoloji ve pratik kullanım vurgusu.",
+    "image": "/Afis-Hasan-Ekonomi/Brosur-Robomower.jpg",
+    "tags": [
+      "Broşür",
+      "Tanıtım",
+      "Teknoloji"
+    ],
+    "client": "Robomower",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Robomower ürün tanıtım broşürü"
+  },
+  {
+    "id": 109,
+    "title": "Kitap Sarayı Ana Broşür",
+    "category": "Kitap & Yayın",
+    "description": "Kitap Sarayı için ana kurumsal broşür. Geniş yayın yelpazesi ve hizmet tanıtımı.",
+    "image": "/Afis-Hasan-Ekonomi/Brosur-Kitap-Sarayi.jpg",
+    "tags": [
+      "Broşür",
+      "Kurumsal",
+      "Yayıncılık"
+    ],
+    "client": "Kitap Sarayı",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kitap Sarayı kurumsal broşür"
+  },
+  {
+    "id": 110,
+    "title": "Kaşif Dergi Sayı 1",
+    "category": "Kitap & Yayın",
+    "description": "Kaşif dergisinin ilk sayısı. Keşif ve bilim temalı periyodik yayın.",
+    "image": "/Afis-Hasan-Ekonomi/Dergi-Kasif-1.jpg",
+    "tags": [
+      "Dergi",
+      "Bilim",
+      "Keşif"
+    ],
+    "client": "Kaşif Dergi",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kaşif dergi ilk sayı"
+  },
+  {
+    "id": 111,
+    "title": "Kaşif Dergi Sayı 2",
+    "category": "Kitap & Yayın",
+    "description": "Kaşif dergisinin ikinci sayısı. Bilimsel içerik ve görsel zenginlik.",
+    "image": "/Afis-Hasan-Ekonomi/Dergi-Kasif-2.jpg",
+    "tags": [
+      "Dergi",
+      "Bilimsel",
+      "Periyodik"
+    ],
+    "client": "Kaşif Dergi",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kaşif dergi ikinci sayı"
+  },
+  {
+    "id": 112,
+    "title": "Kaşif Dergi Sayı 3",
+    "category": "Kitap & Yayın",
+    "description": "Kaşif dergisinin üçüncü sayısı. Keşif hikayeleri ve bilimsel araştırmalar.",
+    "image": "/Afis-Hasan-Ekonomi/Dergi-Kasif-3.jpg",
+    "tags": [
+      "Dergi",
+      "Araştırma",
+      "İçerik"
+    ],
+    "client": "Kaşif Dergi",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kaşif dergi üçüncü sayı"
+  },
+  {
+    "id": 113,
+    "title": "Kaşif Dergi Sayı 4",
+    "category": "Kitap & Yayın",
+    "description": "Kaşif dergisinin dördüncü sayısı. Özel dosya ve kapsamlı içerik.",
+    "image": "/Afis-Hasan-Ekonomi/Dergi-Kasif-4.jpg",
+    "tags": [
+      "Dergi",
+      "Özel Sayı",
+      "Bilim"
+    ],
+    "client": "Kaşif Dergi",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kaşif dergi dördüncü sayı"
+  },
+  {
+    "id": 114,
+    "title": "iWise Kartvizit Tasarımı",
+    "category": "Kartvizit",
+    "description": "iWise teknoloji firması için modern kartvizit tasarımı. Minimal ve profesyonel görünüm.",
+    "image": "/Afis-Hasan-Ekonomi/Kartvizit-Iwise.jpg",
+    "client": "iWise",
+    "tags": [
+      "Kartvizit",
+      "Teknoloji",
+      "Minimal"
+    ],
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "iWise kurumsal kartvizit"
+  },
+  {
+    "id": 115,
+    "title": "iWise Ürün Kataloğu",
+    "category": "katalog",
+    "description": "iWise için hazırlanan dijital çözümler kataloğu. Hizmet ve ürün portföyü sunumu.",
+    "image": "/Afis-Hasan-Ekonomi/Katalog-Iwise.jpg",
+    "tags": [
+      "Katalog",
+      "Dijital",
+      "Hizmet"
+    ],
+    "client": "iWise",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "iWise dijital çözümler kataloğu"
+  },
+  {
+    "id": 116,
+    "title": "Marma Terra Katalog Vol.2",
+    "category": "katalog",
+    "description": "Marma Terra mermer ve doğaltaş kataloğu. Premium malzeme ve lüks sunum.",
+    "image": "/Afis-Hasan-Ekonomi/Katalog-Marma-Terra-2.jpg",
+    "tags": [
+      "Katalog",
+      "Mermer",
+      "Premium"
+    ],
+    "client": "Marma Terra",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Marma Terra mermer kataloğu 2"
+  },
+  {
+    "id": 117,
+    "title": "Marma Terra Ana Katalog",
+    "category": "katalog",
+    "description": "Marma Terra için kapsamlı ürün kataloğu. Doğaltaş çeşitleri ve uygulama örnekleri.",
+    "image": "/Afis-Hasan-Ekonomi/Katalog-Marma-Terra.jpg",
+    "tags": [
+      "Katalog",
+      "Doğaltaş",
+      "Ürün"
+    ],
+    "client": "Marma Terra",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Marma Terra ana ürün kataloğu"
+  },
+  {
+    "id": 118,
+    "title": "Kaşif Kitap Serisi 1",
+    "category": "Kitap & Yayın",
+    "description": "Kaşif kitap serisinin ilk cildi. Bilim ve keşif hikayeleri.",
+    "image": "/Afis-Hasan-Ekonomi/Kitap-Kasif-1.jpg",
+    "tags": [
+      "Kitap",
+      "Bilim",
+      "Seri"
+    ],
+    "client": "Kaşif Yayınları",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kaşif bilim kitabı 1"
+  },
+  {
+    "id": 119,
+    "title": "Kaşif Kitap Serisi 4",
+    "category": "Kitap & Yayın",
+    "description": "Kaşif kitap serisinin dördüncü cildi. Araştırma ve keşif anlatımları.",
+    "image": "/Afis-Hasan-Ekonomi/Kitap-Kasif-4.jpg",
+    "tags": [
+      "Kitap",
+      "Keşif",
+      "Bilimsel"
+    ],
+    "client": "Kaşif Yayınları",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kaşif bilim kitabı 4"
+  },
+  {
+    "id": 120,
+    "title": "Kaşif Kitap Serisi 5",
+    "category": "Kitap & Yayın",
+    "description": "Kaşif kitap serisinin beşinci cildi. Özel araştırma ve bilimsel içerik.",
+    "image": "/Afis-Hasan-Ekonomi/Kitap-Kasif-5.jpg",
+    "tags": [
+      "Kitap",
+      "Araştırma",
+      "Seri"
+    ],
+    "client": "Kaşif Yayınları",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kaşif bilim kitabı 5"
+  },
+  {
+    "id": 121,
+    "title": "Nuriye Kitap 1",
+    "category": "Kitap & Yayın",
+    "description": "Nuriye kitap serisinin ilk cildi. Kişisel gelişim ve motivasyon içeriği.",
+    "image": "/Afis-Hasan-Ekonomi/Kitap-Nuriye-1.jpg",
+    "tags": [
+      "Kitap",
+      "Kişisel Gelişim",
+      "Motivasyon"
+    ],
+    "client": "Nuriye Yayınları",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Nuriye kişisel gelişim kitabı 1"
+  },
+  {
+    "id": 122,
+    "title": "Nuriye Kitap 2",
+    "category": "Kitap & Yayın",
+    "description": "Nuriye kitap serisinin ikinci cildi. Yaşam hikayeleri ve deneyimler.",
+    "image": "/Afis-Hasan-Ekonomi/Kitap-Nuriye-2.jpg",
+    "tags": [
+      "Kitap",
+      "Yaşam",
+      "Deneyim"
+    ],
+    "client": "Nuriye Yayınları",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Nuriye yaşam hikayeleri kitabı 2"
+  },
+  {
+    "id": 123,
+    "title": "Nuriye Kitap 3",
+    "category": "Kitap & Yayın",
+    "description": "Nuriye kitap serisinin üçüncü cildi. İlham verici öyküler ve değerler.",
+    "image": "/Afis-Hasan-Ekonomi/Kitap-Nuriye-3.jpg",
+    "tags": [
+      "Kitap",
+      "İlham",
+      "Değerler"
+    ],
+    "client": "Nuriye Yayınları",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Nuriye ilham verici kitap 3"
+  },
+  {
+    "id": 124,
+    "title": "Aras Arsa Kurumsal Kimlik Vol.2",
+    "category": "Kurumsal Kimlik",
+    "description": "Aras Arsa emlak firması için kurumsal kimlik çalışması. Profesyonel ve güvenilir görsel dil.",
+    "image": "/Afis-Hasan-Ekonomi/Kurumsal-Kimlik-Aras-Arsa-2.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Emlak",
+      "Branding"
+    ],
+    "client": "Aras Arsa",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Aras Arsa kurumsal kimlik 2"
+  },
+  {
+    "id": 125,
+    "title": "Aras Arsa Kurumsal Kimlik",
+    "category": "Kurumsal Kimlik",
+    "description": "Aras Arsa için kapsamlı kurumsal kimlik tasarımı. Logo, renk paleti ve kullanım standartları.",
+    "image": "/Afis-Hasan-Ekonomi/Kurumsal-Kimlik-Aras-Arsa.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Logo",
+      "Emlak"
+    ],
+    "client": "Aras Arsa",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Aras Arsa kurumsal kimlik"
+  },
+  {
+    "id": 126,
+    "title": "Hey Courier Kurumsal Kimlik",
+    "category": "Kurumsal Kimlik",
+    "description": "Hey Courier kurye firması için kurumsal kimlik çalışması. Dinamik ve hızlı görsel dil.",
+    "image": "/Afis-Hasan-Ekonomi/Kurumsal-Kimlik-Hey-Courier.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Lojistik",
+      "Kurye"
+    ],
+    "client": "Hey Courier",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Hey Courier kurumsal kimlik"
+  },
+  {
+    "id": 127,
+    "title": "Aras Arsa Logo Tasarımı",
+    "category": "Logo",
+    "description": "Aras Arsa emlak firması için modern logo tasarımı. Güven ve profesyonellik vurgusu.",
+    "image": "/Afis-Hasan-Ekonomi/Logo-Aras-Arsa.jpg",
+    "tags": [
+      "Logo",
+      "Emlak",
+      "Kurumsal"
+    ],
+    "client": "Aras Arsa",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Aras Arsa emlak logo"
+  },
+  {
+    "id": 128,
+    "title": "Enginar Bahçeden Logo",
+    "category": "Logo",
+    "description": "Enginar Bahçeden organik ürünler markası için doğal logo tasarımı. Taze ve sağlıklı ürün vurgusu.",
+    "image": "/Afis-Hasan-Ekonomi/Logo-Enginar-Bahceden.jpg",
+    "tags": [
+      "Logo",
+      "Organik",
+      "Gıda"
+    ],
+    "client": "Enginar Bahçeden",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Enginar Bahçeden organik ürün logo"
+  },
+  {
+    "id": 129,
+    "title": "Fesleğent Logo Tasarımı",
+    "category": "Logo",
+    "description": "Fesleğent doğal ürünler markası için taze ve canlı logo tasarımı. Organik ve yeşil yaşam kimliği.",
+    "image": "/Afis-Hasan-Ekonomi/Logo-Feslegent.jpg",
+    "tags": [
+      "Logo",
+      "Doğal",
+      "Yeşil"
+    ],
+    "client": "Fesleğent",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Fesleğent doğal ürün logo"
+  },
+  {
+    "id": 130,
+    "title": "Fittime Logo Tasarımı",
+    "category": "Logo",
+    "description": "Fittime spor ve fitness markası için dinamik logo tasarımı. Enerji ve sağlık odaklı kimlik.",
+    "image": "/Afis-Hasan-Ekonomi/Logo-Fittime.jpg",
+    "tags": [
+      "Logo",
+      "Fitness",
+      "Spor"
+    ],
+    "client": "Fittime",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Fittime spor ve fitness logo"
+  },
+  {
+    "id": 131,
+    "title": "FSMA Logo Tasarımı",
+    "category": "Logo",
+    "description": "FSMA firması için kurumsal logo tasarımı. Profesyonel ve güvenilir görsel kimlik.",
+    "image": "/Afis-Hasan-Ekonomi/lOGO-fsma.jpg",
+    "tags": [
+      "Logo",
+      "Kurumsal",
+      "Profesyonel"
+    ],
+    "client": "FSMA",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "FSMA kurumsal logo"
+  },
+  {
+    "id": 132,
+    "title": "Haluk Nart Logo Tasarımı",
+    "category": "Logo",
+    "description": "Haluk Nart kişisel marka logosu. Özgün ve kişiye özel tasarım.",
+    "image": "/Afis-Hasan-Ekonomi/Logo-Haluk-Nart.jpg",
+    "tags": [
+      "Logo",
+      "Kişisel Marka",
+      "Özgün"
+    ],
+    "client": "Haluk Nart",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Haluk Nart kişisel logo"
+  },
+  {
+    "id": 133,
+    "title": "Horizon Logo Tasarımı",
+    "category": "Logo",
+    "description": "Horizon firması için vizyoner logo tasarımı. Gelecek ve ufuk odaklı modern kimlik.",
+    "image": "/Afis-Hasan-Ekonomi/Logo-Hrizon.jpg",
+    "tags": [
+      "Logo",
+      "Modern",
+      "Vizyon"
+    ],
+    "client": "Horizon",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Horizon vizyoner logo"
+  },
+  {
+    "id": 134,
+    "title": "Marma Terra Logo Tasarımı",
+    "category": "Logo",
+    "description": "Marma Terra mermer firması için premium logo tasarımı. Doğaltaş ve lüks vurgusu.",
+    "image": "/Afis-Hasan-Ekonomi/Logo-Marma-Terra.jpg",
+    "tags": [
+      "Logo",
+      "Mermer",
+      "Premium"
+    ],
+    "client": "Marma Terra",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Marma Terra mermer logo"
+  },
+  {
+    "id": 135,
+    "title": "Robo Mower Logo Tasarımı",
+    "category": "Logo",
+    "description": "Robo Mower robotik teknoloji markası için modern logo. İnovasyon ve otomasyon kimliği.",
+    "image": "/Afis-Hasan-Ekonomi/Logo-Robo-Mower.jpg",
+    "tags": [
+      "Logo",
+      "Robotik",
+      "Teknoloji"
+    ],
+    "client": "Robo Mower",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Robo Mower robotik logo"
+  },
+  {
+    "id": 136,
+    "title": "Kardeşler Restaurant Menü",
+    "category": "Menü",
+    "description": "Kardeşler Restaurant için özel menü tasarımı. Geleneksel lezzetler ve modern sunum.",
+    "image": "/Afis-Hasan-Ekonomi/Menu-Kardesler.jpg",
+    "tags": [
+      "Menü",
+      "Restaurant",
+      "Yemek"
+    ],
+    "client": "Kardeşler Restaurant",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kardeşler Restaurant menü tasarımı"
+  },
+  {
+    "id": 137,
+    "title": "Promosyon Magnet Tasarımı",
+    "category": "Magnet",
+    "description": "Kurumsal promosyon magnet tasarımı. Marka bilinirliği ve hatırlatıcı ürün.",
+    "image": "/Afis-Hasan-Ekonomi/Promasyon-Magnet.jpg",
+    "tags": [
+      "Magnet",
+      "Promosyon",
+      "Hatırlatıcı"
+    ],
+    "client": "Promosyon Ürünleri",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Kurumsal promosyon magnet"
+  },
+  {
+    "id": 138,
+    "title": "iWise Sertifika Tasarımı",
+    "category": "Sertifika",
+    "description": "iWise için profesyonel sertifika tasarımı. Eğitim ve başarı belgesi formatı.",
+    "image": "/Afis-Hasan-Ekonomi/Sertifika-Iwise.jpg",
+    "tags": [
+      "Sertifika",
+      "Eğitim",
+      "Belge"
+    ],
+    "client": "iWise",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "iWise eğitim sertifikası"
+  },
+  {
+    "id": 139,
+    "title": "Haluk Nart Tabela Tasarımı",
+    "category": "Kurumsal Kimlik",
+    "description": "Haluk Nart için mağaza tabela tasarımı. Dikkat çekici ve profesyonel görünüm.",
+    "image": "/Afis-Hasan-Ekonomi/Tabela-Haluk-Nart.jpg",
+    "tags": [
+      "Tabela",
+      "Mağaza",
+      "Branding"
+    ],
+    "client": "Haluk Nart",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Haluk Nart mağaza tabelası"
+  },
+  {
+    "id": 140,
+    "title": "Sherbet Cafe Tabela",
+    "category": "Kurumsal Kimlik",
+    "description": "Sherbet Cafe için çekici tabela tasarımı. Cafe konsepti ve marka görünürlüğü.",
+    "image": "/Afis-Hasan-Ekonomi/Tabela-Sherbet.jpg",
+    "tags": [
+      "Tabela",
+      "Cafe",
+      "Marka"
+    ],
+    "client": "Sherbet Cafe",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Sherbet Cafe tabela tasarımı"
+  },
+  {
+    "id": 141,
+    "title": "Özgün Eğitim Kurumları Afiş",
+    "category": "Afiş",
+    "description": "Özgün Eğitim Kurumları için hazırlanan \"Teknolojik Sınıflar\" temalı bilgilendirme afişi. Eğitimde teknoloji vurgusunu öne çıkaran modern ve kurumsal bir tasarım.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Afis-ozgun-Egitim-Kurumlari.jpg",
+    "tags": [
+      "Afiş",
+      "Eğitim",
+      "Teknoloji",
+      "Kurumsal Tasarım",
+      "Baskı"
+    ],
+    "client": "Özgün Eğitim Kurumları",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Özgün Eğitim Kurumları teknolojik sınıflar temalı bilgilendirme afişi"
+  },
+  {
+    "id": 142,
+    "title": "Ambalaj TN yalıtım",
+    "category": "Ambalaj Tasarımı",
+    "description": "TN Yalıtım markası için hazırlanan endüstriyel ambalaj tasarımı. Ürün dolum sürecini yansıtan, kurumsal ve güven veren görsel dil ile oluşturulmuş baskı çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Ambalaj-TN-Yalitim-2.jpg",
+    "tags": [
+      "Ambalaj",
+      "Endüstriyel Tasarım",
+      "Kurumsal",
+      "Ürün Ambalajı",
+      "Baskı"
+    ],
+    "client": "TN Yalıtım",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "TN Yalıtım endüstriyel ürün ambalaj tasarımı ve dolum süreci"
+  },
+  {
+    "id": 143,
+    "title": "Ambalaj TN yalıtım",
+    "category": "Ambalaj Tasarımı",
+    "description": "TN Yalıtım markası için hazırlanan endüstriyel ambalaj tasarımı. Ürün dolum sürecini yansıtan, kurumsal ve güven veren görsel dil ile oluşturulmuş baskı çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Ambalaj-TN-Yalitim.jpg",
+    "tags": [
+      "Ambalaj",
+      "Endüstriyel Tasarım",
+      "Kurumsal",
+      "Ürün Ambalajı",
+      "Baskı"
+    ],
+    "client": "TN Yalıtım",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "TN Yalıtım endüstriyel ürün ambalaj tasarımı ve dolum süreci"
+  },
+  {
+    "id": 144,
+    "title": "Ambalaj Tuana Kruden",
+    "category": "Ambalaj Tasarımı",
+    "description": "Tuana markası için hazırlanan kruden ve bitkisel karışım ambalaj tasarımı. Doğallık ve premium algıyı ön plana çıkaran, ürün içeriğini vurgulayan modern baskı çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Ambalaj-Tuana-Kruden.jpg",
+    "tags": [
+      "Ambalaj",
+      "Gıda Ambalajı",
+      "Doğal Ürün",
+      "Premium Tasarım",
+      "Baskı"
+    ],
+    "client": "Tuana",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Tuana markası için tasarlanan kruden ve bitkisel karışım ambalaj tasarımı"
+  },
+  {
+    "id": 145,
+    "title": "Marmara Terra Etiket",
+    "category": "Etiket Tasarımı",
+    "description": "Marmara Terra markası için hazırlanan premium zeytinyağı etiket tasarımı. Doğallık, kalite ve zarafeti ön plana çıkaran, marka algısını güçlendiren baskı odaklı çalışma.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Etiket-Marma-Terra-2.jpg",
+    "tags": [
+      "Etiket Tasarımı",
+      "Zeytinyağı",
+      "Premium Ürün",
+      "Kurumsal Tasarım",
+      "Baskı"
+    ],
+    "client": "Marmara Terra",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Marmara Terra premium zeytinyağı için tasarlanan etiket çalışması"
+  },
+  {
+    "id": 146,
+    "title": "Marmara Terra Etiket",
+    "category": "Etiket Tasarımı",
+    "description": "Marmara Terra markası için hazırlanan premium zeytinyağı etiket tasarımı. Doğallık, kalite ve zarafeti ön plana çıkaran, marka algısını güçlendiren baskı odaklı çalışma.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Etiket-Marma-Terra-3.jpg",
+    "tags": [
+      "Etiket Tasarımı",
+      "Zeytinyağı",
+      "Premium Ürün",
+      "Kurumsal Tasarım",
+      "Baskı"
+    ],
+    "client": "Marmara Terra",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Marmara Terra premium zeytinyağı için tasarlanan etiket çalışması"
+  },
+  {
+    "id": 147,
+    "title": "Tuana Kruden Ürün Etiketi",
+    "category": "Etiket Tasarımı",
+    "description": "Tuana markası için tasarlanan kruden ürün etiket çalışması. Doğal içerik vurgusu yapan, sade ve premium algıyı öne çıkaran ambalaj etiket tasarımı.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Etiket-Tuana-Kruden.jpg",
+    "tags": [
+      "Etiket Tasarımı",
+      "Gıda Ürünü",
+      "Doğal Ürün",
+      "Ambalaj",
+      "Baskı"
+    ],
+    "client": "Tuana",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Tuana markası için hazırlanan kruden ürün ambalaj etiketi tasarımı"
+  },
+  {
+    "id": 148,
+    "title": "Tuana Kruden Ürün Etiketi",
+    "category": "Etiket Tasarımı",
+    "description": "Tuana markası için tasarlanan kruden ürün etiket çalışması. Doğal içerik vurgusu yapan, sade ve premium algıyı öne çıkaran ambalaj etiket tasarımı.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Etiket-Tuana-sve.jpg",
+    "tags": [
+      "Etiket Tasarımı",
+      "Gıda Ürünü",
+      "Doğal Ürün",
+      "Ambalaj",
+      "Baskı"
+    ],
+    "client": "Tuana",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Tuana markası için hazırlanan kruden ürün ambalaj etiketi tasarımı"
+  },
+  {
+    "id": 149,
+    "title": "Tuana Kruden Ürün Etiketi",
+    "category": "Afiş",
+    "description": "Tuana markası için tasarlanan kruden ürün etiket çalışması. Doğal içerik vurgusu yapan, sade ve premium algıyı öne çıkaran ambalaj etiket tasarımı.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Etiket-Tuana.jpg",
+    "tags": [
+      "Etiket Tasarımı",
+      "Gıda Ürünü",
+      "Doğal Ürün",
+      "Ambalaj",
+      "Baskı"
+    ],
+    "client": "Tuana",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Tuana markası için hazırlanan kruden ürün ambalaj etiketi tasarımı"
+  },
+  {
+    "id": 150,
+    "title": "Remax Kartvizit Tasarımı",
+    "category": "Kartvizit Tasarımı",
+    "description": "RE/MAX Mavi için hazırlanan profesyonel kartvizit tasarımı. Kurumsal renkler ve net tipografi ile güven veren, marka kimliğini yansıtan baskı çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Kartvizit-Remax.jpg",
+    "tags": [
+      "Kartvizit",
+      "Kurumsal Kimlik",
+      "Gayrimenkul",
+      "Baskı Tasarımı",
+      "RE/MAX"
+    ],
+    "client": "RE/MAX Mavi",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "RE/MAX Mavi gayrimenkul danışmanı için tasarlanan kurumsal kartvizit"
+  },
+  {
+    "id": 151,
+    "title": "Marmara Terra Ürün Kataloğu",
+    "category": "Katalog Tasarımı",
+    "description": "Marmara Terra markası için hazırlanan premium ürün kataloğu tasarımı. Zeytinyağı ve doğal ürünleri merkeze alan, marka hikâyesini ve kalite algısını güçlendiren baskı odaklı katalog çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Katalog-Marma-Terra.jpg",
+    "tags": [
+      "Katalog Tasarımı",
+      "Zeytinyağı",
+      "Premium Marka",
+      "Kurumsal Tasarım",
+      "Baskı"
+    ],
+    "client": "Marmara Terra",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Marmara Terra markası için tasarlanan premium zeytinyağı ürün kataloğu"
+  },
+  {
+    "id": 152,
+    "title": "Mest Catering Kurumsal Katalog",
+    "category": "Katalog Tasarımı",
+    "description": "Mest Catering markası için hazırlanan kurumsal katalog tasarımı. Hizmet çeşitliliğini ve kalite anlayışını öne çıkaran, modern ve güven veren baskı odaklı katalog çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Katalog-Mest-Yemek.jpg",
+    "tags": [
+      "Katalog Tasarımı",
+      "Catering",
+      "Kurumsal Kimlik",
+      "Yemek Hizmetleri",
+      "Baskı"
+    ],
+    "client": "Mest Catering",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Mest Catering için hazırlanan kurumsal hizmet katalog tasarımı"
+  },
+  {
+    "id": 153,
+    "title": "Polermo Mobilya Ürün Kataloğu",
+    "category": "Katalog Tasarımı",
+    "description": "Polermo Mobilya markası için hazırlanan ürün kataloğu tasarımı. Aile yaşamını ve konforu ön plana çıkaran, modern ve sıcak bir görsel dil ile oluşturulmuş baskı odaklı katalog çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Katalog-Polermo-Mobilya.jpg",
+    "tags": [
+      "Katalog Tasarımı",
+      "Mobilya",
+      "Ev Yaşamı",
+      "Kurumsal Kimlik",
+      "Baskı"
+    ],
+    "client": "Polermo Mobilya",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Polermo Mobilya için tasarlanan modern ve konfor odaklı ürün kataloğu"
+  },
+  {
+    "id": 154,
+    "title": "Sakarya Spor Tarihi Kataloğu",
+    "category": "Katalog Tasarımı",
+    "description": "Sakarya spor tarihini konu alan, arşiv ve belgesel niteliği taşıyan katalog tasarımı. Spor kültürünü ve tarihi başarıları görsel anlatımla destekleyen baskı odaklı çalışma.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Katalog-Sakarya-Spor-Tarihi.jpg",
+    "tags": [
+      "Katalog Tasarımı",
+      "Spor",
+      "Spor Tarihi",
+      "Kültürel Yayın",
+      "Baskı"
+    ],
+    "client": "Sakarya Spor Tarihi",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Sakarya spor tarihini anlatan arşiv ve belgesel nitelikli katalog tasarımı"
+  },
+  {
+    "id": 155,
+    "title": "TNC Catering Hizmet Kataloğu",
+    "category": "Katalog Tasarımı",
+    "description": "TNC Catering markası için hazırlanan hizmet kataloğu tasarımı. Menü çeşitliliğini, lezzet anlayışını ve kurumsal hizmet yapısını öne çıkaran modern ve iştah açıcı baskı çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Katalog-TNC-Yemek.jpg",
+    "tags": [
+      "Katalog Tasarımı",
+      "Catering",
+      "Yemek Hizmetleri",
+      "Kurumsal Kimlik",
+      "Baskı"
+    ],
+    "client": "TNC Catering",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "TNC Catering için tasarlanan kurumsal yemek hizmetleri kataloğu"
+  },
+  {
+    "id": 156,
+    "title": "Vil Kauçuk Kurumsal Katalog",
+    "category": "Katalog Tasarımı",
+    "description": "Vil Kauçuk markası için hazırlanan kurumsal katalog tasarımı. Üretim süreçlerini, teknik altyapıyı ve endüstriyel uzmanlığı vurgulayan, modern ve teknoloji odaklı baskı çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Katalog-Vil-Kaucuk.jpg",
+    "tags": [
+      "Katalog Tasarımı",
+      "Endüstriyel",
+      "Kurumsal Kimlik",
+      "Üretim",
+      "Baskı"
+    ],
+    "client": "Vil Kauçuk",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Vil Kauçuk için hazırlanan teknoloji ve üretim odaklı kurumsal katalog tasarımı"
+  },
+  {
+    "id": 157,
+    "title": "Yess Mobilya Ürün Kataloğu",
+    "category": "Katalog Tasarımı",
+    "description": "Yess Mobilya markası için hazırlanan ürün kataloğu tasarımı. Modern yaşam alanlarını ve aile odaklı konfor anlayışını yansıtan, sade ve şık bir görsel dil ile oluşturulmuş baskı çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Katalog-Yess-Mobilya.jpg",
+    "tags": [
+      "Katalog Tasarımı",
+      "Mobilya",
+      "Ev Yaşamı",
+      "Modern Tasarım",
+      "Baskı"
+    ],
+    "client": "Yess Mobilya",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Yess Mobilya için tasarlanan modern ve konfor odaklı ürün kataloğu"
+  },
+  {
+    "id": 158,
+    "title": "Şifam Yemek Kurumsal Katalog",
+    "category": "Katalog Tasarımı",
+    "description": "Şifam Yemek markası için hazırlanan kurumsal katalog tasarımı. Toplu yemek hizmetlerini, kalite standartlarını ve profesyonel mutfak anlayışını ön plana çıkaran baskı odaklı katalog çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Katalog-sifam-Yemek.jpg",
+    "tags": [
+      "Katalog Tasarımı",
+      "Yemek Hizmetleri",
+      "Catering",
+      "Kurumsal Kimlik",
+      "Baskı"
+    ],
+    "client": "Şifam Yemek",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Şifam Yemek için tasarlanan kurumsal toplu yemek hizmetleri kataloğu"
+  },
+  {
+    "id": 159,
+    "title": "Marmara Terra Premium Kutu Tasarımı",
+    "category": "Ambalaj Tasarımı",
+    "description": "Marmara Terra markası için hazırlanan premium zeytinyağı kutu tasarımı. Doğallık, kalite ve zarafet algısını güçlendiren, ürün sunumunu ön plana çıkaran baskı odaklı ambalaj çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Kutu-Marma-Terra.jpg",
+    "tags": [
+      "Ambalaj Tasarımı",
+      "Kutu Tasarımı",
+      "Zeytinyağı",
+      "Premium Ürün",
+      "Baskı"
+    ],
+    "client": "Marmara Terra",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Marmara Terra premium zeytinyağı için tasarlanan özel kutu ambalaj tasarımı"
+  },
+  {
+    "id": 160,
+    "title": "Roda Otomotiv Ürün Kutu Tasarımı",
+    "category": "Ambalaj Tasarımı",
+    "description": "Roda Otomotiv markası için tasarlanan otomotiv yedek parça kutu ambalajı. Ürün güvenilirliğini ve kalite algısını ön plana çıkaran, teknik ve kurumsal çizgide hazırlanmış baskı odaklı ambalaj çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Kutu-Tasarimi-Roda-Otomotiv-2.jpg",
+    "tags": [
+      "Ambalaj Tasarımı",
+      "Otomotiv",
+      "Endüstriyel Tasarım",
+      "Ürün Ambalajı",
+      "Baskı"
+    ],
+    "client": "Roda Otomotiv",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Roda Otomotiv için tasarlanan otomotiv yedek parça ürün kutusu ambalaj tasarımı"
+  },
+  {
+    "id": 161,
+    "title": "Roda Otomotiv Ürün Kutu Tasarımı",
+    "category": "Ambalaj Tasarımı",
+    "description": "Roda Otomotiv markası için tasarlanan otomotiv yedek parça kutu ambalajı. Ürün güvenilirliğini ve kalite algısını ön plana çıkaran, teknik ve kurumsal çizgide hazırlanmış baskı odaklı ambalaj çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Kutu-Tasarimi-Roda-Otomotiv.jpg",
+    "tags": [
+      "Ambalaj Tasarımı",
+      "Otomotiv",
+      "Endüstriyel Tasarım",
+      "Ürün Ambalajı",
+      "Baskı"
+    ],
+    "client": "Roda Otomotiv",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Roda Otomotiv için tasarlanan otomotiv yedek parça ürün kutusu ambalaj tasarımı"
+  },
+  {
+    "id": 162,
+    "title": "Besoly Logo ve Tabela Tasarımı",
+    "category": "Logo Tasarımı",
+    "description": "Besoly markası için hazırlanan logo tasarımı ve mekân içi tabela uygulaması. Modern tipografi ve sade çizgilerle marka görünürlüğünü artıran, kurumsal kimliği güçlendiren tasarım çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Logo-Besoly.jpg",
+    "tags": [
+      "Logo Tasarımı",
+      "Kurumsal Kimlik",
+      "Tabela Tasarımı",
+      "Marka Kimliği",
+      "Uygulama"
+    ],
+    "client": "Besoly",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Besoly markası için tasarlanan modern logo ve ofis içi tabela uygulaması"
+  },
+  {
+    "id": 163,
+    "title": "Justinianus Logo ve Tabela Tasarımı",
+    "category": "Logo Tasarımı",
+    "description": "Justinianus markası için tasarlanan logo ve saha tabela uygulaması. Tarihsel referanslardan ilham alan güçlü sembolizm ve klasik tipografi ile kurumsal kimliği yansıtan tasarım çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Logo-Justinianus.jpg",
+    "tags": [
+      "Logo Tasarımı",
+      "Kurumsal Kimlik",
+      "Tabela Tasarımı",
+      "Marka Kimliği",
+      "Uygulama"
+    ],
+    "client": "Justinianus",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Justinianus markası için tasarlanan tarihsel referanslı logo ve dış mekân tabela uygulaması"
+  },
+  {
+    "id": 164,
+    "title": "Özgün Kurs Merkezi Logo ve Tabela Tasarımı",
+    "category": "Logo Tasarımı",
+    "description": "Özgün Kurs Merkezi için hazırlanan logo tasarımı ve ofis içi tabela uygulaması. Eğitim kurumuna uygun, güven veren ve modern bir kurumsal kimlik anlayışıyla tasarlanmış baskı ve uygulama çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Logo-ozgun-Kurs-Merkezi.jpg",
+    "tags": [
+      "Logo Tasarımı",
+      "Kurumsal Kimlik",
+      "Eğitim Kurumu",
+      "Tabela Tasarımı",
+      "Uygulama"
+    ],
+    "client": "Özgün Kurs Merkezi",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Özgün Kurs Merkezi için tasarlanan logo ve ofis içi tabela uygulaması"
+  },
+  {
+    "id": 165,
+    "title": "Provit Süt Logo ve Maskot Tasarımı",
+    "category": "Logo Tasarımı",
+    "description": "Provit Süt markası için hazırlanan logo ve maskot tasarımı. Eğlenceli illüstrasyon diliyle güven, doğallık ve marka akılda kalıcılığını artıran modern bir kurumsal kimlik çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Logo-Provit-Sut.jpg",
+    "tags": [
+      "Logo Tasarımı",
+      "Maskot Tasarımı",
+      "Gıda Markası",
+      "Süt Ürünleri",
+      "Marka Kimliği"
+    ],
+    "client": "Provit Süt",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Provit Süt markası için tasarlanan eğlenceli logo ve maskot çalışması"
+  },
+  {
+    "id": 166,
+    "title": "TN Yalıtım Logo ve Ambalaj Tasarımı",
+    "category": "Logo Tasarımı",
+    "description": "TN Yalıtım markası için hazırlanan logo tasarımı ve ürün ambalaj uygulaması. Güçlü tipografi ve yüksek görünürlük sağlayan renk kullanımıyla endüstriyel kimliği ve ürün güvenilirliğini ön plana çıkaran tasarım çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Logo-TN-Yalitim.jpg",
+    "tags": [
+      "Logo Tasarımı",
+      "Ambalaj Tasarımı",
+      "Yalıtım",
+      "Endüstriyel Marka",
+      "Kurumsal Kimlik"
+    ],
+    "client": "TN Yalıtım",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "TN Yalıtım markası için tasarlanan logo ve yeni nesil yalıtım ürünü ambalaj tasarımı"
+  },
+  {
+    "id": 167,
+    "title": "Trend Arsa Logo ve Kurumsal Kimlik Tasarımı",
+    "category": "Logo Tasarımı",
+    "description": "Trend Arsa markası için hazırlanan logo ve kurumsal kimlik tasarımı. Güven, yatırım ve sürdürülebilirlik kavramlarını yansıtan modern tipografi ve sade görsel dil ile oluşturulmuş marka çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Logo-Trend-Arsa.jpg",
+    "tags": [
+      "Logo Tasarımı",
+      "Kurumsal Kimlik",
+      "Gayrimenkul",
+      "Yatırım",
+      "Marka Kimliği"
+    ],
+    "client": "Trend Arsa",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Trend Arsa yatırım ofisi için tasarlanan modern ve güven odaklı logo çalışması"
+  },
+  {
+    "id": 168,
+    "title": "Vil Kauçuk Logo ve Kurumsal Kimlik Tasarımı",
+    "category": "Logo Tasarımı",
+    "description": "Vil Kauçuk markası için hazırlanan logo tasarımı. Endüstriyel üretim ve teknik uzmanlığı yansıtan, güçlü tipografi ve modern sembol kullanımıyla marka kimliğini pekiştiren tasarım çalışması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Logo-Vil-Kauck.jpg",
+    "tags": [
+      "Logo Tasarımı",
+      "Kurumsal Kimlik",
+      "Endüstriyel Marka",
+      "Kauçuk Ürünler",
+      "Marka Kimliği"
+    ],
+    "client": "Vil Kauçuk",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Vil Kauçuk markası için tasarlanan endüstriyel ve teknik odaklı logo çalışması"
+  },
+  {
+    "id": 169,
+    "title": "RE/MAX Kanada Promosyon Ürün Tasarımı",
+    "category": "Promosyon Tasarımı",
+    "description": "RE/MAX Kanada için hazırlanan promosyon ürün tasarımı. Marka kimliğini güçlendiren, fonksiyonel ve yüksek görünürlük sağlayan tasarım diliyle kurumsal tanıtım amaçlı üretilmiş anahtarlık/bottle opener uygulaması.",
+    "image": "/Afis-ozgun-Egitim-Kurumlari/Promasyon-Remax-Canada.jpg",
+    "tags": [
+      "Promosyon Tasarımı",
+      "Gayrimenkul",
+      "Kurumsal Marka",
+      "RE/MAX",
+      "Tanıtım Ürünleri"
+    ],
+    "client": "RE/MAX Canada",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "RE/MAX Kanada için tasarlanan kurumsal promosyon anahtarlık ürünü"
+  },
+  {
+    "id": 170,
+    "title": "9 Taş & 3 Taş Kutu Tasarımı",
+    "category": "Ambalaj Tasarımı",
+    "description": "Özbir Zeka markası için tasarlanan 9 Taş & 3 Taş strateji oyunu kutu tasarımı. Eğitici ve aile odaklı yapıyı yansıtan, dinamik renk geçişleri ve modern grafik detaylarla hazırlanmış, çocukların dikkatini çeken ve ürünün eğitsel yönünü vurgulayan bir ambalaj çalışması.",
+    "image": "/9-Tas/9-Tas.png",
+    "tags": [
+      "Ambalaj Tasarımı",
+      "Kutu Tasarımı",
+      "Zeka Oyunu",
+      "Strateji Oyunu",
+      "Eğitici Oyuncak",
+      "Baskı"
+    ],
+    "client": "Özbir Zeka",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Özbir Zeka markasına ait 9 Taş ve 3 Taş strateji oyunu için tasarlanan renkli ve modern kutu ambalajı"
+  },
+  {
+    "id": 171,
+    "title": "Roshelle Paris Kozmetik Ambalaj Tasarımı",
+    "category": "Ambalaj Tasarımı",
+    "description": "Roshelle Paris markası için hazırlanan kozmetik ürün ambalaj tasarımı. Minimal ve premium bir marka algısı oluşturmak amacıyla sade tipografi, yumuşak renk geçişleri ve modern ürün sunum dili ile tasarlanmış, estetik ve zarif bir görsel kompozisyon sunan çalışma.",
+    "image": "/9-Tas/18.jpg",
+    "tags": [
+      "Ambalaj Tasarımı",
+      "Kozmetik",
+      "Ürün Tasarımı",
+      "Minimal Tasarım",
+      "Premium Marka",
+      "Mockup"
+    ],
+    "client": "Roshelle Paris",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Roshelle Paris markasına ait modern ve premium görünüme sahip kozmetik ürün ambalaj tasarımı"
+  },
+  {
+    "id": 172,
+    "title": "Al-El Group Cepli Dosya Tasarımı",
+    "category": "Kurumsal Kimlik Tasarımı",
+    "description": "Al-El Group için tasarlanan cepli dosya çalışması. Kurumsal prestiji ve güven duygusunu yansıtmak amacıyla lacivert ve altın detayların uyumuyla hazırlanmış, modern çizgiler ve minimal tipografi ile güçlendirilmiş şık bir baskı tasarımı.",
+    "image": "/9-Tas/Al-El-Cepli-Dosya.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Cepli Dosya",
+      "Ofis Materyali",
+      "Kurumsal Tasarım",
+      "Baskı Tasarımı",
+      "Minimal Tasarım"
+    ],
+    "client": "Al-El Group",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Al-El Group için tasarlanan lacivert ve altın detaylı kurumsal cepli dosya tasarımı"
+  },
+  {
+    "id": 173,
+    "title": "Alaçam’da Zaman Tüneli Kitap Kapak Tasarımı",
+    "category": "Kitap Tasarımı",
+    "description": "Yakup Civelek’in kaleme aldığı Alaçam’da Zaman Tüneli kitabı için hazırlanan kapak tasarımı. Bölgenin tarihi ve kültürel dokusunu yansıtan fotoğraf kullanımı, sade tipografi ve modern geometrik yerleşim ile kurgulanmış, nostaljik ve zamansız bir görsel dil sunan baskı çalışması.",
+    "image": "/9-Tas/Alacam-Kitap-Tasarim.png",
+    "tags": [
+      "Kitap Tasarımı",
+      "Kapak Tasarımı",
+      "Yayın Tasarımı",
+      "Kültür",
+      "Tarih",
+      "Baskı"
+    ],
+    "client": "Yakup Civelek",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Alaçam’da Zaman Tüneli kitabı için tasarlanan tarihi ve kültürel temalı modern kapak tasarımı"
+  },
+  {
+    "id": 174,
+    "title": "Alesta Life Mobilya Katalog Tasarımı",
+    "category": "Katalog Tasarımı",
+    "description": "Alesta Life markası için hazırlanan mobilya ürün kataloğu tasarımı. Doğal yaşam ve modern iç mekân anlayışını yansıtan sade yerleşim, geniş ürün görselleri ve minimal tipografi ile kurgulanmış, markanın estetik ve fonksiyonel tasarım dilini ön plana çıkaran baskı çalışması.",
+    "image": "/9-Tas/Alesta-Katalog-Tasarimi.jpg",
+    "tags": [
+      "Katalog Tasarımı",
+      "Mobilya",
+      "Ev Yaşamı",
+      "Modern Tasarım",
+      "Ürün Kataloğu",
+      "Baskı"
+    ],
+    "client": "Alesta Life",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Alesta Life markası için tasarlanan doğal ve modern mobilya ürün kataloğu"
+  },
+  {
+    "id": "175",
+    "title": "Uluslararası Lojistik ve Toptan Satış Afiş Tasarımı",
+    "category": "Afiş Tasarımı",
+    "description": "Almanya merkezli toptan satış ve lojistik firması için hazırlanan afiş tasarımı. Hava, deniz ve kara taşımacılığını tek bir görsel kompozisyonda birleştiren çalışma; küresel ticaret ağı, güçlü marka iş birlikleri ve uluslararası operasyon kabiliyetini vurgulayan dinamik ve etkileyici bir görsel dil sunmaktadır.",
+    "image": "/9-Tas/Almanya-Afis.jpg",
+    "tags": [
+      "Afiş Tasarımı",
+      "Lojistik",
+      "Uluslararası Ticaret",
+      "Toptan Satış",
+      "Kurumsal Tasarım",
+      "Baskı"
+    ],
+    "client": "Almanya Merkezli Toptan Satış Firması",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Uluslararası lojistik ve toptan satış faaliyetlerini yansıtan hava, deniz ve kara taşımacılığı temalı afiş tasarımı"
+  },
+  {
+    "id": "176",
+    "title": "Almin Alüminyum Profil Katalog Tasarımı",
+    "category": "Katalog Tasarımı",
+    "description": "Almin Alüminyum Profil markası için hazırlanan ürün kataloğu tasarımı. Endüstriyel yapıyı ve teknik gücü yansıtan metal dokulu zemin, geometrik çizgiler ve kurumsal renk kullanımıyla oluşturulmuş, markanın profesyonel ve güven veren kimliğini ön plana çıkaran bir baskı çalışması.",
+    "image": "/9-Tas/Almin-Katalog-Tasarimi.jpg",
+    "tags": [
+      "Katalog Tasarımı",
+      "Endüstriyel Tasarım",
+      "Alüminyum Profil",
+      "Kurumsal Kimlik",
+      "Ürün Kataloğu",
+      "Baskı"
+    ],
+    "client": "Almin Alüminyum Profil",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Almin Alüminyum Profil markası için tasarlanan endüstriyel ve kurumsal katalog kapak tasarımı"
+  },
+  {
+    "id": "177",
+    "title": "İçimizdeki Ayana Kitap Kapak Tasarımı",
+    "category": "Kitap Tasarımı",
+    "description": "Emin Orhan Uygur’un romanı İçimizdeki Ayana için hazırlanan kitap kapak tasarımı. Güçlü bir hikâye atmosferi oluşturmak amacıyla karakter ve mekân ilişkisini merkeze alan fotoğraf kullanımı, sinematik renk tonları ve etkileyici tipografiyle kurgulanmış, duygusal ve derinlikli bir görsel anlatım sunan baskı çalışması.",
+    "image": "/9-Tas/Ayana-Kitap-Tasarimi.jpg",
+    "tags": [
+      "Kitap Tasarımı",
+      "Roman",
+      "Kapak Tasarımı",
+      "Yayın Tasarımı",
+      "Sinematik Tasarım",
+      "Baskı"
+    ],
+    "client": "Emin Orhan Uygur",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "İçimizdeki Ayana romanı için tasarlanan sinematik ve hikâye odaklı kitap kapak tasarımı"
+  },
+  {
+    "id": "178",
+    "title": "Dr. Lavender Organik Bebek Sabunu Ambalaj Tasarımı",
+    "category": "Ambalaj Tasarımı",
+    "description": "Dr. Lavender markası için tasarlanan Organik Lavender Baby Soap ambalaj çalışması. Doğal içerik vurgusunu ön plana çıkaran pastel tonlar, lavanta illüstrasyonları ve sade tipografi ile hazırlanmış; bebeklere özel güvenli ve bitkisel formülü yansıtan sıcak ve güven veren bir tasarım.",
+    "image": "/9-Tas/Bebek-sabunu.jpg",
+    "tags": [
+      "Ambalaj Tasarımı",
+      "Kozmetik",
+      "Bebek Ürünleri",
+      "Organik Ürün",
+      "Doğal Bakım",
+      "Baskı"
+    ],
+    "client": "Dr. Lavender",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Dr. Lavender markasına ait organik bebek sabunu için tasarlanan doğal ve pastel tonlu ambalaj tasarımı"
+  },
+  {
+    "id": "179",
+    "title": "Arete Değer Kaybı Başvuru Noktası Afiş Tasarımı",
+    "category": "Afiş Tasarımı",
+    "description": "Arete marka danışmanlık firması için hazırlanan değer kaybı başvuru noktası afiş tasarımı. Otomotiv teması üzerinden kurgulanan çalışma; güçlü tipografi, dikkat çekici kırmızı vurgular ve dinamik araç görselleriyle hizmetin finansal faydasını ön plana çıkaran etkileyici bir tanıtım tasarımı sunmaktadır.",
+    "image": "/9-Tas/Bebek-sabunu.png",
+    "tags": [
+      "Afiş Tasarımı",
+      "Otomotiv",
+      "Reklam Tasarımı",
+      "Kurumsal Tanıtım",
+      "Finans",
+      "Baskı"
+    ],
+    "client": "Arete Marka Danışmanlık",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Arete için tasarlanan otomotiv temalı değer kaybı başvuru noktası afiş tasarımı"
+  },
+  {
+    "id": "180",
+    "title": "Big Yellow Taksi Menü Tasarımı",
+    "category": "Menü Tasarımı",
+    "description": "Big Yellow Taksi markası için hazırlanan restoran menü tasarımı. Markanın ikonik sarı-siyah renk paletini öne çıkaran çalışma; okunabilir tipografi, görsel yemek sunumları ve düzenli kategori yapısıyla hem işlevsel hem de dikkat çekici bir kullanıcı deneyimi sunacak şekilde kurgulanmıştır.",
+    "image": "/9-Tas/Big-Yellow-Taksi-Menu.jpg",
+    "tags": [
+      "Menü Tasarımı",
+      "Restoran",
+      "Kafe",
+      "Kurumsal Kimlik",
+      "Yiyecek & İçecek",
+      "Baskı"
+    ],
+    "client": "Big Yellow Taksi",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Big Yellow Taksi restoranı için tasarlanan sarı ve siyah renkli modern menü tasarımı"
+  },
+  {
+    "id": "181",
+    "title": "Big Yellow Taksi Menü Tasarımı (Alternatif Sunum)",
+    "category": "Menü Tasarımı",
+    "description": "Big Yellow Taksi markası için hazırlanan alternatif menü sunum tasarımı. Sarı ve siyah renklerin güçlü kontrastı ile oluşturulan çalışma; detaylı ürün listeleri, yüksek okunabilirlik ve iştah açıcı görsellerle desteklenmiş, modern kafe–restoran konseptine uygun fonksiyonel bir baskı tasarımıdır.",
+    "image": "/9-Tas/Big-Yellow-Taksi-Menu.png",
+    "tags": [
+      "Menü Tasarımı",
+      "Restoran Menüsü",
+      "Kafe Tasarımı",
+      "Kurumsal Kimlik",
+      "Yiyecek & İçecek",
+      "Baskı"
+    ],
+    "client": "Big Yellow Taksi",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Big Yellow Taksi için tasarlanan sarı-siyah renkli, detaylı ve modern restoran menü tasarımı"
+  },
+  {
+    "id": "182",
+    "title": "Big Yellow Taksi Yelken Bayrak Tasarımı",
+    "category": "Açık Hava Reklam Tasarımı",
+    "description": "Big Yellow Taksi markası için hazırlanan yelken bayrak tasarımı. Markanın kırmızı ve sarı kurumsal renkleriyle dikkat çekici bir açık hava reklam uygulaması olarak tasarlanan çalışma; güçlü tipografi, dinamik kompozisyon ve marka logosu kullanımıyla sokak görünürlüğünü artırmayı hedefleyen etkili bir tanıtım tasarımıdır.",
+    "image": "public/9-Tas/Big-Yellow-Taksi-Yelken-Bayrak.png",
+    "tags": [
+      "Açık Hava Reklam",
+      "Yelken Bayrak",
+      "Restoran Tanıtım",
+      "Kurumsal Kimlik",
+      "Reklam Tasarımı",
+      "Baskı"
+    ],
+    "client": "Big Yellow Taksi",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Big Yellow Taksi için tasarlanan kırmızı ve sarı renkli açık hava yelken bayrak tasarımı"
+  },
+  {
+    "id": "183",
+    "title": "Biliz Limon Kolonya Çanta Tasarımı",
+    "category": "Ambalaj Tasarımı",
+    "description": "Biliz markası için hazırlanan limon kolonyası alışveriş çantası tasarımı. Doğal limon illüstrasyonu, koyu zemin üzerinde güçlü kontrast oluşturan renk paleti ve modern tipografiyle kurgulanan çalışma; markanın ferah, doğal ve premium algısını şehir yaşamı içinde etkili bir şekilde yansıtan tanıtım tasarımıdır.",
+    "image": "/9-Tas/Canta---1.png",
+    "tags": [
+      "Ambalaj Tasarımı",
+      "Alışveriş Çantası",
+      "Kozmetik",
+      "Kolonya",
+      "Marka Kimliği",
+      "Baskı"
+    ],
+    "client": "Biliz",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Biliz markasına ait limon kolonyası için tasarlanan modern ve dikkat çekici alışveriş çantası tasarımı"
+  },
+  {
+    "id": "184",
+    "title": "Erenler Anaokulu Cepli Dosya Tasarımı",
+    "category": "Kurumsal Kimlik Tasarımı",
+    "description": "Erenler Anaokulu için hazırlanan cepli dosya tasarımı. Çocukların hayal gücünü ve eğitimin renkli dünyasını yansıtan illüstratif ağaç figürü, pastel ve canlı renk paletiyle desteklenmiş; kurumsal kimliği sıcak, samimi ve güven veren bir görsel dille ifade eden baskı çalışması.",
+    "image": "/9-Tas/Cepli-Dosya-2.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Cepli Dosya",
+      "Eğitim",
+      "Anaokulu",
+      "Kurumsal Tasarım",
+      "Baskı"
+    ],
+    "client": "Erenler Anaokulu",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Erenler Anaokulu için tasarlanan renkli ve çocuk odaklı kurumsal cepli dosya tasarımı"
+  },
+  {
+    "id": "185",
+    "title": "Erenler Anaokulu Cepli Dosya Tasarımı",
+    "category": "Kurumsal Kimlik Tasarımı",
+    "description": "Erenler Anaokulu için hazırlanan cepli dosya tasarımı. Çocukların hayal gücünü ve eğitimin renkli dünyasını yansıtan illüstratif ağaç figürü, pastel ve canlı renk paletiyle desteklenmiş; kurumsal kimliği sıcak, samimi ve güven veren bir görsel dille ifade eden baskı çalışması.",
+    "image": "/9-Tas/Cepli-Dosya-3.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Cepli Dosya",
+      "Eğitim",
+      "Anaokulu",
+      "Kurumsal Tasarım",
+      "Baskı"
+    ],
+    "client": "Erenler Anaokulu",
+    "year": "2024",
+    "tur": [
+      "kimlik"
+    ],
+    "alt": "Erenler Anaokulu için tasarlanan renkli ve çocuk odaklı kurumsal cepli dosya tasarımı"
+  },
+  {
+    "id": "186",
+    "title": "Biliz Limon Kolonyası Şişe Tasarımı",
+    "category": "Ambalaj Tasarımı",
+    "description": "Biliz markası için hazırlanan çizgili şişe formuna sahip limon kolonyası tasarımı. Modern ve dinamik bir arka plan kurgusu ile sunulan çalışma; şeffaf ambalaj, güçlü etiket tasarımı ve ferahlık hissini vurgulayan sarı tonlarla markanın enerjik ve yenilikçi yüzünü ön plana çıkarmaktadır.",
+    "image": "/9-Tas/Cizgili-Sise---2.png",
+    "tags": [
+      "Ambalaj Tasarımı",
+      "Kozmetik",
+      "Kolonya",
+      "Ürün Tasarımı",
+      "Marka Kimliği",
+      "Dijital Sunum"
+    ],
+    "client": "Biliz",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Biliz markasına ait çizgili şişe tasarımına sahip limon kolonyası ürün görseli"
+  },
+  {
+    "id": "187",
+    "title": "Surakatra & Dümen Zeka Oyunu Kutu Tasarımı",
+    "category": "Ambalaj Tasarımı",
+    "description": "Strateji ve zeka gelişimini destekleyen Surakatra & Dümen masa oyunu için hazırlanan kutu tasarımı. Dinamik mavi tonlar, oyun tahtası görselleri ve eğitici içerik vurgularıyla kurgulanan çalışma; hem çocuklara hem de ailelere hitap eden eğlenceli ve öğretici bir ambalaj dili sunmaktadır.",
+    "image": "/9-Tas/DÅmen.png",
+    "tags": [
+      "Ambalaj Tasarımı",
+      "Kutu Tasarımı",
+      "Zeka Oyunu",
+      "Strateji Oyunu",
+      "Eğitici Oyuncak",
+      "Baskı"
+    ],
+    "client": "Özbir Zeka",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "Surakatra ve Dümen strateji oyunu için tasarlanan mavi tonlu eğitici kutu ambalaj tasarımı"
+  },
+  {
+    "id": "188",
+    "title": "De-Ki Kitap Kapak Tasarımı",
+    "category": "Kitap Tasarımı",
+    "description": "De-Ki adlı eser için hazırlanan kitap kapak tasarımı. Sade ve modern bir tipografi anlayışıyla kurgulanan çalışma; açık tonlu arka plan ve minimal grafik detaylarla desteklenerek eserin akademik ve bilgilendirici kimliğini ön plana çıkaran bir görsel dil sunmaktadır.",
+    "image": "/9-Tas/De-ki-Kapak.png",
+    "tags": [
+      "Kitap Tasarımı",
+      "Kapak Tasarımı",
+      "Yayın Tasarımı",
+      "Minimal Tasarım",
+      "Baskı"
+    ],
+    "client": "Bağımsız Yayın",
+    "year": "2024",
+    "tur": [
+      "baski"
+    ],
+    "alt": "De-Ki kitabı için tasarlanan sade ve modern kapak tasarımı"
+  },
+  {
+    "id": "189",
+    "title": "Depo 54 Epoksi Sehpa Tasarımı",
+    "category": "Ürün Tasarımı",
+    "description": "Depo 54 için tasarlanan yuvarlak epoksi sehpa çalışması. Doğal ahşap dokusu ile mavi epoksi reçinenin akışkan formunu bir araya getiren tasarım; modern yaşam alanlarına karakter katan, el işçiliği hissi güçlü ve estetik değeri yüksek bir mobilya ürünü olarak kurgulanmıştır.",
+    "image": "/9-Tas/Depo-54-1.png",
+    "tags": [
+      "Ürün Tasarımı",
+      "Mobilya",
+      "Epoksi",
+      "Ahşap",
+      "Modern Tasarım",
+      "İç Mekân"
+    ],
+    "client": "Depo 54",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Depo 54 için tasarlanan doğal ahşap ve mavi epoksi detaylı modern sehpa tasarımı"
+  },
+  {
+    "id": "190",
+    "title": "Depo 54 Epoksi Sehpa Tasarımı",
+    "category": "Ürün Tasarımı",
+    "description": "Depo 54 için tasarlanan yuvarlak epoksi sehpa çalışması. Doğal ahşap dokusu ile mavi epoksi reçinenin akışkan formunu bir araya getiren tasarım; modern yaşam alanlarına karakter katan, el işçiliği hissi güçlü ve estetik değeri yüksek bir mobilya ürünü olarak kurgulanmıştır.",
+    "image": "/9-Tas/Depo-54-3.png",
+    "tags": [
+      "Ürün Tasarımı",
+      "Mobilya",
+      "Epoksi",
+      "Ahşap",
+      "Modern Tasarım",
+      "İç Mekân"
+    ],
+    "client": "Depo 54",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Depo 54 için tasarlanan doğal ahşap ve mavi epoksi detaylı modern sehpa tasarımı"
+  },
+  {
+    "id": "191",
+    "title": "Depo 54 Epoksi Sehpa Tasarımı",
+    "category": "Ürün Tasarımı",
+    "description": "Depo 54 için tasarlanan yuvarlak epoksi sehpa çalışması. Doğal ahşap dokusu ile mavi epoksi reçinenin akışkan formunu bir araya getiren tasarım; modern yaşam alanlarına karakter katan, el işçiliği hissi güçlü ve estetik değeri yüksek bir mobilya ürünü olarak kurgulanmıştır.",
+    "image": "/9-Tas/Depo-54-2.png",
+    "tags": [
+      "Ürün Tasarımı",
+      "Mobilya",
+      "Epoksi",
+      "Ahşap",
+      "Modern Tasarım",
+      "İç Mekân"
+    ],
+    "client": "Depo 54",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Depo 54 için tasarlanan doğal ahşap ve mavi epoksi detaylı modern sehpa tasarımı"
+  },
+  {
+    "id": "192",
+    "title": "Deto Life Ürün Ambalaj Tasarımı",
+    "category": "Ambalaj Tasarımı",
+    "description": "Deto Life markası için hazırlanan bitkisel içerikli ürün ambalaj tasarımı. Spor ve aktif yaşam temasını destekleyen dinamik görsel dil, kırmızı-beyaz renk kontrastı ve sade tipografi ile kurgulanan çalışma; ürünün enerji, denge ve sağlıklı yaşam odağını güçlü bir şekilde yansıtmaktadır.",
+    "image": "/9-Tas/Deto-Life.png",
+    "tags": [
+      "Ambalaj Tasarımı",
+      "Sağlık",
+      "Wellness",
+      "Spor",
+      "Ürün Tasarımı"
+    ],
+    "client": "Deto Life",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Deto Life markasına ait spor ve sağlıklı yaşam temalı ürün ambalaj tasarımı"
+  },
+  {
+    "id": "193",
+    "title": "Dünya Mutfağı Menü Tasarımı",
+    "category": "Menü Tasarımı",
+    "description": "Dünya Mutfağı konsepti için hazırlanan menü tasarımı. Turuncu tonların enerjik geçişleri ve iştah açıcı ürün görselleriyle kurgulanan çalışma; kategori düzeni, okunabilir tipografi ve modern grafik detaylarla desteklenerek restoran deneyimini güçlendiren etkili bir tasarım sunmaktadır.",
+    "image": "/9-Tas/Dunya-Mutfagi-2.png",
+    "tags": [
+      "Menü Tasarımı",
+      "Restoran",
+      "Yiyecek & İçecek",
+      "Grafik Tasarım",
+      "Baskı Tasarımı"
+    ],
+    "client": "Dünya Mutfağı",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Dünya Mutfağı için tasarlanan turuncu tonlu modern restoran menü tasarımı"
+  },
+  {
+    "id": "194",
+    "title": "Dünya Mutfağı Menü Tasarımı",
+    "category": "Menü Tasarımı",
+    "description": "Dünya Mutfağı konsepti için hazırlanan menü tasarımı. Turuncu tonların enerjik geçişleri ve iştah açıcı ürün görselleriyle kurgulanan çalışma; kategori düzeni, okunabilir tipografi ve modern grafik detaylarla desteklenerek restoran deneyimini güçlendiren etkili bir tasarım sunmaktadır.",
+    "image": "/9-Tas/Dunya-Mutfagi.png",
+    "tags": [
+      "Menü Tasarımı",
+      "Restoran",
+      "Yiyecek & İçecek",
+      "Grafik Tasarım",
+      "Baskı Tasarımı"
+    ],
+    "client": "Dünya Mutfağı",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Dünya Mutfağı için tasarlanan turuncu tonlu modern restoran menü tasarımı"
+  },
+  {
+    "id": "195",
+    "title": "Enginar Tarlada Ürün Ambalaj Tasarımı",
+    "category": "Ambalaj Tasarımı",
+    "description": "Enginar Tarlada markası için hazırlanan ürün kutu ambalaj tasarımı. Doğal kraft kutu yüzeyi, sevimli maskot karakter illüstrasyonu ve canlı yeşil tonlarıyla kurgulanan çalışma; tazelik, doğallık ve yerli üretim vurgusunu güçlü bir görsel kimlikle desteklemektedir.",
+    "image": "/9-Tas/Engi.png",
+    "tags": [
+      "Ambalaj Tasarımı",
+      "Gıda",
+      "Organik Ürün",
+      "Maskot Tasarım",
+      "Marka Tasarımı"
+    ],
+    "client": "Enginar Tarlada",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Enginar Tarlada markasına ait sevimli maskotlu doğal ürün ambalaj tasarımı"
+  },
+  {
+    "id": "196",
+    "title": "Feslegend Sos Ambalaj Tasarımı",
+    "category": "Ambalaj Tasarımı",
+    "description": "Feslegend markası için hazırlanan fesleğen bazlı sos ambalaj tasarımı. Şeffaf kap formu sayesinde ürün içeriğini ön plana çıkaran tasarım; yeşil tonların hâkim olduğu etiket dili, yaprak ikonları ve sade tipografi ile Ege’den gelen tazelik ve doğallık vurgusunu güçlü bir şekilde yansıtmaktadır.",
+    "image": "/9-Tas/Feslegend.png",
+    "tags": [
+      "Ambalaj Tasarımı",
+      "Gıda",
+      "Sos",
+      "Doğal Ürün",
+      "Marka Tasarımı"
+    ],
+    "client": "Feslegend",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Feslegend markasına ait fesleğen bazlı doğal sos için tasarlanan yeşil tonlu ambalaj tasarımı"
+  },
+  {
+    "id": "197",
+    "title": "Fimaksan Endüstriyel Ürün Afiş Tasarımı",
+    "category": "Afiş Tasarımı",
+    "description": "Fimaksan markası için hazırlanan endüstriyel ürün afiş tasarımı. Teknik detayların ön planda olduğu bu çalışma; koyu zemin üzerine yerleştirilen makine görselleri, bilgilendirici metin blokları ve QR kod entegrasyonu ile profesyonel, güven veren ve yüksek teknoloji odaklı bir tanıtım dili sunmaktadır.",
+    "image": "/9-Tas/Fimaksan-Afiü.png",
+    "tags": [
+      "Afiş Tasarımı",
+      "Endüstriyel Tasarım",
+      "Makine",
+      "Kurumsal Tanıtım",
+      "B2B"
+    ],
+    "client": "Fimaksan",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Fimaksan için tasarlanan endüstriyel makine ve teknik detay odaklı kurumsal afiş tasarımı"
+  },
+  {
+    "id": "198",
+    "title": "Formcure 9 Gün Zayıflama Programı Afiş Tasarımı",
+    "category": "Afiş Tasarımı",
+    "description": "Formcure markası için hazırlanan 9 gün zayıflama programı afiş tasarımı. Dinamik insan silüeti, enerjik renk geçişleri ve modern grafik formlar ile kurgulanan çalışma; sağlıklı yaşam, hareket ve dönüşüm temasını güçlü bir görsel anlatımla yansıtmaktadır.",
+    "image": "/9-Tas/Formcure-9-gÅn-zayçflama.jpg",
+    "tags": [
+      "Afiş Tasarımı",
+      "Sağlık",
+      "Fitness",
+      "Wellness",
+      "Reklam Tasarımı"
+    ],
+    "client": "Formcure",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski",
+      "sosyal"
+    ],
+    "alt": "Formcure 9 gün zayıflama programı için tasarlanan dinamik ve renkli afiş tasarımı"
+  },
+  {
+    "id": "199",
+    "title": "Galaxy Home Basement Broşür Tasarımı",
+    "category": "Broşür Tasarımı",
+    "description": "Galaxy Home Basement firması için hazırlanan tanıtım broşürü tasarımı. Modern iç mekân görselleri, güçlü başlık hiyerarşisi ve hizmet maddelerini vurgulayan renkli bilgi bloklarıyla kurgulanan çalışma; profesyonel, güven veren ve dönüşüm odaklı bir pazarlama dili sunmaktadır.",
+    "image": "/9-Tas/Galaksi-Home-Broshure.png",
+    "tags": [
+      "Broşür Tasarımı",
+      "Kurumsal Tanıtım",
+      "İnşaat",
+      "Reklam Tasarımı",
+      "Baskı"
+    ],
+    "client": "Galaxy Home Basement",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Galaxy Home Basement için tasarlanan modern ve profesyonel hizmet tanıtım broşürü"
+  },
+  {
+    "id": "200",
+    "title": "Gar Kafe Menü Tasarımı",
+    "category": "Menü Tasarımı",
+    "description": "Gar Kafe için hazırlanan şık ve dikkat çekici menü tasarımı. Zengin kahvaltı sunum görselleri, sıcak renk paleti ve klasik çerçeve detaylarıyla kurgulanan çalışma; hem iştah açıcı hem de marka kimliğini güçlendiren bir tasarım dili sunmaktadır.",
+    "image": "/9-Tas/Gar-Kafe-Menu.png",
+    "tags": [
+      "Menü Tasarımı",
+      "Kafe",
+      "Restoran",
+      "Baskı",
+      "Grafik Tasarım"
+    ],
+    "client": "Gar Kafe",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Gar Kafe için hazırlanan kahvaltı konseptli modern menü tasarımı"
+  },
+  {
+    "id": "201",
+    "title": "Gar Kafe Menü Tasarımı (Siyah Konsept)",
+    "category": "Menü Tasarımı",
+    "description": "Gar Kafe için hazırlanan siyah zeminli modern menü tasarımı. Sarı vurgu renkleri ve çerçeve detaylarıyla oluşturulan tasarım; kahvaltı ve ana yemek kategorilerini net bir hiyerarşi ile sunarak hem şık hem de okunabilir bir yapı sağlamaktadır.",
+    "image": "/9-Tas/Gar-Kafe.png",
+    "tags": [
+      "Menü Tasarımı",
+      "Kafe",
+      "Restoran",
+      "Grafik Tasarım",
+      "Baskı"
+    ],
+    "client": "Gar Kafe",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Gar Kafe için hazırlanan siyah zeminli modern restoran menü tasarımı"
+  },
+  {
+    "id": "202",
+    "title": "Geleneksel Yaşam Hacamat Noktaları Afişi",
+    "category": "Afiş Tasarımı",
+    "description": "Geleneksel Yaşam merkezi için hazırlanan hacamat noktaları bilgilendirme afişi tasarımı. İnsan anatomisi üzerinde uygulama bölgelerini detaylı şekilde gösteren görsel anlatım, açıklayıcı metin blokları ve iletişim bilgileri ile desteklenerek hem bilgilendirici hem de dikkat çekici bir duvar afişi çalışması oluşturulmuştur.",
+    "image": "/9-Tas/Geleneksel-Yasam.png",
+    "tags": [
+      "Afiş Tasarımı",
+      "Sağlık",
+      "Bilgilendirme",
+      "Medikal Tasarım",
+      "Baskı"
+    ],
+    "client": "Geleneksel Yaşam",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Geleneksel Yaşam için hazırlanan hacamat noktaları bilgilendirme afiş tasarımı"
+  },
+  {
+    "id": "203",
+    "title": "Gezella Spor Ayakkabı Ürün Görseli",
+    "category": "Ürün Tasarımı",
+    "description": "Gezella Shoes markası için hazırlanan modern spor ayakkabı ürün görseli. Minimal çizgiler, beyaz zemin ve yeşil marka vurgularıyla oluşturulan tasarım; markanın sade, konfor odaklı ve çağdaş stilini ön plana çıkaran profesyonel bir ürün sunumu niteliği taşımaktadır.",
+    "image": "/9-Tas/Gezella.jpg",
+    "tags": [
+      "Ürün Tasarımı",
+      "Ayakkabı",
+      "Marka Tasarımı",
+      "Mockup",
+      "Minimal Tasarım"
+    ],
+    "client": "Gezella Shoes",
+    "year": "2024",
+    "tur": [
+      "tasarim"
+    ],
+    "alt": "Gezella markası için tasarlanan modern ve minimal spor ayakkabı ürün görseli"
+  },
+  {
+    "id": "204",
+    "title": "GO Strateji Oyunu Kutu Tasarımı",
+    "category": "Baskı / Tasarım",
+    "description": "GO (4000 Yıllık Strateji Oyunu) için hazırlanan modern ve dikkat çekici kutu tasarımı. Minimal beyaz zemin üzerine yerleştirilen dairesel pencere detayları ve oyun taşları görselleriyle ürünün içeriği güçlü biçimde vurgulanmıştır. Tasarım; hem raflarda öne çıkmayı hem de strateji oyunlarının zamansız ruhunu yansıtmayı hedeflemektedir.",
+    "image": "/9-Tas/Go.png",
+    "tags": [
+      "Baskı Tasarımı",
+      "Kutu Tasarımı",
+      "Oyun Tasarımı",
+      "Ürün Ambalajı",
+      "Strateji Oyunu"
+    ],
+    "client": "Özer Games",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "GO strateji oyunu için tasarlanan modern ve sade kutu ambalaj tasarımı"
+  },
+  {
+    "id": "205",
+    "title": "Görülmüştür Kitap Kapak Tasarımı",
+    "category": "Baskı / Tasarım",
+    "description": "Mehmet Yıldız’a ait “Görülmüştür” kitabı için hazırlanan, duygu yüklü ve hikâye anlatımı güçlü kapak tasarımı. Eski belge dokuları, damga detayı ve sıcak tonlarla kurgulanan tasarım; kitabın içeriğindeki geçmiş, hatıra ve içsel sorgulama temasını görsel olarak desteklemektedir.",
+    "image": "/9-Tas/Gorulmustur.png",
+    "tags": [
+      "Kitap Kapağı",
+      "Kapak Tasarımı",
+      "Baskı Tasarımı",
+      "Yayın Tasarımı",
+      "Grafik Tasarım"
+    ],
+    "client": "Mehmet Yıldız",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Görülmüştür kitabı için hazırlanan nostaljik ve anlatı odaklı kapak tasarımı"
+  },
+  {
+    "id": "206",
+    "title": "Hızlı Dedektif Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Çocuklara yönelik hazırlanan “Hızlı Dedektif” zeka ve dikkat oyunu için tasarlanan enerjik ve dikkat çekici kutu tasarımı. Dinamik tipografi, çizgi karakter illüstrasyonu ve hareketli arka plan kompozisyonu ile hız, refleks ve eğlence teması ön plana çıkarılmıştır.",
+    "image": "/9-Tas/Hçzlç-Dedektif.png",
+    "tags": [
+      "Kutu Tasarımı",
+      "Oyun Tasarımı",
+      "Ambalaj Tasarımı",
+      "Çocuk Oyunu",
+      "Grafik Tasarım"
+    ],
+    "client": "Özder Oyuncak",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Hızlı Dedektif çocuk oyunu için tasarlanan renkli ve dinamik kutu tasarımı"
+  },
+  {
+    "id": "207",
+    "title": "Karadeniz Sofrası Menü Tasarımı",
+    "category": "Menü Tasarımı",
+    "description": "Karadeniz Sofrası markası için hazırlanan, yöresel lezzetleri ön plana çıkaran dikkat çekici ayaklı menü tasarımı. Doğal taş ve yeşil doğa görselleri ile bölgesel kimlik vurgulanmış, güçlü tipografi ve iştah açıcı yemek fotoğraflarıyla marka algısı desteklenmiştir.",
+    "image": "/9-Tas/Karadeniz-Sofrasç-MenÅ.png",
+    "tags": [
+      "Menü Tasarımı",
+      "Restoran Tasarımı",
+      "Baskı Tasarımı",
+      "Grafik Tasarım",
+      "Kurumsal Kimlik"
+    ],
+    "client": "Karadeniz Sofrası",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski",
+      "kimlik"
+    ],
+    "alt": "Karadeniz Sofrası için hazırlanan yöresel lezzet temalı ayaklı restoran menü tasarımı"
+  },
+  {
+    "id": "208",
+    "title": "Karagöz İnşaat Billboard Tasarımı",
+    "category": "Billboard Tasarımı",
+    "description": "Karagöz İnşaat için hazırlanan modern ve güven odaklı billboard tasarımı. Proje görselleri, güçlü tipografi ve kurumsal renk paleti kullanılarak marka bilinirliği artırılmış, 'Hep birlikte tek adreste' sloganı ile bütüncül yaşam konsepti vurgulanmıştır.",
+    "image": "/9-Tas/Karagîz-ònüaat-Billboard.png",
+    "tags": [
+      "Billboard Tasarımı",
+      "Açık Hava Reklam",
+      "Baskı Tasarımı",
+      "Grafik Tasarım",
+      "Kurumsal Kimlik"
+    ],
+    "client": "Karagöz İnşaat",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski",
+      "kimlik"
+    ],
+    "alt": "Karagöz İnşaat için hazırlanan kurumsal açık hava billboard reklam tasarımı"
+  },
+  {
+    "id": "209",
+    "title": "Kardeşler Dondurma Menü Tasarımı",
+    "category": "Menü Tasarımı",
+    "description": "Kardeşler Dondurma için hazırlanan modern ve iştah açıcı menü tasarımı. Ürün görselleri, fiyat bilgileri ve kategori ayrımları sade bir kompozisyonla sunularak marka kimliği güçlendirilmiş ve müşteri deneyimi ön planda tutulmuştur.",
+    "image": "/9-Tas/Kardeüler-Dondurma-MenÅ.png",
+    "tags": [
+      "Menü Tasarımı",
+      "Baskı Tasarımı",
+      "Grafik Tasarım",
+      "Restoran Menü",
+      "Kurumsal Kimlik"
+    ],
+    "client": "Kardeşler Dondurma",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski",
+      "kimlik"
+    ],
+    "alt": "Kardeşler Dondurma için hazırlanan baskıya uygun menü tasarımı"
+  },
+  {
+    "id": "210",
+    "title": "Erenler Anaokulu Kartvizit Tasarımı",
+    "category": "Kartvizit Tasarımı",
+    "description": "Erenler Anaokulu için hazırlanan renkli ve kurumsal kartvizit tasarımı. Eğitim temasını yansıtan ikonografi, QR kod entegrasyonu ve sade tipografi ile hem modern hem de güven veren bir kurumsal kimlik dili oluşturulmuştur.",
+    "image": "/9-Tas/Kartvizit---1.png",
+    "tags": [
+      "Kartvizit Tasarımı",
+      "Baskı Tasarımı",
+      "Grafik Tasarım",
+      "Kurumsal Kimlik",
+      "Eğitim"
+    ],
+    "client": "Erenler Anaokulu",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski",
+      "kimlik"
+    ],
+    "alt": "Erenler Anaokulu için hazırlanan kurumsal kartvizit tasarımı"
+  },
+  {
+    "id": "211",
+    "title": "Bigg Pizza Kasa Önü Menü Tasarımı",
+    "category": "Kasa Önü Menü Tasarımı",
+    "description": "Bigg Pizza için hazırlanan kasa önü menü tasarımı. Ürün görselleri, kampanya içerikleri ve fiyat bilgileri dikkat çekici tipografi ve koyu zemin üzerinde kontrast renklerle sunularak satış alanında maksimum görünürlük hedeflenmiştir.",
+    "image": "/9-Tas/Kasa-Onu-Tasarim-Bigg-Pizza.png",
+    "tags": [
+      "Kasa Önü Tasarım",
+      "Menü Tasarımı",
+      "Baskı Tasarımı",
+      "Grafik Tasarım",
+      "Restoran Tasarımı"
+    ],
+    "client": "Bigg Pizza",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Bigg Pizza için hazırlanan kasa önü menü ve ürün tanıtım tasarımı"
+  },
+  {
+    "id": "212",
+    "title": "SC Group Katalog Tasarımı",
+    "category": "Katalog Tasarımı",
+    "description": "SC Group için hazırlanan modern ve kurumsal katalog tasarımı. Siyah-beyaz fotoğraf dili, güçlü tipografi ve sade kompozisyon ile markanın profesyonel ve endüstriyel kimliği vurgulanmıştır.",
+    "image": "/9-Tas/Katalog-SC-Group.png",
+    "tags": [
+      "Katalog Tasarımı",
+      "Baskı Tasarımı",
+      "Kurumsal Tasarım",
+      "Grafik Tasarım",
+      "Endüstriyel Tasarım"
+    ],
+    "client": "SC Group",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski",
+      "kimlik"
+    ],
+    "alt": "SC Group için hazırlanan kurumsal katalog kapak tasarımı"
+  },
+  {
+    "id": "213",
+    "title": "Zenyat Yatak Katalog Tasarımı",
+    "category": "Katalog Tasarımı",
+    "description": "Zenyat Yatak markası için hazırlanan modern ve şık ürün katalog tasarımı. Minimal yerleşim, güçlü görsel kullanımı ve pembe vurgu renkleriyle markanın estetik ve konfor odaklı kimliği ön plana çıkarılmıştır.",
+    "image": "/9-Tas/Katalog-Zenyat-Yatak.png",
+    "tags": [
+      "Katalog Tasarımı",
+      "Baskı Tasarımı",
+      "Ürün Kataloğu",
+      "Mobilya Tasarımı",
+      "Grafik Tasarım"
+    ],
+    "client": "Zenyat Yatak",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski",
+      "kimlik"
+    ],
+    "alt": "Zenyat Yatak için hazırlanan modern ürün katalog tasarımı"
+  },
+  {
+    "id": "214",
+    "title": "Kelime Oyunu Kutu Tasarımı",
+    "category": "Oyun Kutusu Tasarımı",
+    "description": "Kelime Oyunu için hazırlanan dikkat çekici ve eğitici kutu tasarımı. Zeka, hız ve dikkat temalarını yansıtan modern tipografi ve dinamik arka plan kullanımı ile hedef kitleye uygun enerjik bir tasarım oluşturulmuştur.",
+    "image": "/9-Tas/Kelime-Oyunu.png",
+    "tags": [
+      "Kutu Tasarımı",
+      "Oyun Tasarımı",
+      "Ambalaj Tasarımı",
+      "Grafik Tasarım",
+      "Ürün Tasarımı"
+    ],
+    "client": "Özer Oyun",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Kelime Oyunu için hazırlanan modern ve eğitici oyun kutusu tasarımı"
+  },
+  {
+    "id": "215",
+    "title": "BRT Zeka Oyunu Kutu ve Kart Tasarımı",
+    "category": "Oyun Kutusu Tasarımı",
+    "description": "BRT (Beynin Renkli Tarafı) için hazırlanan eğitici ve eğlenceli kutu ve kart tasarımı. Çocukların dikkat, algı ve hızlı düşünme becerilerini destekleyen; canlı renkler ve sade ikonografiyle güçlendirilmiş kullanıcı dostu bir tasarım dili benimsenmiştir.",
+    "image": "/9-Tas/Kutu-3.png",
+    "tags": [
+      "Oyun Tasarımı",
+      "Kutu Tasarımı",
+      "Kart Tasarımı",
+      "Eğitici Oyun",
+      "Grafik Tasarım"
+    ],
+    "client": "BRT",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "BRT Beynin Renkli Tarafı için hazırlanan çocuklara yönelik eğitici oyun kutusu ve kart tasarımı"
+  },
+  {
+    "id": "216",
+    "title": "Pilove Restoran Tabela ve Logo Tasarımı",
+    "category": "Kurumsal Kimlik Tasarımı",
+    "description": "Pilove markası için tasarlanan logo ve dış mekan tabela uygulaması. Geleneksel Türk sokak lezzetlerini yansıtan, ahşap zemin üzerine güçlü tipografi ile oluşturulmuş sıcak ve otantik bir marka kimliği çalışmasıdır.",
+    "image": "/9-Tas/Logo-Pilovw.png",
+    "tags": [
+      "Logo Tasarımı",
+      "Tabela Tasarımı",
+      "Kurumsal Kimlik",
+      "Restoran",
+      "Marka Tasarımı"
+    ],
+    "client": "Pilove",
+    "year": "2024",
+    "tur": [
+      "kimlik",
+      "tasarim"
+    ],
+    "alt": "Pilove authentic Turkish street food için tasarlanan ahşap zeminli dış mekan tabela ve logo tasarımı"
+  },
+  {
+    "id": "217",
+    "title": "Kafe Kahvaltı ve İçecek Menü Tasarımı",
+    "category": "Menü Tasarımı",
+    "description": "Kafe konsepti için hazırlanan kahvaltı, menemen, omlet ve sıcak-soğuk içecekleri kapsayan menü tasarımı. Siyah zemin üzerine sarı vurgularla güçlendirilmiş, okunabilirliği yüksek ve iştah açıcı görsellerle desteklenen modern bir baskı tasarımıdır.",
+    "image": "/9-Tas/MenÅ.png",
+    "tags": [
+      "Menü Tasarımı",
+      "Kafe",
+      "Restoran",
+      "Baskı Tasarımı",
+      "Grafik Tasarım"
+    ],
+    "client": "Özel Kafe Projesi",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Kahvaltı tabakları, menemen, omlet ve içecek çeşitlerini içeren siyah-sarı konseptli kafe menü tasarımı"
+  },
+  {
+    "id": "218",
+    "title": "Scedra Medical Group Kurumsal Kimlik & Ambalaj Mockup",
+    "category": "Kurumsal Kimlik",
+    "description": "Scedra Medical Group için hazırlanan kurumsal kimlik çalışmasının ambalaj ve promosyon ürünleri mockup sunumu. Alışveriş çantası, kozmetik/medikal ürün ambalajları ve kartvizit tasarımlarını kapsayan; sade, modern ve güven veren bir görsel dil ile oluşturulmuştur.",
+    "image": "/9-Tas/mockup-1768953225422.png",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Logo Uygulama",
+      "Ambalaj Tasarımı",
+      "Mockup",
+      "Medikal Tasarım",
+      "Marka Kimliği"
+    ],
+    "client": "Scedra Medical Group",
+    "year": "2024",
+    "tur": [
+      "branding",
+      "tasarim"
+    ],
+    "alt": "Scedra Medical Group logolu çanta, ürün ambalajları ve kartvizitten oluşan kurumsal kimlik mockup çalışması"
+  },
+  {
+    "id": "219",
+    "title": "Restoran Menü Tasarımı – Kahvaltı & İçecek Menüsü",
+    "category": "Baskı Tasarımı",
+    "description": "Restoran ve kafe işletmeleri için hazırlanan modern ve dikkat çekici menü tasarımı. Kahvaltı tabağı, menemen çeşitleri, omletler ve sıcak/soğuk içecek kategorileri net bir hiyerarşi ile sunulmuştur. Siyah zemin üzerine sarı detaylarla güçlü bir kontrast oluşturularak okunabilirlik artırılmıştır.",
+    "image": "/9-Tas/mockup-1768953300783.png",
+    "tags": [
+      "Menü Tasarımı",
+      "Restoran",
+      "Kafe",
+      "Baskı Tasarımı",
+      "Grafik Tasarım",
+      "Kurumsal Menü"
+    ],
+    "client": "Özel Proje",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Siyah ve sarı detaylara sahip kahvaltı ve içecek menüsünün masa üzerindeki mockup sunumu"
+  },
+  {
+    "id": "220",
+    "title": "Biliz Ayva Kolonyası Billboard Tasarımı",
+    "category": "Açık Hava Reklam Tasarımı",
+    "description": "Biliz markası için hazırlanan ayva kolonyası açık hava reklam tasarımı. Vintage tipografi, siyah zemin üzerine altın sarısı detaylar ve ürün görseli ile güçlü bir kontrast oluşturulmuştur. 'Geyve’de Ayvayı Yedik Sıra Kokusunda!' sloganı ile hem yöresel vurgu hem de akılda kalıcı bir mesaj hedeflenmiştir. Tasarım, mağaza dış cephe uygulaması için hazırlanmış billboard mockup çalışmasıdır.",
+    "image": "/9-Tas/mockup-1771156661201.png",
+    "tags": [
+      "Billboard Tasarımı",
+      "Açık Hava Reklam",
+      "Kolonya",
+      "Ambalaj Tasarımı",
+      "Reklam Tasarımı",
+      "Baskı"
+    ],
+    "client": "Biliz",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Mağaza dış cephesinde sergilenen Biliz Ayva Kolonyası billboard reklam tasarımı"
+  },
+  {
+    "id": "221",
+    "title": "Abalone Zeka Oyunu Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Abalone zeka oyunu için hazırlanan kutu tasarımı. Dinamik tipografi, üç boyutlu oyun taşları illüstrasyonu ve mavi–mor renk paleti ile dikkat çekici ve eğlenceli bir görsel dil oluşturulmuştur. Ürün; strateji, zeka ve aile oyunu vurgularını ön plana çıkaracak şekilde raf ve e-ticaret uyumlu olarak tasarlanmıştır.",
+    "image": "/9-Tas/Oz-Er-Abalone-Tasarimi.jpg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Oyun Tasarımı",
+      "Zeka Oyunu",
+      "Ambalaj Tasarımı",
+      "Baskı",
+      "Ürün Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Ahşap masa üzerinde sergilenen Abalone zeka oyunu kutu tasarımı"
+  },
+  {
+    "id": "222",
+    "title": "Hızlı Dedektif Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Hızlı Dedektif zeka oyunu için hazırlanan kutu tasarımı. Çocuklara yönelik enerjik illüstrasyonlar, canlı renk paleti ve dinamik tipografi ile dikkat çekici bir görsel dil oluşturulmuştur. Ürün; hız, dikkat, refleks ve eğlence vurgularını ön plana çıkaracak şekilde raf ve e-ticaret uyumlu olarak tasarlanmıştır.",
+    "image": "/9-Tas/Oz-Er-Dedektif-Tasarimi.jpg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Oyun Tasarımı",
+      "Zeka Oyunu",
+      "Ambalaj Tasarımı",
+      "Baskı",
+      "Çocuk Oyunu"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Cam masa üzerinde sergilenen Hızlı Dedektif zeka oyunu kutu tasarımı"
+  },
+  {
+    "id": "223",
+    "title": "9 Taş & 3 Taş Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "9 Taş & 3 Taş strateji oyunu için hazırlanan kutu tasarımı. Geleneksel zeka oyunlarını modern ve dikkat çekici bir görsel kimlikle buluşturan tasarımda canlı renk geçişleri, dinamik tipografi ve oyun tahtası görselleri ön plana çıkarılmıştır. Raf düzeninde güçlü görünüm ve çocuk/ailesel hedef kitleye hitap eden sade ama enerjik bir kompozisyon hedeflenmiştir.",
+    "image": "/9-Tas/Oz-Er-Dokuztas-Tasarimi.png",
+    "tags": [
+      "Kutu Tasarımı",
+      "Oyun Tasarımı",
+      "Strateji Oyunu",
+      "Zeka Oyunu",
+      "Ambalaj Tasarımı",
+      "Baskı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Mermer zemin üzerinde sergilenen 9 Taş & 3 Taş strateji oyunu kutu tasarımı"
+  },
+  {
+    "id": "224",
+    "title": "Surakarta & Dümen Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Surakarta & Dümen 2’si 1 arada strateji oyunu için hazırlanan kutu tasarımı. Modern mavi tonları, dinamik tipografi ve oyun tahtası görselleriyle zeka ve strateji vurgusu ön plana çıkarılmıştır. Çocuk ve aile hedef kitlesine hitap eden sade, eğitici ve dikkat çekici bir ambalaj dili oluşturulmuştur. Raf görünürlüğü yüksek, marka kimliğiyle uyumlu bir tasarım yaklaşımı benimsenmiştir.",
+    "image": "/9-Tas/Oz-Er-Dumen-Kutu-Tasarimi.jpg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Oyun Tasarımı",
+      "Strateji Oyunu",
+      "Zeka Oyunu",
+      "Ambalaj Tasarımı",
+      "Baskı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Masa üzerinde sergilenen Surakarta & Dümen strateji oyunu kutu tasarımı"
+  },
+  {
+    "id": "224",
+    "title": "GO Strateji Oyunu Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Klasik GO strateji oyunu için hazırlanan kutu tasarımı. Sade ve dengeli kompozisyon, oyunun stratejik derinliğini yansıtan taş ve tahta görselleriyle desteklenmiştir. Nötr renk paleti, yuvarlak formlar ve merkezde güçlü tipografi kullanımı sayesinde zamansız ve raf değeri yüksek bir ambalaj dili oluşturulmuştur. Hem geleneksel hem modern oyun severlere hitap eden bir tasarım yaklaşımı benimsenmiştir.",
+    "image": "/9-Tas/Oz-Er-Go-Tasarimi.png",
+    "tags": [
+      "Kutu Tasarımı",
+      "GO Oyunu",
+      "Strateji Oyunu",
+      "Zeka Oyunu",
+      "Ambalaj Tasarımı",
+      "Baskı Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Ahşap masa üzerinde sergilenen GO strateji oyunu kutu tasarımı"
+  },
+  {
+    "id": "225",
+    "title": "Renkli Çubuklar Zeka Oyunu Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Renkli Çubuklar zeka oyunu için hazırlanan enerjik ve dinamik kutu tasarımı. Canlı renk paleti, grafiti dokuları ve hareket hissi veren kompozisyon ile oyunun eğlenceli ve rekabetçi yapısı vurgulanmıştır. Tipografide kullanılan yuvarlak ve hacimli karakterler çocuklara ve genç oyunculara hitap ederken, ikonlar ve renk blokları ürünün zeka, dikkat ve strateji temalarını güçlü biçimde desteklemektedir. Raf üzerinde yüksek görünürlük ve akılda kalıcılık hedeflenmiştir.",
+    "image": "/9-Tas/Oz-Er-Hçzlç-Renkli-Cubuklar-Kutu-Tasarimi.jpgg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Zeka Oyunu",
+      "Çocuk Oyunu",
+      "Strateji Oyunu",
+      "Ambalaj Tasarımı",
+      "Baskı Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarım",
+      "baski"
+    ],
+    "alt": "Renkli ve grafiti tarzında tasarlanmış Renkli Çubuklar zeka oyunu kutusu"
+  },
+  {
+    "id": "194",
+    "title": "Kelime Oyunu Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Kelime Oyunu için tasarlanan modern ve dikkat çekici kutu tasarımı. Dijital beyin ağını simgeleyen arka plan grafiği ile zeka ve düşünme teması güçlendirilmiştir. Yumuşak ve hacimli tipografi, oyunun eğlenceli yapısını yansıtırken; renk geçişleri ve ışık efektleri raf üzerinde güçlü bir görünürlük sağlar. Bilgi, dikkat ve hızlı düşünme vurgusu ikonlarla desteklenmiş, çocuklar ve aileler için ideal bir strateji oyunu kimliği oluşturulmuştur.",
+    "image": "public/9-Tas/Oz-Er-Hçzlç-Renkli-Kupler-Kutu-Tasarimi.jpg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Zeka Oyunu",
+      "Kelime Oyunu",
+      "Çocuk Oyunu",
+      "Strateji Oyunu",
+      "Ambalaj Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Mavi tonlarda modern tasarıma sahip Kelime Oyunu zeka oyunu kutusu"
+  },
+  {
+    "id": "226",
+    "title": "Kelime Oyunu Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Kelime Oyunu için tasarlanan modern ve dikkat çekici kutu tasarımı. Dijital beyin ağını simgeleyen arka plan grafiği ile zeka ve düşünme teması güçlendirilmiştir. Yumuşak ve hacimli tipografi, oyunun eğlenceli yapısını yansıtırken; renk geçişleri ve ışık efektleri raf üzerinde güçlü bir görünürlük sağlar. Bilgi, dikkat ve hızlı düşünme vurgusu ikonlarla desteklenmiş, çocuklar ve aileler için ideal bir strateji oyunu kimliği oluşturulmuştur.",
+    "image": "/9-Tas/Oz-Er-Kelime-Oyunu-Tasarimi.jpg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Zeka Oyunu",
+      "Kelime Oyunu",
+      "Çocuk Oyunu",
+      "Strateji Oyunu",
+      "Ambalaj Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Mavi tonlarda modern tasarıma sahip Kelime Oyunu zeka oyunu kutusu"
+  },
+  {
+    "id": "227",
+    "title": "Kızma Birader Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Klasik Kızma Birader oyunu için hazırlanan, nostaljik dokunuşlarla modern ambalaj anlayışını birleştiren kutu tasarımı. Sıcak renk paleti, ahşap masa dokusu ve üç boyutlu oyun taşları görseliyle aile ve arkadaş ortamlarında oynanan eğlenceli oyun hissi güçlendirilmiştir. Büyük ve okunaklı başlık tipografisi raf üzerinde güçlü bir fark edilirlik sağlarken; strateji ve şans vurgusu ikonlarla desteklenmiştir. Çocuklar ve yetişkinler için zamansız bir kutu kimliği oluşturulmuştur.",
+    "image": "/9-Tas/Oz-Er-Kizma-Bilader-Tasarimi.jpgg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Kızma Birader",
+      "Aile Oyunu",
+      "Masa Oyunu",
+      "Strateji Oyunu",
+      "Ambalaj Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Sıcak renklerde tasarlanmış Kızma Birader masa oyunu kutusu"
+  },
+  {
+    "id": "228",
+    "title": "Koridor Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Strateji ve zeka temelli Koridor oyunu için hazırlanan modern kutu tasarımı. Oyunun üç boyutlu platform görseli merkeze alınarak ürün deneyimi ön plana çıkarılmış, mor ve pembe tonlarıyla dikkat çekici bir raf görünürlüğü sağlanmıştır. Dinamik tipografi ve ikon destekli bilgi alanları sayesinde hedef kitleye oyunun stratejik yapısı net şekilde aktarılmıştır. Çocuk ve aile segmentine hitap eden güçlü bir ambalaj kimliği oluşturulmuştur.",
+    "image": "/9-Tas/Oz-Er-Koridor-Tasarimi.jpg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Koridor Oyunu",
+      "Strateji Oyunu",
+      "Zeka Oyunu",
+      "Ambalaj Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Mor ve pembe tonlarda tasarlanmış Koridor strateji oyunu kutusu"
+  },
+  {
+    "id": "229",
+    "title": "Neşeli Bardaklar Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Çocuklara yönelik refleks ve dikkat geliştirme odaklı Neşeli Bardaklar oyunu için tasarlanan renkli ve enerjik kutu tasarımı. Canlı mor ve pastel tonların kullanıldığı ambalajda, ürün içeriğini anlatan görseller ön plana çıkarılmıştır. Eğlenceli tipografi, ikon destekli bilgi alanları ve dinamik kompozisyon sayesinde raflarda yüksek fark edilirlik sağlanmıştır. Çocuk ve aile segmentine hitap eden güçlü ve neşeli bir ambalaj dili oluşturulmuştur.",
+    "image": "/9-Tas/Oz-Er-Neüeli-Bardaklar-Kutu-Tasarçmç.jpg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Çocuk Oyunu",
+      "Refleks Oyunu",
+      "Zeka Oyunu",
+      "Ambalaj Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Renkli ve eğlenceli Neşeli Bardaklar çocuk oyunu kutu tasarımı"
+  },
+  {
+    "id": "230",
+    "title": "Reversi Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Klasik strateji oyunu Reversi için tasarlanan modern ve dikkat çekici kutu tasarımı. Mor ve lila tonlarının ağırlıkta olduğu ambalajda oyun tahtası üç boyutlu perspektifle ön plana çıkarılmıştır. Büyük ve yumuşak hatlı tipografi sayesinde ürün ismi raflarda güçlü bir görünürlük kazanırken, alt bölümde yer alan ikonlar oyunun yaş grubu ve kazanımlarını vurgulamaktadır. Strateji ve zeka teması görsel dilde sade ama etkili bir şekilde yansıtılmıştır.",
+    "image": "/9-Tas/Oz-Er-Reversi-Kutu-Tasarimi.jpg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Reversi",
+      "Strateji Oyunu",
+      "Zeka Oyunu",
+      "Ambalaj Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Mor tonlarda tasarlanmış Reversi strateji oyunu kutu tasarımı"
+  },
+  {
+    "id": "231",
+    "title": "Satranç Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Klasik satranç oyunu için hazırlanan bu kutu tasarımı, strateji ve zekâ temasını güçlü bir görsel anlatımla ön plana çıkarır. Gerçek oyun anını yansıtan fotoğraf kullanımı, oyunun ciddiyetini ve zihinsel derinliğini vurgularken; büyük, kabartma etkili tipografi raflarda yüksek fark edilirlik sağlar. Renkli bilgi etiketleri ve ikonlar yaş grubu, kazanımlar ve oyun özelliklerini net biçimde iletir. Modern ve klasik çizgilerin dengeli birleşimiyle zamansız bir ambalaj dili oluşturulmuştur.",
+    "image": "/9-Tas/Oz-Er-Satranc-Kutu-Tasarimi.jpg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Satranç",
+      "Strateji Oyunu",
+      "Zeka Oyunu",
+      "Ambalaj Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Strateji temalı satranç oyunu için tasarlanmış modern kutu ambalajı"
+  },
+  {
+    "id": "232",
+    "title": "Neşeli Bardaklar Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Neşeli Bardaklar oyunu için tasarlanan bu ambalaj, dikkat, hafıza ve hız temalarını dinamik bir görsel dil ile yansıtır. Renkli bardak illüstrasyonları ve güçlü tipografi, ürünün eğlenceli ve rekabetçi yapısını ön plana çıkarır. Beyaz zemin üzerindeki modern grafik desenler, ürüne temiz ve çağdaş bir görünüm kazandırırken; bilgi ikonları ve rozetler oyun özelliklerini net şekilde aktarır. Raf üzerinde fark edilirliği yüksek, enerjik ve çocuklara hitap eden bir kutu tasarımıdır.",
+    "image": "/9-Tas/ôz-ErNeüeli-Bardaklar-Kutu-Tasarçmç.jpg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Zeka Oyunu",
+      "Çocuk Oyunu",
+      "Ambalaj Tasarımı",
+      "Board Game"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Neşeli Bardaklar zeka ve dikkat oyunu için tasarlanmış renkli kutu ambalajı"
+  },
+  {
+    "id": "233",
+    "title": "Surakatra & Dümen Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Surakatra & Dümen strateji oyunları için hazırlanan bu kutu tasarımı, iki farklı oyunu tek ambalaj altında dinamik bir görsel kompozisyonla sunar. Ahşap oyun tablalarının sıcak dokusu ve mavi tonlardaki arka plan geçişleri, ürüne hem geleneksel hem modern bir karakter kazandırır. Güçlü başlık tipografisi ve ikon destekli bilgi alanları sayesinde oyun özellikleri net ve dikkat çekici biçimde aktarılmıştır. Raf üzerinde fark edilirliği yüksek, aile ve zeka oyunları kategorisine uygun bir ambalaj tasarımıdır.",
+    "image": "/9-Tas/Oz-Er-Sukadra-Kutu-Tasarimi.jpg",
+    "tags": [
+      "Kutu Tasarımı",
+      "Strateji Oyunu",
+      "Zeka Oyunu",
+      "Board Game",
+      "Ambalaj Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Surakatra ve Dümen strateji oyunları için tasarlanmış çift oyunlu kutu ambalajı"
+  },
+  {
+    "id": "234",
+    "title": "Penta Blok Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Penta Blok için hazırlanan bu kutu tasarımı, renkli ve geometrik blok formlarından ilham alan enerjik bir görsel kimliğe sahiptir. Tetris benzeri parçaların oluşturduğu dinamik kompozisyon, oyunun strateji ve zeka temalı yapısını doğrudan yansıtır. Minimal tipografiyle desteklenen sade logo alanı, yoğun renkli arka planla dengeli bir kontrast oluşturur. Raf üzerinde yüksek görünürlük sağlayan modern ve dikkat çekici bir ambalaj tasarımıdır.",
+    "image": "/9-Tas/Penta.png",
+    "tags": [
+      "Kutu Tasarımı",
+      "Zeka Oyunu",
+      "Strateji Oyunu",
+      "Board Game",
+      "Ambalaj Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Penta Blok zeka oyunu için tasarlanmış renkli geometrik desenli kutu ambalajı"
+  },
+  {
+    "id": "235",
+    "title": "Reversi Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Reversi masa oyunu için hazırlanan bu kutu tasarımı, strateji ve zeka temalarını ön plana çıkaran modern bir görsel anlayışa sahiptir. Mor ve lila tonlarının hakim olduğu tasarımda, oyun tahtası ve taşları dinamik bir açıyla konumlandırılarak derinlik etkisi oluşturulmuştur. Güçlü ve hacimli tipografi kullanımı, ürünün raf üzerindeki görünürlüğünü artırırken; sade ikonlar oyunun eğitici ve stratejik yönünü vurgular. Hem çocuklar hem de yetişkinler için uygun, dikkat çekici bir ambalaj tasarımıdır.",
+    "image": "/9-Tas/Reversi.png",
+    "tags": [
+      "Kutu Tasarımı",
+      "Reversi",
+      "Strateji Oyunu",
+      "Zeka Oyunu",
+      "Ambalaj Tasarımı"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Reversi strateji oyunu için tasarlanmış mor tonlarda modern kutu ambalaj tasarımı"
+  },
+  {
+    "id": "236",
+    "title": "SAKİKAD 1. Yıl Kataloğu Tasarımı",
+    "category": "Katalog Tasarımı",
+    "description": "SAKİKAD’ın 1. yılını anmak amacıyla hazırlanan bu katalog tasarımı, derneğin faaliyetlerini ve üyeleriyle gerçekleştirdiği etkinlikleri görsel bir bütünlük içinde sunmaktadır. Kapakta kullanılan kolaj fotoğraf çalışması, topluluk ruhunu ve bir yıllık süreci güçlü bir şekilde yansıtırken; sade tipografi ve kurumsal renk kullanımı tasarımı dengeli ve prestijli bir yapıya kavuşturmuştur. İç sayfalarda düzenli grid sistemi ile hazırlanan yerleşim, hem okunabilirliği hem de arşiv niteliğini ön planda tutmaktadır.",
+    "image": "/9-Tas/Sakikad.png",
+    "tags": [
+      "Katalog Tasarımı",
+      "Kurumsal Yayın",
+      "Dernek Kataloğu",
+      "Baskı Tasarımı",
+      "Yıllık"
+    ],
+    "client": "SAKİKAD",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski",
+      "kimlik"
+    ],
+    "alt": "SAKİKAD derneği için hazırlanan 1. yıl faaliyet kataloğu tasarımı"
+  },
+  {
+    "id": "237",
+    "title": "Öz-Er Satranç Kutu Tasarımı",
+    "category": "Oyun Kutu Tasarımı",
+    "description": "Öz-Er markası için tasarlanan Satranç kutu tasarımı, strateji ve zeka kavramlarını güçlü bir görsel anlatımla ön plana çıkarır. Kapakta kullanılan gerçek satranç tahtası ve taş görseli, oyunun klasik ve zamansız yapısını vurgularken; büyük ve dikkat çekici tipografi raf görünürlüğünü artıracak şekilde konumlandırılmıştır. Sıcak tonlar ve derinlik hissi veren fotoğraf kullanımı, ürüne premium bir algı kazandırır. Ön yüzde yer alan ikon ve bilgilendirme alanları ise hedef kitleye oyunun kazanımlarını net bir şekilde aktarır.",
+    "image": "/9-Tas/Satraná.png",
+    "tags": [
+      "Kutu Tasarımı",
+      "Oyun Tasarımı",
+      "Satranç",
+      "Ambalaj Tasarımı",
+      "Strateji Oyunu"
+    ],
+    "client": "Öz-Er",
+    "year": "2024",
+    "tur": [
+      "tasarim",
+      "baski"
+    ],
+    "alt": "Öz-Er markası için hazırlanan satranç oyunu kutu tasarımı"
+  },
+  {
+    "id": "238",
+    "title": "Zeytin Kolonyası Etiket Tasarımı",
+    "category": "Etiket Tasarımı",
+    "description": "Zeytin Kolonyası için hazırlanan etiket tasarımı, doğal içerik ve ferahlık algısını ön plana çıkaran sade ve modern bir görsel dile sahiptir. Yeşil tonların ağırlıkta olduğu tasarımda, zeytin ağacı illüstrasyonu ürünün doğallığını ve kökenini güçlü biçimde vurgular. Dikey tipografi kullanımı şişe formu ile uyum sağlarken, temiz ve okunabilir yazı karakterleri raf ve kullanım esnasında net bir algı oluşturur. Tasarım, markanın kurumsal kimliğiyle bütünlük sağlayacak şekilde dengeli ve zamansız bir yapı sunar.",
+    "image": "/9-Tas/Soapun-Troy---Etiket.png",
+    "tags": [
+      "Etiket Tasarımı",
+      "Baskı Tasarımı",
+      "Kurumsal Kimlik",
+      "Ambalaj",
+      "Kolonya"
+    ],
+    "client": "Zeytin Kolonyası",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim",
+      "kimlik"
+    ],
+    "alt": "Zeytin Kolonyası için hazırlanan şişe etiket tasarımı"
+  },
+  {
+    "id": "239",
+    "title": "Sudoku Kataloğu Kapak Tasarımı",
+    "category": "Kapak Tasarımı",
+    "description": "Sudoku kataloğu için hazırlanan kapak tasarımı, zihinsel odak ve problem çözme temasını güçlü bir görsel dille yansıtır. Sudoku kareleri ve dolma kalem illüstrasyonu, analitik düşünceyi ve entelektüel üretimi simgelerken; renkli harf blokları tasarıma dinamik ve modern bir karakter kazandırır. Gri zemin üzerinde kullanılan mavi vurgu çizgileri ve dengeli tipografi, kurumsal ve güvenilir bir algı oluşturur. Tasarım, kitap ve katalog raflarında net okunabilirlik ve güçlü marka temsili sağlayacak şekilde kurgulanmıştır.",
+    "image": "/9-Tas/Sukadru.png",
+    "tags": [
+      "Kapak Tasarımı",
+      "Katalog Tasarımı",
+      "Baskı Tasarımı",
+      "Editoryal Tasarım",
+      "Sudoku"
+    ],
+    "client": "London Book Store",
+    "year": "2024",
+    "tur": [
+      "baski",
+      "tasarim",
+      "editoryal"
+    ],
+    "alt": "Sudoku temalı katalog için hazırlanan kapak tasarımı"
+  },
+  {
+    "id": "240",
+    "title": "Syedra Medical Group Kurumsal Baskı Tasarımları",
+    "category": "Kurumsal Kimlik",
+    "description": "Syedra Medical Group için hazırlanan kurumsal baskı tasarımları; marka kimliğini güçlü, sade ve profesyonel bir görsel dil ile yansıtır. Çanta, kartvizit, ürün ambalajı ve tüp tasarımında kullanılan minimal tipografi, yumuşak geçişli gri tonlar ve noktasal grafik detaylar; sağlık sektörüne uygun güvenilir ve prestijli bir algı oluşturur. Logo konumlandırması ve bütünsel tasarım dili sayesinde marka tutarlılığı tüm basılı materyallerde korunmuştur. Çalışma, modern ve premium bir kurumsal imaj hedeflenerek tasarlanmıştır.",
+    "image": "/9-Tas/Syedra-Kurumsal-Baskiliklar.jpg",
+    "tags": [
+      "Kurumsal Kimlik",
+      "Ambalaj Tasarımı",
+      "Kartvizit Tasarımı",
+      "Medikal Tasarım",
+      "Baskı Tasarımı"
+    ],
+    "client": "Syedra Medical Group",
+    "year": "2024",
+    "tur": [
+      "kimlik",
+      "baski",
+      "tasarim"
+    ],
+    "alt": "Syedra Medical Group için tasarlanan kurumsal baskı materyalleri"
+  },
+  {
+    "id": "242",
+    "title": "Ağız ve Diş Sağlığı Polikinliği Tanıtım filmi",
+    "category": "tanıtım filmi",
+    "description": "Syedra Medical Group Ağız ve Diş Sağlığı Polikliniği için hazırlanan bu tanıtım filmi; kliniğin modern altyapısını, uzman hekim kadrosunu ve hasta odaklı hizmet anlayışını yansıtmaktadır. Filmde; ileri teknoloji cihazlar, hijyen standartları ve konforlu tedavi ortamı ön plana çıkarılarak güven veren ve profesyonel bir kurumsal imaj hedeflenmiştir. Sağlıklı ve estetik bir gülüş için sunulan kapsamlı hizmetler etkileyici bir görsel anlatımla izleyiciye aktarılmıştır.",
+    "video": "/songelen-videolar/Akd-Ins-2.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Sağlık",
+      "Diş Kliniği",
+      "Medikal",
+      "Kurumsal Video"
+    ],
+    "client": "Syedra Medical Group",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Syedra Medical Group Ağız ve Diş Sağlığı Polikliniği tanıtım filmi"
+  },
+  {
+    "id": "243",
+    "title": "Hasar Uzmanı Ertan Hoca",
+    "category": "tanıtım filmi",
+    "description": "Hasar Uzmanı Ertan Hoca için hazırlanan bu tanıtım filmi; araç hasar, kaza sonrası süreç yönetimi ve pert danışmanlığı alanındaki uzmanlığını ön plana çıkarmaktadır. Videoda; sigorta süreçleri, eksper değerlendirmeleri ve araç değer kaybı konularındaki profesyonel yaklaşım güven veren bir anlatımla sunulmuştur. Şeffaf, hızlı ve çözüm odaklı hizmet anlayışı etkileyici bir görsel kurgu ile izleyiciye aktarılmıştır.",
+    "video": "/songelen-videolar/AracPertOldu-1.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Hasar Danışmanlığı",
+      "Sigorta",
+      "Ekspertiz",
+      "Kurumsal Video"
+    ],
+    "client": "Ertan Hoca",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Hasar Uzmanı Ertan Hoca tanıtım filmi"
+  },
+  {
+    "id": "244",
+    "title": "Hasar Uzmanı Ertan Hoca",
+    "category": "tanıtım filmi",
+    "description": "Hasar Uzmanı Ertan Hoca için hazırlanan bu tanıtım filmi; araç hasar, kaza sonrası süreç yönetimi ve pert danışmanlığı alanındaki uzmanlığını ön plana çıkarmaktadır. Videoda; sigorta süreçleri, eksper değerlendirmeleri ve araç değer kaybı konularındaki profesyonel yaklaşım güven veren bir anlatımla sunulmuştur. Şeffaf, hızlı ve çözüm odaklı hizmet anlayışı etkileyici bir görsel kurgu ile izleyiciye aktarılmıştır.",
+    "video": "/songelen-videolar/AracPertOldu-2.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Hasar Danışmanlığı",
+      "Sigorta",
+      "Ekspertiz",
+      "Kurumsal Video"
+    ],
+    "client": "Ertan Hoca",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Hasar Uzmanı Ertan Hoca tanıtım filmi"
+  },
+  {
+    "id": "245",
+    "title": "Dives Home Ürünler",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu tanıtım filmi; markanın dekoratif ve fonksiyonel ev ürünlerini estetik bir görsel anlatımla sunmaktadır. Cam aksesuarlar ve özel tasarım ürünler; zarif detaylar, modern çizgiler ve yaşam alanlarına değer katan dokularla ön plana çıkarılmıştır. Film, ürünlerin kalite, şıklık ve kullanım kolaylığını vurgulayarak güçlü ve premium bir marka algısı oluşturmayı hedeflemektedir.",
+    "video": "/songelen-videolar/CamliAksesuarlar.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Ev Dekorasyonu",
+      "Cam Aksesuar",
+      "Ürün Tanıtımı",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home cam aksesuar ve ev ürünleri tanıtım filmi"
+  },
+  {
+    "id": "247",
+    "title": "Ebruli Unlu Mamüller",
+    "category": "tanıtım filmi",
+    "description": "Ebruli Unlu Mamüller için hazırlanan bu tanıtım filmi; taze, doğal ve özenle hazırlanan ürün çeşitlerini iştah açıcı bir görsel anlatımla sunmaktadır. Fırından yeni çıkan çörekler, poğaçalar ve özel lezzetler; sıcak atmosfer ve hijyenik üretim süreci eşliğinde ön plana çıkarılmıştır. Film, markanın kalite, lezzet ve güven odaklı hizmet anlayışını yansıtarak samimi ve güçlü bir marka algısı oluşturmayı hedeflemektedir.",
+    "video": "/songelen-videolar/corek.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Unlu Mamüller",
+      "Fırın",
+      "Gıda",
+      "Ürün Tanıtımı"
+    ],
+    "client": "Ebruli Unlu Mamüller",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Ebruli Unlu Mamüller çörek ve fırın ürünleri tanıtım filmi"
+  },
+  {
+    "id": "248",
+    "title": "Casmoni Tekstil",
+    "category": "tanıtım filmi",
+    "description": "Casmoni Tekstil için hazırlanan bu tanıtım filmi; markanın üretim gücünü, kalite odaklı yaklaşımını ve modern tasarım anlayışını yansıtmaktadır. Kumaş seçiminden üretim aşamasına kadar titizlikle yürütülen süreçler, detay çekimleri ve dinamik kurgu ile ön plana çıkarılmıştır. Film, Casmoni Tekstil’in yenilikçi, güvenilir ve sürdürülebilir üretim vizyonunu vurgulayarak güçlü bir kurumsal imaj oluşturmayı hedeflemektedir.",
+    "video": "/videolars/casmoni-tekstil.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Tekstil",
+      "Üretim",
+      "Moda",
+      "Kurumsal Video"
+    ],
+    "client": "Casmoni Tekstil",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Casmoni Tekstil üretim ve kurumsal tanıtım filmi"
+  },
+  {
+    "id": "249",
+    "title": "Haser İngilizce Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Haser markası için İngilizce olarak hazırlanan bu tanıtım filmi; firmanın uluslararası vizyonunu, üretim kapasitesini ve kalite standartlarını global bir anlatım diliyle sunmaktadır. Filmde; modern üretim süreçleri, teknolojik altyapı ve profesyonel ekip yapısı ön plana çıkarılarak güvenilir ve güçlü bir marka imajı hedeflenmiştir. Haser’in global pazardaki konumunu destekleyen kurumsal duruşu etkileyici bir görsel kurgu ile yansıtılmıştır.",
+    "video": "/videolars/Haser-EN-S.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Kurumsal Video",
+      "Global Marka",
+      "İngilizce Tanıtım",
+      "Üretim"
+    ],
+    "client": "Haser",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Haser markası için hazırlanan İngilizce kurumsal tanıtım filmi"
+  },
+  {
+    "id": "250",
+    "title": "Haser Kısa Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Haser için hazırlanan bu kısa tanıtım filmi; markanın üretim gücünü, kalite anlayışını ve kurumsal vizyonunu dinamik ve etkili bir anlatımla sunmaktadır. Modern üretim süreçleri, teknolojik altyapı ve profesyonel ekip yapısı hızlı ve akılda kalıcı bir kurgu ile izleyiciye aktarılmıştır. Film, Haser’in güçlü ve güvenilir marka kimliğini kısa sürede etkili biçimde yansıtmayı hedeflemektedir.",
+    "video": "/videolars/Haser-Kisa-tanitim.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Kurumsal Video",
+      "Üretim",
+      "Marka Tanıtımı",
+      "Kısa Film"
+    ],
+    "client": "Haser",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Haser kısa kurumsal tanıtım filmi"
+  },
+  {
+    "id": "252",
+    "title": "Iwise Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Iwise için hazırlanan bu tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/videolars/tanitimfilmi.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Kurumsal Video",
+      "Teknoloji",
+      "Dijital Çözümler",
+      "Marka Tanıtımı"
+    ],
+    "client": "Iwise",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Iwise markası için hazırlanan kurumsal tanıtım filmi"
+  },
+  {
+    "id": "253",
+    "title": "Ajara House Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Ajara House için hazırlanan bu tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/Ajara-Genel-1.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Kurumsal Video",
+      "Teknoloji",
+      "Dijital Çözümler",
+      "Marka Tanıtımı"
+    ],
+    "client": "Ajara",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Ajara House markası için hazırlanan kurumsal tanıtım filmi"
+  },
+  {
+    "id": "254",
+    "title": "Ağız ve Diş Sağlığı Polikinliği Tanıtım filmi",
+    "category": "tanıtım filmi",
+    "description": "Syedra Medical Group Ağız ve Diş Sağlığı Polikliniği için hazırlanan bu tanıtım filmi; kliniğin modern altyapısını, uzman hekim kadrosunu ve hasta odaklı hizmet anlayışını yansıtmaktadır. Filmde; ileri teknoloji cihazlar, hijyen standartları ve konforlu tedavi ortamı ön plana çıkarılarak güven veren ve profesyonel bir kurumsal imaj hedeflenmiştir. Sağlıklı ve estetik bir gülüş için sunulan kapsamlı hizmetler etkileyici bir görsel anlatımla izleyiciye aktarılmıştır.",
+    "video": "/sonsonvideolars/Akd-Ins-2.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Sağlık",
+      "Diş Kliniği",
+      "Medikal",
+      "Kurumsal Video"
+    ],
+    "client": "Syedra Medical Group",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Syedra Medical Group Ağız ve Diş Sağlığı Polikliniği tanıtım filmi"
+  },
+  {
+    "id": "255",
+    "title": "Dives Home Ürün Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu ürün tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/Camlı Aksesuarlar.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Mobilya Tasarımı",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "256",
+    "title": "Ebruli Unlu Mamülleri Ürün Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Ebruli Unlu Mamülleri için hazırlanan bu ürün tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/Corek.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Yemek Hizmetleri",
+      "Kurumsal Video"
+    ],
+    "client": "Ebruli Unlu Mamüller",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Ebruli Unlu Mamüller markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "257",
+    "title": "Dives Home Ürün Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu ürün tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/Dives-Aksesuar.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Mobilya",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "258",
+    "title": "Hasar Uzmanı Ertan Hoca Durum Filmi",
+    "category": "tanıtım filmi",
+    "description": "Hasar Uzmanı Ertan Hoca için hazırlanan bu ürün tanıtım filmi; hangi durumlarda hangi aracın hatalı olduğunu açıklıyor.",
+    "video": "/sonsonvideolars/Durum-1.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Kurumsal Video"
+    ],
+    "client": "Hasar Uzmanı Ertan Hoca",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Hasar Uzmanı Ertan Hoca için hazırlanan durum filmi"
+  },
+  {
+    "id": "259",
+    "title": "Hasar Uzmanı Ertan Hoca Durum Filmi",
+    "category": "tanıtım filmi",
+    "description": "Hasar Uzmanı Ertan Hoca için hazırlanan bu ürün tanıtım filmi; hangi durumlarda hangi aracın hatalı olduğunu açıklıyor.",
+    "video": "/sonsonvideolars/Durum-2.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Kurumsal Video"
+    ],
+    "client": "Hasar Uzmanı Ertan Hoca",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Hasar Uzmanı Ertan Hoca için hazırlanan durum filmi"
+  },
+  {
+    "id": "260",
+    "title": "Hasar Uzmanı Ertan Hoca Durum Filmi",
+    "category": "tanıtım filmi",
+    "description": "Hasar Uzmanı Ertan Hoca için hazırlanan bu ürün tanıtım filmi; hangi durumlarda hangi aracın hatalı olduğunu açıklıyor.",
+    "video": "/sonsonvideolars/Durum-3.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Kurumsal Video"
+    ],
+    "client": "Hasar Uzmanı Ertan Hoca",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Hasar Uzmanı Ertan Hoca için hazırlanan durum filmi"
+  },
+  {
+    "id": "261",
+    "title": "Dives Home Eva Yatak Odası Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu ürün tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/Eva-Yatak-Odasi.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Mobilya",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "262",
+    "title": "Remax Arsa Ev Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Remax Mavi emlak ofisi için hazırlanan sosyal medya görseli. Emlak sektörüne uygun profesyonel tasarım.",
+    "video": "/sonsonvideolars/Geyve-Saburlar-Instagram-2.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Emlak",
+      "Kurumsal Video"
+    ],
+    "client": "Remax Mavi",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Remax Mavi için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "263",
+    "title": "Remax Arsa Ev Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Remax Mavi emlak ofisi için hazırlanan sosyal medya görseli. Emlak sektörüne uygun profesyonel tasarım.",
+    "video": "/sonsonvideolars/Geyve-Saburlar-Youtube.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Emlak",
+      "Kurumsal Video"
+    ],
+    "client": "Remax Mavi",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Remax Mavi için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "264",
+    "title": "Remax Muhammet Uzekmek Arsa Ev Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Remax  Muhammet Uzekmek emlak ofisi için hazırlanan sosyal medya görseli. Emlak sektörüne uygun profesyonel tasarım.",
+    "video": "/sonsonvideolars/Guher-Konakları.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Kurumsal Video"
+    ],
+    "client": "Remax  Muhammet Uzekmek",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Remax  Muhammet Uzekmek için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "265",
+    "title": "Özel Dental Park Ağız ve Diş Sağlığı Polikinliği Tanıtım filmi",
+    "category": "tanıtım filmi",
+    "description": "Özel Dental Park Ağız ve Diş Sağlığı Polikliniği için hazırlanan bu tanıtım filmi; kliniğin modern altyapısını, uzman hekim kadrosunu ve hasta odaklı hizmet anlayışını yansıtmaktadır. Filmde; ileri teknoloji cihazlar, hijyen standartları ve konforlu tedavi ortamı ön plana çıkarılarak güven veren ve profesyonel bir kurumsal imaj hedeflenmiştir. Sağlıklı ve estetik bir gülüş için sunulan kapsamlı hizmetler etkileyici bir görsel anlatımla izleyiciye aktarılmıştır.",
+    "video": "/sonsonvideolars/Gulumse-1.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Sağlık",
+      "Diş Kliniği",
+      "Medikal",
+      "Kurumsal Video"
+    ],
+    "client": "Özel Dental Park",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Özel Dental Park Ağız ve Diş Sağlığı Polikliniği tanıtım filmi"
+  },
+  {
+    "id": "266",
+    "title": "Sakarya Çocuk Edebiyat Fuarı Tanıtım filmi",
+    "category": "tanıtım filmi",
+    "description": "Sakarya Çocuk Edebiyat Fuarı için hazırlanan bu tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/Hafta-Sonu-Fuar.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Fuar"
+    ],
+    "client": "Sakarya Edebiyat Fuarı",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Sakarya Edebiyat Fuarı Tanıtım Filmi"
+  },
+  {
+    "id": "267",
+    "title": "Dives Home Halı",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu tanıtım filmi; markanın dekoratif ve fonksiyonel ev ürünlerini estetik bir görsel anlatımla sunmaktadır. Cam aksesuarlar ve özel tasarım ürünler; zarif detaylar, modern çizgiler ve yaşam alanlarına değer katan dokularla ön plana çıkarılmıştır. Film, ürünlerin kalite, şıklık ve kullanım kolaylığını vurgulayarak güçlü ve premium bir marka algısı oluşturmayı hedeflemektedir.",
+    "video": "/songelen-videolar/Hali-1.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Ev Dekorasyonu",
+      "Halı",
+      "Ürün Tanıtımı",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home halı ve ev ürünleri tanıtım filmi"
+  },
+  {
+    "id": "268",
+    "title": "Form Cure",
+    "category": "tanıtım filmi",
+    "description": "Form Cure için indirim filmi.",
+    "video": "/songelen-videolar/Her-sabah.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "İndirim Video"
+    ],
+    "client": "Form Cure",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Form Cure"
+  },
+  {
+    "id": "269",
+    "title": "Remax Hasan Hamdi",
+    "category": "tanıtım filmi",
+    "description": "Remax Hasan Hamdi emlak ofisi için hazırlanan sosyal medya görseli. Emlak sektörüne uygun profesyonel tasarım.",
+    "video": "/songelen-videolar/Ikiz-Villa-Hasan.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Emlak"
+    ],
+    "client": "Remax Hasan Hamdi",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Remax hasan hamdi için hazırlanan tanıtım filmi"
+  },
+  {
+    "id": "270",
+    "title": "Hasar Uzmanı Ertan Hoca Durum Filmi",
+    "category": "tanıtım filmi",
+    "description": "Hasar Uzmanı Ertan Hoca tanıtım filmi; kaza sonrası ne yapılması gerektiğini anlatıyor.",
+    "video": "/sonsonvideolars/Kaza-Sonrasi-Ne-Yapmaliyiz-2.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Kurumsal Video"
+    ],
+    "client": "Hasar Uzmanı Ertan Hoca",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Hasar Uzmanı Ertan Hoca için hazırlanan durum filmi"
+  },
+  {
+    "id": "271",
+    "title": "Hasar Uzmanı Ertan Hoca Durum Filmi",
+    "category": "tanıtım filmi",
+    "description": "Hasar Uzmanı Ertan Hoca tanıtım filmi; kaza sonrası ne yapılması gerektiğini anlatıyor.",
+    "video": "/sonsonvideolars/Kaza-Sonrasi-Ne-Yapmaliyiz.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Kurumsal Video"
+    ],
+    "client": "Hasar Uzmanı Ertan Hoca",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Hasar Uzmanı Ertan Hoca için hazırlanan durum filmi"
+  },
+  {
+    "id": "272",
+    "title": "Remax Muhammet Uzekmek Arsa Ev Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Remax  Muhammet Uzekmek emlak ofisi için hazırlanan sosyal medya görseli. Emlak sektörüne uygun profesyonel tasarım.",
+    "video": "/sonsonvideolars/Kirkpinar-3Villa.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Kurumsal Video",
+      "Emlak"
+    ],
+    "client": "Remax  Muhammet Uzekmek",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Remax  Muhammet Uzekmek için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "273",
+    "title": "Dives Home Linda Yatak Odası Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu ürün tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/linda-yatak.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Mobilya",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "274",
+    "title": "Dives Home Linda Yemek Odası Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu ürün tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/linda-yemek.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Mobilya",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "275",
+    "title": "Dives Home Mocha Oturma Odası Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu ürün tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/Mocha-Oturma.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Mobilya",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "276",
+    "title": "Dives Home Mocha Yemek Odası Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu ürün tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/Mocha-Yemek-Odasi.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Mobilya",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "277",
+    "title": "Dives Home Oslo Oturma Odası Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu ürün tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/Oslo-Oturma.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Mobilya",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "278",
+    "title": "Ebruli Unlu Mamüller",
+    "category": "tanıtım filmi",
+    "description": "Ebruli Unlu Mamüller için hazırlanan bu tanıtım filmi; taze, doğal ve özenle hazırlanan ürün çeşitlerini iştah açıcı bir görsel anlatımla sunmaktadır. Fırından yeni çıkan çörekler, poğaçalar ve özel lezzetler; sıcak atmosfer ve hijyenik üretim süreci eşliğinde ön plana çıkarılmıştır. Film, markanın kalite, lezzet ve güven odaklı hizmet anlayışını yansıtarak samimi ve güçlü bir marka algısı oluşturmayı hedeflemektedir.",
+    "video": "/songelen-videolar/Ozel-Pasta.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Unlu Mamüller",
+      "Fırın",
+      "Gıda",
+      "Ürün Tanıtımı"
+    ],
+    "client": "Ebruli Unlu Mamüller",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Ebruli Unlu Mamüller çörek ve fırın ürünleri tanıtım filmi"
+  },
+  {
+    "id": "279",
+    "title": "Ebruli Unlu Mamüller",
+    "category": "tanıtım filmi",
+    "description": "Ebruli Unlu Mamüller için hazırlanan bu tanıtım filmi; taze, doğal ve özenle hazırlanan ürün çeşitlerini iştah açıcı bir görsel anlatımla sunmaktadır. Fırından yeni çıkan çörekler, poğaçalar ve özel lezzetler; sıcak atmosfer ve hijyenik üretim süreci eşliğinde ön plana çıkarılmıştır. Film, markanın kalite, lezzet ve güven odaklı hizmet anlayışını yansıtarak samimi ve güçlü bir marka algısı oluşturmayı hedeflemektedir.",
+    "video": "/songelen-videolar/Pide-100.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Unlu Mamüller",
+      "Fırın",
+      "Gıda",
+      "Ürün Tanıtımı"
+    ],
+    "client": "Ebruli Unlu Mamüller",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Ebruli Unlu Mamüller çörek ve fırın ürünleri tanıtım filmi"
+  },
+  {
+    "id": "280",
+    "title": "Ebruli Unlu Mamüller",
+    "category": "tanıtım filmi",
+    "description": "Ebruli Unlu Mamüller için hazırlanan bu tanıtım filmi; taze, doğal ve özenle hazırlanan ürün çeşitlerini iştah açıcı bir görsel anlatımla sunmaktadır. Fırından yeni çıkan çörekler, poğaçalar ve özel lezzetler; sıcak atmosfer ve hijyenik üretim süreci eşliğinde ön plana çıkarılmıştır. Film, markanın kalite, lezzet ve güven odaklı hizmet anlayışını yansıtarak samimi ve güçlü bir marka algısı oluşturmayı hedeflemektedir.",
+    "video": "/songelen-videolar/Rulo-Borek.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Unlu Mamüller",
+      "Fırın",
+      "Gıda",
+      "Ürün Tanıtımı"
+    ],
+    "client": "Ebruli Unlu Mamüller",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Ebruli Unlu Mamüller çörek ve fırın ürünleri tanıtım filmi"
+  },
+  {
+    "id": "281",
+    "title": "Dives Home Sardunya Koltuk Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu ürün tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/Sardunya-Koltuk-2.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Mobilya",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "282",
+    "title": "Dives Home Sardunya Koltuk Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu ürün tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/Sardunya-Koltuk.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Mobilya",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "282",
+    "title": "Dives Home Sardunya Yatak Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Dives Home için hazırlanan bu ürün tanıtım filmi; markanın yenilikçi yaklaşımını, teknolojik altyapısını ve çözüm odaklı hizmet anlayışını ön plana çıkarmaktadır. Filmde; modern çalışma süreçleri, dijital çözümler ve profesyonel ekip yapısı dinamik bir görsel anlatımla sunulmuştur. Iwise’ın güvenilir, vizyoner ve sürdürülebilir marka duruşu etkileyici bir kurgu ile izleyiciye aktarılmaktadır.",
+    "video": "/sonsonvideolars/Sardunya-Yatak.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Mobilya",
+      "Kurumsal Video"
+    ],
+    "client": "Dives Home",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Dives Home markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "283",
+    "title": "Evve Serdoğa Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Evve Emlak'ın serdoğa projesi için hazırlanan kurumsal tanıtım filmi",
+    "video": "/sonsonvideolars/Serdoga.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Emlak",
+      "Kurumsal Video"
+    ],
+    "client": "Evve Emlak",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Evve markası için hazırlanan ürün tanıtım filmi"
+  },
+  {
+    "id": "284",
+    "title": "Serenade Tanıtım Filmi",
+    "category": "tanıtım filmi",
+    "description": "Serenade için hazırlanan kurumsal tanıtım filmi",
+    "video": "/sonsonvideolars/Serenade.mp4",
+    "tags": [
+      "Tanıtım Filmi",
+      "Sağlık",
+      "Kurumsal Video"
+    ],
+    "client": "Serenade",
+    "year": "2024",
+    "tur": [
+      "tanitim-filmi"
+    ],
+    "alt": "Serenade markası için hazırlanan ürün tanıtım filmi"
+  }
+]

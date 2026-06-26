@@ -1,0 +1,58 @@
+Options -MultiViews
+RewriteEngine On
+
+# =========================
+# WP / hack kalıntılarını HIZLI SİLDİR (410)
+# =========================
+
+# /2025/11/29/... gibi tarihli permalinkler (WP hack kalıntısı)
+RewriteRule ^20[0-9]{2}/ - [R=410,L]
+
+# ?p=123 gibi WP ID linkleri
+RewriteCond %{QUERY_STRING} (^|&)p=[0-9]+(&|$)
+RewriteRule ^ - [R=410,L]
+
+# Eski WP default sayfaları
+RewriteRule ^(about-us|home|contact)/?$ - [R=410,L]
+
+# =========================
+# Mevcut dosya/klasör ise dokunma
+# =========================
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# =========================
+# ALLOWED SPA ROUTES (React Router)
+# =========================
+
+# Ana sayfa
+RewriteCond %{REQUEST_URI} ^/$ [OR]
+
+# Statik sayfalar
+RewriteCond %{REQUEST_URI} ^/hakkimizda/?$ [OR]
+RewriteCond %{REQUEST_URI} ^/portfoy/?$ [OR]
+RewriteCond %{REQUEST_URI} ^/hizmetler/?$ [OR]
+RewriteCond %{REQUEST_URI} ^/blog/?$ [OR]
+RewriteCond %{REQUEST_URI} ^/iletisim/?$ [OR]
+
+# Hizmet alt sayfaları
+RewriteCond %{REQUEST_URI} ^/baski-hizmetleri/?$ [OR]
+RewriteCond %{REQUEST_URI} ^/sosyal-medya-calismalari/?$ [OR]
+RewriteCond %{REQUEST_URI} ^/tasarim-hizmetleri/?$ [OR]
+RewriteCond %{REQUEST_URI} ^/tanitim-filmi-cekimleri/?$ [OR]
+RewriteCond %{REQUEST_URI} ^/kurumsal-kimlik-tasarimi/?$ [OR]
+RewriteCond %{REQUEST_URI} ^/reklam-hizmetleri/?$ [OR]
+RewriteCond %{REQUEST_URI} ^/web-tasarim-uygulama/?$ [OR]
+
+# Deneme
+RewriteCond %{REQUEST_URI} ^/deneme/?$ [OR]
+
+# Blog detail: /blog/:slug
+RewriteCond %{REQUEST_URI} ^/blog/[^/]+/?$
+
+# Whitelist'e uyanları SPA'ya ver
+RewriteRule ^ index.html [L]
+
+# Diğer her şey: gerçek 404
+RewriteRule ^ - [L,R=404]
