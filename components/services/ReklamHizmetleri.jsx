@@ -1,5 +1,6 @@
 "use client";
 
+import CTA from '@/components/CTA';
 
 export default function ReklamHizmetleri() {
   return (
@@ -15,11 +16,11 @@ export default function ReklamHizmetleri() {
             <div className="inline-block mb-6 px-4 sm:px-6 py-2 bg-white/10 backdrop-blur-md rounded-full border border-white/20">
               <span className="text-xs sm:text-sm uppercase tracking-[0.2em] sm:tracking-[0.3em] text-gray-300">Reklam Hizmetleri</span>
             </div>
-            <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-thinmb-6 leading-tight px-4">
-              Dijital Dünyada
+            <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-thin mb-6 leading-tight px-4">
+              Profesyonel
               <br />
               <span className="bg-gradient-to-r from-yellow-400 via-orange-400 to-red-400 bg-clip-text font-bold text-transparent">
-                Görünür Olun
+                Dijital Reklam Ajansı
               </span>
             </h1>
             <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-gray-300 mb-8 sm:mb-12 max-w-3xl mx-auto leading-relaxed px-4">
@@ -35,6 +36,8 @@ export default function ReklamHizmetleri() {
             </p>
           </section>
         </main>
+        
+        <CTA title="Reklam Kampanyanızı Başlatalım" description="Google Ads ve Meta reklamlarıyla satışlarınızı artırmak için ücretsiz dijital pazarlama danışmanlığı alın." />
       </div>
     </>
   );

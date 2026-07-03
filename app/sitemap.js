@@ -18,6 +18,8 @@ export default async function sitemap() {
     '/kurumsal-kimlik-tasarimi',
     '/reklam-hizmetleri',
     '/web-tasarim-uygulama',
+    '/gizlilik-politikasi',
+    '/kullanim-kosullari',
   ];
 
   const staticRoutes = routes.map((route) => ({

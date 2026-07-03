@@ -3,7 +3,9 @@ import { useState, useEffect } from 'react';
 
 import portfoy from "@/data/portfoy.json";
 
-import { log } from 'three';
+import Head from 'next/head';
+import Link from 'next/link';
+import CTA from '@/components/CTA';
 import { getProductsByTur } from '@/server';
 
 export default function BaskiHizmetleri() {
@@ -184,10 +186,10 @@ export default function BaskiHizmetleri() {
             </div>
 
             <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-thin mb-6 leading-tight px-4">
-              Kaliteli Baskı
+              Kurumsal
               <br />
               <span className="bg-gradient-to-r font-bold from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-                Güçlü Marka
+                Matbaa ve Baskı Hizmetleri
               </span>
             </h1>
 
@@ -378,16 +380,18 @@ export default function BaskiHizmetleri() {
                           {item.description}
                         </p>
 
-                        <div className="flex flex-wrap gap-2">
-                          {item.tags.slice(0, 3).map((tag, idx) => (
-                            <span
-                              key={idx}
-                              className="px-2 py-1 bg-white/10 backdrop-blur-sm rounded text-xs text-gray-300"
-                            >
-                              {tag}
-                            </span>
-                          ))}
-                        </div>
+                        {Array.isArray(item.tags) && item.tags.length > 0 && (
+                          <div className="flex flex-wrap gap-2">
+                            {item.tags.slice(0, 3).map((tag, idx) => (
+                              <span
+                                key={idx}
+                                className="px-2 py-1 bg-white/10 backdrop-blur-sm rounded text-xs text-gray-300"
+                              >
+                                {tag}
+                              </span>
+                            ))}
+                          </div>
+                        )}
 
                         <div className="flex items-center justify-between mt-3 pt-3 border-t border-white/10">
                           <span className="text-xs text-gray-400">{item.client}</span>
@@ -439,6 +443,67 @@ export default function BaskiHizmetleri() {
           </div>
         </section>
 
+        {/* Pricing Section - SEO Odaklı */}
+        <section className="py-12 sm:py-16 lg:py-20 px-4 sm:px-6">
+          <div className="max-w-7xl mx-auto">
+            <div className="text-center mb-12 sm:mb-16">
+              <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6">
+                Baskı ve Matbaa Fiyatları Neye Göre Belirlenir?
+              </h2>
+              <p className="text-lg sm:text-xl text-gray-400 max-w-3xl mx-auto">
+                İhtiyaçlarınıza ve markanızın büyüklüğüne göre ölçeklenebilen, şeffaf fiyatlandırma politikamızla size en uygun paketi seçin. <strong>Matbaa fiyatları</strong> kağıt kalitesi, baskı adedi ve ekstra işçilik (lak, yaldız, gofre) seçeneklerine göre değişmektedir.
+              </p>
+            </div>
+
+            <div className="grid sm:grid-cols-1 md:grid-cols-3 gap-8">
+              {/* Başlangıç Paketi */}
+              <div className="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover:border-blue-500/50 transition-all">
+                <h3 className="text-2xl font-bold mb-2 text-white">Temel Matbaa Seti</h3>
+                <p className="text-gray-400 mb-6 min-h-[48px]">Gündelik kurumsal evrak ve temel baskı ihtiyaçları için.</p>
+                <div className="text-4xl font-bold mb-6 text-blue-400">Teklif Alın</div>
+                <ul className="space-y-4 mb-8">
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-blue-400">✓</span> <span>Kartvizit (Standart Seri)</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-blue-400">✓</span> <span>A5 / A4 El İlanı veya Broşür</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-blue-400">✓</span> <span>Diplomat Zarf Baskısı</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-blue-400">✓</span> <span>Antetli Kağıt ve Bloknot</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-blue-400">✓</span> <span>Hızlı Kargo ile Adrese Teslim</span></li>
+                </ul>
+                <a href="/iletisim" className="block w-full py-3 px-4 bg-white/10 hover:bg-white/20 text-center rounded-lg font-semibold transition-all text-white">İletişime Geç</a>
+              </div>
+
+              {/* Profesyonel Paket */}
+              <div className="bg-gradient-to-b from-blue-600/20 to-purple-600/20 backdrop-blur-sm rounded-2xl p-8 border border-blue-500 hover:scale-105 transition-all relative mt-8 md:mt-0">
+                <div className="absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-gradient-to-r from-blue-500 to-purple-500 px-4 py-1 rounded-full text-sm font-bold">En Çok Tercih Edilen</div>
+                <h3 className="text-2xl font-bold mb-2 text-white">Kurumsal Baskı Paketi</h3>
+                <p className="text-gray-400 mb-6 min-h-[48px]">Ofis, sunum ve tanıtım faaliyetlerindeki yüksek kaliteli ihtiyaçlar için.</p>
+                <div className="text-4xl font-bold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400">Teklif Alın</div>
+                <ul className="space-y-4 mb-8">
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-purple-400">✓</span> <span>Kurumsal Ürün Kataloğu (Tel / İplik Dikiş)</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-purple-400">✓</span> <span>Özel Kesim Cepli Sunum Dosyası</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-purple-400">✓</span> <span>Kalın Gramaj Kartvizit (Lak / Yaldız Desteği)</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-purple-400">✓</span> <span>Sert Kapaklı Ajanda veya Defter</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-purple-400">✓</span> <span>Ücretsiz Numune / Renk Onayı (Gerekirse)</span></li>
+                </ul>
+                <a href="/iletisim" className="block w-full py-3 px-4 bg-gradient-to-r from-blue-600 to-purple-600 hover:opacity-90 text-center rounded-lg font-semibold transition-all text-white">İletişime Geç</a>
+              </div>
+
+              {/* Kurumsal Paket */}
+              <div className="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover:border-pink-500/50 transition-all mt-8 md:mt-0">
+                <h3 className="text-2xl font-bold mb-2 text-white">VIP & Promosyon</h3>
+                <p className="text-gray-400 mb-6 min-h-[48px]">Müşterilerinize prestijli ve özel hediyeler sunmak için premium çözümler.</p>
+                <div className="text-4xl font-bold mb-6 text-pink-400">Teklif Alın</div>
+                <ul className="space-y-4 mb-8">
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-pink-400">✓</span> <span>Sert Kapak & Süngerli Lüks Ambalaj/Kutu</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-pink-400">✓</span> <span>VIP Promosyon Seti (Kalem, Ajanda, Termos)</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-pink-400">✓</span> <span>Lüks İpli Karton Çanta</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-pink-400">✓</span> <span>Özel Şekilli (Bıçaklı) Etiketler ve Stickerlar</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-pink-400">✓</span> <span>Altın/Gümüş Yaldız ve Kısmi Lak İşçilikleri</span></li>
+                </ul>
+                <a href="/iletisim" className="block w-full py-3 px-4 bg-white/10 hover:bg-white/20 text-center rounded-lg font-semibold transition-all text-white">İletişime Geç</a>
+              </div>
+            </div>
+          </div>
+        </section>
 
         <section className="py-12 sm:py-16 lg:py-20 px-4 sm:px-6">
           <div className="max-w-7xl mx-auto">
@@ -461,38 +526,10 @@ export default function BaskiHizmetleri() {
           </div>
         </section>
 
-        <section className="py-12 sm:py-16 lg:py-20 px-4 sm:px-6">
-          <div className="max-w-4xl mx-auto">
-            <div className="relative rounded-2xl sm:rounded-3xl overflow-hidden">
-              <div className="absolute inset-0 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600"></div>
-              <div className="absolute inset-0 bg-[url('/images/pattern.svg')] opacity-10"></div>
-
-              <div className="relative p-8 sm:p-12 md:p-16 text-center">
-                <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 sm:mb-6">
-                  Projenize Hemen Başlayalım
-                </h2>
-                <p className="text-base sm:text-lg md:text-xl text-white/90 mb-6 sm:mb-8 max-w-2xl mx-auto">
-                  Ücretsiz danışmanlık ve fiyat teklifi için bizimle iletişime geçin.
-                  Ekibimiz size en uygun çözümü sunmak için hazır.
-                </p>
-                <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  <a
-                    href="/iletisim"
-                    className="px-6 sm:px-8 py-3 sm:py-4 bg-white text-black rounded-full font-semibold hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-xl text-sm sm:text-base"
-                  >
-                    İletişime Geç
-                  </a>
-                  <a
-                    href="tel:+905322558980"
-                    className="px-6 sm:px-8 py-3 sm:py-4 bg-white/20 backdrop-blur-md text-white rounded-full font-semibold hover:bg-white/30 transition-all duration-300 border border-white/30 text-sm sm:text-base"
-                  >
-                    📞 Hemen Ara
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+        <CTA 
+          title="Projenize Hemen Başlayalım" 
+          description="Ücretsiz danışmanlık ve fiyat teklifi için bizimle iletişime geçin. Ekibimiz size en uygun çözümü sunmak için hazır." 
+        />
       </div>
     </>
   );

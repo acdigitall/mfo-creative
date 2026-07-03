@@ -7,7 +7,7 @@ import Image from "next/image";
 import { BlogData } from "@/data/blog"; // yolunu düzelt: "@/data/blog" vs.
 
 export default function BlogDetail() {
-  const navigate = useRouter();
+  const router = useRouter();
   const { slug } = useParams();
 
   const postsSorted = useMemo(() => {
@@ -91,7 +91,7 @@ export default function BlogDetail() {
               </p>
 
               <button
-                onClick={() => navigate("/blog")}
+                onClick={() => router.push("/blog")}
                 className="px-6 py-3 rounded-xl font-medium transition-all hover:scale-105"
                 style={{
                   background: "linear-gradient(135deg, rgba(82, 39, 255, 0.35) 0%, rgba(255, 159, 252, 0.25) 100%)",
@@ -131,7 +131,7 @@ export default function BlogDetail() {
           {/* Top Nav */}
           <div className="flex items-center justify-between gap-3 mb-8">
             <button
-              onClick={() => navigate("/blog")}
+              onClick={() => router.push("/blog")}
               className="px-4 py-2 rounded-xl text-sm transition-all hover:scale-105"
               style={{
                 backgroundColor: "rgba(255, 255, 255, 0.06)",
@@ -144,7 +144,7 @@ export default function BlogDetail() {
             <div className="flex items-center gap-2">
               {prevPost && (
                 <button
-                  onClick={() => navigate(`/blog/${prevPost.slug}`)}
+                  onClick={() => router.push(`/blog/${prevPost.slug}`)}
                   className="px-4 py-2 rounded-xl text-sm transition-all hover:scale-105"
                   style={{
                     backgroundColor: "rgba(255, 255, 255, 0.06)",
@@ -156,7 +156,7 @@ export default function BlogDetail() {
               )}
               {nextPost && (
                 <button
-                  onClick={() => navigate(`/blog/${nextPost.slug}`)}
+                  onClick={() => router.push(`/blog/${nextPost.slug}`)}
                   className="px-4 py-2 rounded-xl text-sm transition-all hover:scale-105"
                   style={{
                     backgroundColor: "rgba(255, 255, 255, 0.06)",
@@ -289,7 +289,7 @@ export default function BlogDetail() {
               <div className="flex items-center justify-between mb-5">
                 <h2 className="text-2xl font-bold">Benzer Yazılar</h2>
                 <button
-                  onClick={() => navigate("/blog")}
+                  onClick={() => router.push("/blog")}
                   className="text-sm text-gray-300 hover:text-white transition-colors"
                 >
                   Tümünü Gör →
@@ -300,7 +300,7 @@ export default function BlogDetail() {
                 {relatedPosts.map((p) => (
                   <article
                     key={p.id}
-                    onClick={() => navigate(`/blog/${p.slug}`)}
+                    onClick={() => router.push(`/blog/${p.slug}`)}
                     className="group rounded-2xl overflow-hidden cursor-pointer transition-all hover:scale-[1.02]"
                     style={{
                       backdropFilter: "blur(20px) saturate(180%)",
@@ -347,7 +347,7 @@ export default function BlogDetail() {
           {/* Bottom nav */}
           <section className="flex flex-col md:flex-row gap-4 justify-between">
             <button
-              onClick={() => navigate("/blog")}
+              onClick={() => router.push("/blog")}
               className="px-6 py-3 rounded-xl font-medium transition-all hover:scale-105"
               style={{
                 backgroundColor: "rgba(255, 255, 255, 0.06)",
@@ -360,7 +360,7 @@ export default function BlogDetail() {
             <div className="flex gap-3 justify-end">
               {prevPost && (
                 <button
-                  onClick={() => navigate(`/blog/${prevPost.slug}`)}
+                  onClick={() => router.push(`/blog/${prevPost.slug}`)}
                   className="px-6 py-3 rounded-xl font-medium transition-all hover:scale-105"
                   style={{
                     backgroundColor: "rgba(255, 255, 255, 0.06)",
@@ -372,7 +372,7 @@ export default function BlogDetail() {
               )}
               {nextPost && (
                 <button
-                  onClick={() => navigate(`/blog/${nextPost.slug}`)}
+                  onClick={() => router.push(`/blog/${nextPost.slug}`)}
                   className="px-6 py-3 rounded-xl font-medium transition-all hover:scale-105"
                   style={{
                     background: "linear-gradient(135deg, rgba(82, 39, 255, 0.35) 0%, rgba(255, 159, 252, 0.25) 100%)",

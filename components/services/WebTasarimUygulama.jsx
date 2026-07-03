@@ -1,5 +1,6 @@
 "use client";
 
+import CTA from '@/components/CTA';
 
 export default function WebTasarimUygulama() {
   return (
@@ -16,10 +17,10 @@ export default function WebTasarimUygulama() {
               <span className="text-xs sm:text-sm uppercase tracking-[0.2em] sm:tracking-[0.3em] text-gray-300">Web Tasarım & Uygulama</span>
             </div>
             <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-thin mb-6 leading-tight px-4">
-              Modern Web
+              Profesyonel
               <br />
               <span className="bg-gradient-to-r from-blue-400 via-cyan-400 to-teal-400 bg-clip-text font-bold text-transparent">
-                Çözümleri
+                Web Tasarım Ajansı
               </span>
             </h1>
             <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-gray-300 mb-8 sm:mb-12 max-w-3xl mx-auto leading-relaxed px-4">
@@ -35,6 +36,8 @@ export default function WebTasarimUygulama() {
             </p>
           </section>
         </main>
+        
+        <CTA title="Web Projenizi Hayata Geçirelim" description="Sizi dijital dünyada rakiplerinizin önüne geçirecek modern, hızlı ve responsive web çözümleri için ücretsiz fiyat teklifi alın." />
       </div>
     </>
   );

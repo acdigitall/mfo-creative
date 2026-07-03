@@ -45,3 +45,4 @@ export async function generateStaticParams() {
 export default function Page({ params }) {
   return <PageComponent params={params} />;
 }
+

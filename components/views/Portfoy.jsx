@@ -39,14 +39,14 @@ export default function Portfoy() {
           }
 
           // image url normalize
-          const imageUrl = p.image_path ? `${API_BASE}${p.image_path}` : null;
-          const videoUrl = p.video_path ? `${API_BASE}${p.video_path}` : null;
+          const imageUrl = p.image_path ? (p.image_path.startsWith('http') ? p.image_path : `${API_BASE}${p.image_path}`) : p.image;
+          const videoUrl = p.video_path ? (p.video_path.startsWith('http') ? p.video_path : `${API_BASE}${p.video_path}`) : p.video;
 
           return {
             ...p,
             tur: Array.isArray(turArr) ? turArr : [],
-            image: imageUrl, // json'daki `image` alanı yerine bunu kullanacağız
-            video: videoUrl, // video path
+            image: imageUrl,
+            video: videoUrl,
           };
         });
 

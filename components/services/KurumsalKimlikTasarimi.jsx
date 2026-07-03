@@ -1,5 +1,8 @@
 "use client";
 import { useEffect, useState } from 'react';
+import Head from 'next/head';
+import Link from 'next/link';
+import CTA from '@/components/CTA';
 
 import portfoyData from '@/data/portfoy.json';
 import { getProductsByTur } from '@/server';
@@ -184,10 +187,10 @@ export default function KurumsalKimlikTasarimi() {
             </div>
 
             <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-thin mb-8 leading-tight px-4">
-              Markanıza
+              Profesyonel
               <br />
               <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 font-bold bg-clip-text text-transparent">
-                Kimlik Kazandırın
+                Kurumsal Kimlik Tasarımı
               </span>
             </h1>
 
@@ -497,38 +500,10 @@ export default function KurumsalKimlikTasarimi() {
           </div>
         </section>
 
-        <section className="py-12 sm:py-16 lg:py-20 px-4 sm:px-6">
-          <div className="max-w-5xl mx-auto">
-            <div className="relative rounded-3xl overflow-hidden">
-              <div className="absolute inset-0 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600"></div>
-              <div className="absolute inset-0 bg-[url('/images/pattern.svg')] opacity-10"></div>
-
-              <div className="relative p-12 md:p-16 text-center">
-                <h2 className="text-4xl md:text-5xl font-bold mb-6">
-                  Markanıza Güçlü Bir Kimlik Kazandırın
-                </h2>
-                <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
-                  Ücretsiz danışmanlık ve kurumsal kimlik teklifi için bizimle iletişime geçin.
-                  Markanızı birlikte inşa edelim!
-                </p>
-                <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  <a
-                    href="/iletisim"
-                    className="px-8 py-4 bg-white text-black rounded-full font-semibold hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-xl"
-                  >
-                    Ücretsiz Teklif Alın
-                  </a>
-                  <a
-                    href="tel:+905322558980"
-                    className="px-8 py-4 bg-white/20 backdrop-blur-md text-white rounded-full font-semibold hover:bg-white/30 transition-all duration-300 border border-white/30"
-                  >
-                    📞 Hemen Arayın
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+        <CTA 
+          title="Markanıza Güçlü Bir Kimlik Kazandırın" 
+          description="Ücretsiz danışmanlık ve kurumsal kimlik teklifi için bizimle iletişime geçin. Markanızı birlikte inşa edelim!" 
+        />
       </div>
     </>
   );

@@ -1,7 +1,9 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 
-import { createPortal } from "react-dom";
+import Head from 'next/head';
+import Link from 'next/link';
+import CTA from '@/components/CTA';
 import { getProductsByTur } from "@/server";
 
 export default function TanitimFilmiCekimleri() {
@@ -306,10 +308,10 @@ export default function TanitimFilmiCekimleri() {
             </div>
 
             <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl mb-8 leading-tight px-4 font-thin">
-              Hikayenizi
+              Profesyonel
               <br />
               <span className="bg-gradient-to-r font-bold from-rose-700 via-red-400 to-pink-800 bg-clip-text text-transparent">
-                Sinemaya Dönüştürün
+                Tanıtım Filmi ve Video Prodüksiyon
               </span>
             </h1>
 
@@ -419,6 +421,68 @@ export default function TanitimFilmiCekimleri() {
           </div>
         </section>
 
+        {/* Pricing Section - SEO Odaklı */}
+        <section className="py-12 sm:py-16 lg:py-20 px-4 sm:px-6">
+          <div className="max-w-7xl mx-auto">
+            <div className="text-center mb-12 sm:mb-16">
+              <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6">
+                Tanıtım Filmi ve Çekim Fiyatları Neye Göre Belirlenir?
+              </h2>
+              <p className="text-lg sm:text-xl text-gray-400 max-w-3xl mx-auto">
+                İhtiyaçlarınıza ve markanızın büyüklüğüne göre ölçeklenebilen, şeffaf fiyatlandırma politikamızla size en uygun paketi seçin. <strong>Video prodüksiyon fiyatları</strong> projenin süresi, kullanılacak ekipman ve prodüksiyon ekibinin büyüklüğüne göre değişmektedir.
+              </p>
+            </div>
+
+            <div className="grid sm:grid-cols-1 md:grid-cols-3 gap-8">
+              {/* Başlangıç Paketi */}
+              <div className="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover:border-red-500/50 transition-all">
+                <h3 className="text-2xl font-bold mb-2 text-white">Temel Çekim Paketi</h3>
+                <p className="text-gray-400 mb-6 min-h-[48px]">Kısa ve öz tanıtım videolarına ihtiyaç duyan işletmeler için.</p>
+                <div className="text-4xl font-bold mb-6 text-red-400">Teklif Alın</div>
+                <ul className="space-y-4 mb-8">
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-red-400">✓</span> <span>Yarım Gün Çekim Süresi</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-red-400">✓</span> <span>Temel Kamera ve Işık Ekipmanı</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-red-400">✓</span> <span>Standart Kurgu ve Montaj</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-red-400">✓</span> <span>Lisanslı Jenerik Müzik (Stok)</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-red-400">✓</span> <span>1 Adet Revizyon Hakkı</span></li>
+                </ul>
+                <a href="/iletisim" className="block w-full py-3 px-4 bg-white/10 hover:bg-white/20 text-center rounded-lg font-semibold transition-all text-white">İletişime Geç</a>
+              </div>
+
+              {/* Profesyonel Paket */}
+              <div className="bg-gradient-to-b from-red-600/20 to-orange-600/20 backdrop-blur-sm rounded-2xl p-8 border border-red-500 hover:scale-105 transition-all relative mt-8 md:mt-0">
+                <div className="absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-gradient-to-r from-red-500 to-orange-500 px-4 py-1 rounded-full text-sm font-bold">En Çok Tercih Edilen</div>
+                <h3 className="text-2xl font-bold mb-2 text-white">Profesyonel Prodüksiyon</h3>
+                <p className="text-gray-400 mb-6 min-h-[48px]">Marka hikayesini güçlü bir prodüksiyonla anlatmak isteyenler için.</p>
+                <div className="text-4xl font-bold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-red-400 to-orange-400">Teklif Alın</div>
+                <ul className="space-y-4 mb-8">
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-orange-400">✓</span> <span>Tam Gün Çekim (İç/Dış Mekan)</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-orange-400">✓</span> <span>Drone (Havadan) Çekim Desteği</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-orange-400">✓</span> <span>Gelişmiş Renk Düzenlemesi (Color Grading)</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-orange-400">✓</span> <span>Profesyonel Seslendirme (Dış Ses)</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-orange-400">✓</span> <span>Özel Format Çıktıları (Reels, Web, Youtube)</span></li>
+                </ul>
+                <a href="/iletisim" className="block w-full py-3 px-4 bg-gradient-to-r from-red-600 to-orange-600 hover:opacity-90 text-center rounded-lg font-semibold transition-all text-white">İletişime Geç</a>
+              </div>
+
+              {/* Kurumsal Paket */}
+              <div className="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover:border-orange-500/50 transition-all mt-8 md:mt-0">
+                <h3 className="text-2xl font-bold mb-2 text-white">Kapsamlı Reklam Filmi</h3>
+                <p className="text-gray-400 mb-6 min-h-[48px]">TV ve dijital kampanyalar için tam teşekküllü reklam filmi.</p>
+                <div className="text-4xl font-bold mb-6 text-orange-400">Teklif Alın</div>
+                <ul className="space-y-4 mb-8">
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-orange-400">✓</span> <span>Yönetmen ve Sanat Yönetmeni Desteği</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-orange-400">✓</span> <span>Kapsamlı Senaryo ve Metin Yazarlığı</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-orange-400">✓</span> <span>Oyuncu, Model ve Özel Mekan Temini</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-orange-400">✓</span> <span>2D/3D Özel Animasyon ve Motion Graphics</span></li>
+                  <li className="flex items-start gap-3 text-gray-300"><span className="text-orange-400">✓</span> <span>Sinema Kalitesinde Işık/Kamera (RED, ARRI vb.)</span></li>
+                </ul>
+                <a href="/iletisim" className="block w-full py-3 px-4 bg-white/10 hover:bg-white/20 text-center rounded-lg font-semibold transition-all text-white">İletişime Geç</a>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* PORTFOLYO */}
         <section
           id="portfolio"
@@ -483,6 +547,11 @@ export default function TanitimFilmiCekimleri() {
                               muted
                               playsInline
                               preload="metadata"
+                              onMouseEnter={(e) => e.target.play()}
+                              onMouseLeave={(e) => {
+                                e.target.pause();
+                                e.target.currentTime = 0;
+                              }}
                             />
                           )}
 
@@ -588,6 +657,11 @@ export default function TanitimFilmiCekimleri() {
             )}
           </div>
         </section>
+
+        <CTA 
+          title="Prodüksiyon Projenize Başlayalım" 
+          description="Profesyonel tanıtım filmi, reklam ve drone çekimleri için ücretsiz danışmanlık alın. Markanızın hikayesini birlikte anlatalım!" 
+        />
 
         {/* ✅ PORTAL MODAL */}
         {selectedVideo &&

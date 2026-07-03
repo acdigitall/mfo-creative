@@ -60,7 +60,7 @@ export const BlogData = [
     date: "10 Haziran 2026",
     author: "/beyin.png",
     excerpt: "Instagram, TikTok ve LinkedIn algoritmaları bu yıl köklü değişikliklere gitti. Markanızı hedef kitleyle buluşturmak için doğru Reels, hashtag ve etkileşim stratejileri nasıl kurgulanmalı?",
-    image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
     tags: ["Sosyal Medya", "Instagram", "Reels", "Dijital Pazarlama", "Etkileşim"],
     readTime: "7 dk",
     metaDescription: "2026 Instagram ve sosyal medya algoritmaları nasıl çalışır? Markanızın etkileşimini artıracak stratejiler, reels ipuçları ve içerik planlaması.",
@@ -75,7 +75,7 @@ export const BlogData = [
       </p>
 
       <img
-        src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+        src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
         alt="Sosyal Medya Yönetimi ve Instagram Algoritması"
         style="width:100%; height:auto; border-radius: 16px; margin: 22px 0; object-fit: cover;"
       />
@@ -500,7 +500,7 @@ export const BlogData = [
     date: "12 Ocak 2026",
     author: "/beyin.png",
     excerpt: "Reels/Shorts videolarında ilk 2 saniye kritiktir. Hook, tempo, altyazı, ritim ve CTA ile izlenme süresi ve etkileşimi artırın.",
-    image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
     tags: ["Reels", "Shorts", "Video Edit", "Sosyal Medya", "İçerik Üretimi", "Video Pazarlama"],
     readTime: "14 dk",
     metaDescription: "Reels/Shorts edit rehberi: hook, tempo, altyazı, ritim, geçiş, ses ve CTA ile izlenme süresi ve etkileşimi artırma yöntemleri.",
@@ -515,7 +515,7 @@ export const BlogData = [
       </p>
       
       <img
-        src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+        src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
         alt="Reels shorts video edit"
         style="width:100%; height:auto; border-radius: 16px; margin: 22px 0; object-fit: cover;"
       />
@@ -2717,6 +2717,509 @@ export const BlogData = [
       
       <p style="color: rgba(255,255,255,0.85); margin-top: 30px; padding: 20px; background: rgba(255,255,255,0.05); border-radius: 12px; border-left: 4px solid #3b82f6;">
         Mobil uygulamanızın UX/UI tasarımını, kullanıcı araştırmasından prototiplemeye, testten geliştirici handoff'una kadar tüm süreçlerde profesyonel ekibimizle gerçekleştirelim. Kullanıcılarınızı memnun edecek, şık ve işlevsel bir uygulama deneyimi yaratalım.
+      </p>
+    </div>
+    `
+  },
+  {
+    id: 1001,
+    slug: "web-tasarim-fiyatlari-nasil-belirlenir",
+    title: "Web Tasarım Fiyatları Neye Göre Belirlenir? 2026 Rehberi",
+    category: "Web Tasarım",
+    date: "10 Temmuz 2026",
+    author: "/beyin.png",
+    excerpt: "Bir web sitesi yaptırmak istediğinizde karşınıza çıkan farklı fiyat tekliflerinin nedenlerini, web tasarım maliyetlerini ve ücretleri belirleyen temel faktörleri detaylıca inceliyoruz.",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    tags: ["Web Tasarım", "Fiyatlandırma", "Maliyetler", "SEO", "E-Ticaret"],
+    readTime: "7 dk",
+    metaDescription: "Web tasarım fiyatları ve site kurma ücretleri neye göre belirlenir? Özelleştirilmiş tasarım, SEO uyumluluğu ve e-ticaret özelliklerinin maliyetlere etkisi.",
+    content: `
+    <div style="max-width: 900px; margin: 0 auto; padding: 10px 0; font-size: 18px; line-height: 1.9; color: #fff;">
+      <h2 style="font-size: 34px; line-height: 1.25; margin-bottom: 14px; color: #fff;">
+        Web Tasarım Ücretleri ve Maliyet Analizi
+      </h2>
+      <p style="font-size: 18px; color: rgba(255,255,255,0.8); margin-top: 0; margin-bottom: 22px;">
+        Dijital varlığınızı oluştururken veya yenilerken en çok merak edilen konulardan biri "Web tasarım fiyatları nedir?" sorusudur. Ajanslardan veya freelancer'lardan aldığınız fiyat tekliflerindeki uçurumlar kafanızı karıştırabilir. Bu yazımızda, kesin rakamlar vermek yerine, bir web projesinin maliyetini oluşturan temel dinamikleri şeffaf bir şekilde anlatıyoruz.
+      </p>
+
+      <img
+        src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+        alt="Web Tasarım Fiyatları"
+        style="width:100%; height:auto; border-radius: 16px; margin: 22px 0; object-fit: cover;"
+      />
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">1) Özel Tasarım mı, Hazır Şablon mu?</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Fiyatı etkileyen en büyük faktör sitenizin mimarisidir. Markanızın kimliğine özel olarak sıfırdan çizilen (UI/UX) ve kodlanan projelerin maliyeti doğal olarak daha yüksektir. Hazır şablonlar (template) daha düşük bütçelidir ancak marka özgünlüğünüzü yansıtmakta yetersiz kalabilir ve uzun vadede özelleştirme zorlukları yaratabilir.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">2) Sayfa Sayısı ve İçerik Yönetimi</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Tek sayfalık bir tanıtım (landing page) sitesinin iş yükü ile 50 sayfadan oluşan, blog altyapısına sahip kurumsal bir sitenin iş yükü aynı değildir. Site haritasının genişliği ve içeriklerin (metin, görsel) kim tarafından üretileceği web tasarım ücretlerini doğrudan etkiler.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">3) E-Ticaret ve Gelişmiş Fonksiyonlar</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Sitenizde online ödeme alacak mısınız? Stok takibi, üyelik sistemi, çoklu dil desteği (İngilizce, Arapça vb.) veya CRM entegrasyonu gibi ek özellikler, arka plan (backend) geliştirme süresini uzatacağı için bütçeyi artırır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">4) SEO ve Performans Optimizasyonu</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Sadece güzel görünen bir site Google'da üst sıralara çıkamaz. Sitenin kod yapısının SEO uyumlu inşa edilmesi, görsel optimizasyonlarının yapılması ve sayfa yükleme hızının milisaniyeler seviyesine indirilmesi uzmanlık gerektirir. Kaliteli bir SEO altyapısı, başlangıçta bir maliyet kalemi gibi görünse de uzun vadede en büyük yatırımınızdır.
+      </p>
+
+      <div style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.18); padding: 16px; border-radius: 14px; margin: 20px 0;">
+        <strong style="color:#fff; font-size: 20px;">Bütçenize Uygun Çözümler İçin</strong><br/>
+        <p style="margin-top: 8px; color: rgba(255,255,255,0.85);">
+          MFO Creative olarak ihtiyaçlarınızı dinliyor ve size en uygun dijital çözümü sunuyoruz. Projenizi detaylandırmak ve markanıza özel fiyatlandırma almak için bizimle <a href="/iletisim" style="color: #60a5fa; text-decoration: underline;">iletişime geçebilirsiniz</a>.
+        </p>
+      </div>
+    </div>
+    `
+  },
+  {
+    id: 1002,
+    slug: "sosyal-medya-danismanlik-ucretleri",
+    title: "Sosyal Medya Yönetimi ve Danışmanlık Ücretleri Neye Göre Değişir?",
+    category: "Sosyal Medya",
+    date: "14 Temmuz 2026",
+    author: "/beyin.png",
+    excerpt: "Sosyal medya ajansı fiyatları ve aylık yönetim ücretleri hesaplanırken dikkate alınan kriterler; içerik üretiminden, reklam yönetimine kadar tüm detaylar.",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    tags: ["Sosyal Medya", "Fiyatlandırma", "Danışmanlık", "Dijital Pazarlama", "Reklam"],
+    readTime: "6 dk",
+    metaDescription: "Sosyal medya yönetimi aylık ücretleri ve danışmanlık fiyatları nasıl belirlenir? İçerik üretimi, moderasyon ve reklam bütçesi yönetimi detayları.",
+    content: `
+    <div style="max-width: 900px; margin: 0 auto; padding: 10px 0; font-size: 18px; line-height: 1.9; color: #fff;">
+      <h2 style="font-size: 34px; line-height: 1.25; margin-bottom: 14px; color: #fff;">
+        Sosyal Medya Ajansı Fiyatlandırma Kriterleri
+      </h2>
+      <p style="font-size: 18px; color: rgba(255,255,255,0.8); margin-top: 0; margin-bottom: 22px;">
+        Instagram, LinkedIn, TikTok ve diğer platformlarda markanızı büyütmek istiyorsunuz ancak "Sosyal medya danışmanlık ücretleri ne kadar?" diye merak ediyorsunuz. Sosyal medya yönetimi sabit bir ürün değil, dinamik bir hizmettir. Bu yüzden fiyatlandırma tamamen markanın hedeflerine ve ihtiyaç duyulan efora göre şekillenir.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Yönetilecek Platform Sayısı</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Sadece Instagram hesabı yönetimi ile aynı anda hem Instagram, hem LinkedIn, hem de YouTube yönetimi farklı bütçeler gerektirir. Her platformun dinamikleri, hedef kitlesi ve içerik formatları (Reels, Carousel, Shorts) farklı olduğu için iş yükü platform sayısıyla orantılı artar.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Paylaşım Sıklığı ve İçerik Kalitesi</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Haftada 2 gönderi çıkmak ile her gün Reels, Story ve etkileşimli içerikler paylaşmak ajans fiyatlarını etkileyen ana faktördür. Ayrıca içeriklerin niteliği; özel video prodüksiyonu mu gerektiriyor, yoksa sadece stok görsellerle grafik tasarım mı yapılacak? Prodüksiyon (çekim) gerektiren aylık paketler daha farklı değerlendirilir.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Topluluk Yönetimi (Moderasyon)</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Takipçilerden gelen yorumlara ve DM'lere anında yanıt verilmesi (moderasyon), kriz iletişimi ve marka itibarının korunması sürekli mesai gerektirir. Yüksek etkileşimli hesaplarda moderasyon hizmeti, danışmanlık ücretinin önemli bir parçasıdır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Reklam Bütçesi Yönetimi</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Meta (Facebook/Instagram) veya LinkedIn reklamlarınızın kurulumu, A/B testlerinin yapılması, ROAS (Reklam Harcaması Getirisi) optimizasyonu genellikle organik sosyal medya yönetiminden ayrı bir uzmanlık alanıdır. Reklam hesaplarının yönetimi, harcanan bütçeye veya efora göre ayrı bir bedel olarak sözleşmeye eklenir.
+      </p>
+
+      <div style="background: linear-gradient(135deg, rgba(236,72,153,0.2) 0%, rgba(59,130,246,0.2) 100%); border: 1px solid rgba(236,72,153,0.3); padding: 20px; border-radius: 14px; margin: 30px 0;">
+        <strong style="color:#fff; font-size: 20px;">Markanıza Özel Sosyal Medya Stratejisi</strong><br/>
+        <p style="margin-top: 8px; color: rgba(255,255,255,0.85);">
+          Standart paketler yerine sizi hedefinize ulaştıracak özelleştirilmiş çözümler sunuyoruz. Sosyal medya planlamanız için <a href="/sosyal-medya-calismalari" style="color: #fbcfe8; text-decoration: underline;">çalışmalarımızı inceleyin</a>.
+        </p>
+      </div>
+    </div>
+    `
+  },
+  {
+    id: 1003,
+    slug: "tanitim-filmi-cekimi-fiyatlari-ve-maliyetler",
+    title: "Profesyonel Tanıtım Filmi Çekimi Fiyatları ve Prodüksiyon Maliyetleri",
+    category: "Video Prodüksiyon",
+    date: "18 Temmuz 2026",
+    author: "/beyin.png",
+    excerpt: "Kurumsal tanıtım filmi, reklam ve video prodüksiyon çekim fiyatları nasıl belirlenir? Ekipman, kurgu ve oyuncu maliyetleri rehberi.",
+    image: "https://images.unsplash.com/photo-1473968512647-3e447244af8f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    tags: ["Tanıtım Filmi", "Video", "Prodüksiyon", "Fiyatlandırma", "Reklam"],
+    readTime: "8 dk",
+    metaDescription: "Tanıtım filmi fiyatları ve video prodüksiyon ücretleri rehberi. Çekim günü, drone kullanımı, kurgu montaj ve oyuncu maliyetlerinin detayları.",
+    content: `
+    <div style="max-width: 900px; margin: 0 auto; padding: 10px 0; font-size: 18px; line-height: 1.9; color: #fff;">
+      <h2 style="font-size: 34px; line-height: 1.25; margin-bottom: 14px; color: #fff;">
+        Kurumsal Video ve Tanıtım Filmi Bütçelemesi
+      </h2>
+      <p style="font-size: 18px; color: rgba(255,255,255,0.8); margin-top: 0; margin-bottom: 22px;">
+        Video içerik, günümüz dijital pazarlamasının en güçlü silahıdır. Markalar kendilerini etkileyici bir şekilde anlatmak için tanıtım filmlerine başvururken, karşılaştıkları "Tanıtım filmi fiyatları ne kadar?" sorusu oldukça değişkendir. Bir video projesinin bütçesini belirleyen ana etmenleri sizin için derledik.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Çekim Ekibi ve Ekipman Kalitesi</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Projenin ölçeğine göre sadece bir kameraman ve asistan yeterli olabileceği gibi; yönetmen, görüntü yönetmeni (DOP), ışık şefi, ses teknisyeni gibi geniş bir ekibe de ihtiyaç duyulabilir. Ayrıca standart HD kameralarla yapılan çekimlerle, sinema standartlarındaki (ARRI, RED vb.) kameralar ve profesyonel ışık/ses sistemleri kullanılarak yapılan çekimlerin prodüksiyon ücretleri farklıdır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Çekim Süresi ve Mekan Sayısı</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Çekimlerin yarım gün, bir tam gün veya haftalarca sürmesi maliyeti doğrudan etkiler. Aynı zamanda fabrika, ofis ve dış mekan (drone çekimi gerektiren) gibi farklı lokasyonlardaki çekimler lojistik ve zaman maliyetini artırır. FPV drone gibi özel yetenek gerektiren çekimler ekstra fiyatlandırılır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Oyuncu, Seslendirme ve Telif Hakları</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Filminizde profesyonel oyuncular yer alacaksa cast ajansı bedelleri devreye girer. Videonun arka planında kullanılacak müziğin telif hakları (lisanslı müzikler) ve eğer varsa profesyonel bir seslendirme sanatçısının (dublaj) kaşesi bütçeyi belirleyen diğer kalemlerdir.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Post-Prodüksiyon (Kurgu, Montaj, Efekt)</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Çekilen ham görüntülerin sinematik bir kurguyla birleştirilmesi, renk düzenlemesi (Color Grading) ve gerekiyorsa 2D/3D animasyonlar, görsel efektler (VFX) eklenmesi post-prodüksiyon aşamasıdır. Bazen sadece animasyon (Motion Graphics) ile oluşturulan reklam filmleri, canlı çekimlerden daha farklı bir ücretlendirme mantığına sahiptir.
+      </p>
+    </div>
+    `
+  },
+  {
+    id: 1004,
+    slug: "kurumsal-kimlik-tasarimi-fiyatlari",
+    title: "Kurumsal Kimlik Tasarımı Fiyatları ve Marka Değeri",
+    category: "Tasarım",
+    date: "20 Temmuz 2026",
+    author: "/beyin.png",
+    excerpt: "Logo, antetli kağıt, kartvizit ve kapsamlı kurumsal kimlik kılavuzu hazırlamanın maliyetleri ve ajans fiyatlandırma stratejileri.",
+    image: "https://images.unsplash.com/photo-1634942537034-2531766767d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    tags: ["Kurumsal Kimlik", "Logo", "Tasarım", "Markalama", "Fiyatlandırma"],
+    readTime: "5 dk",
+    metaDescription: "Kurumsal kimlik tasarımı ve logo tasarım fiyatları nasıl belirlenir? Kapsamlı marka kılavuzu oluşturmanın ücretleri ve önemi.",
+    content: `
+    <div style="max-width: 900px; margin: 0 auto; padding: 10px 0; font-size: 18px; line-height: 1.9; color: #fff;">
+      <h2 style="font-size: 34px; line-height: 1.25; margin-bottom: 14px; color: #fff;">
+        Kurumsal Kimlik ve Markalama Maliyetleri
+      </h2>
+      <p style="font-size: 18px; color: rgba(255,255,255,0.8); margin-top: 0; margin-bottom: 22px;">
+        "Sadece bir logo çizeceksiniz, fiyat neden bu kadar yüksek?" cümlesi tasarım dünyasının en klasik tartışmalarından biridir. Profesyonel bir kurumsal kimlik çalışması sadece bir çizim değil, markanızın ruhunu yansıtan psikolojik ve stratejik bir yatırımdır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Marka Analizi ve Strateji Fazı</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Doğru tasarım ajansları hemen çizime başlamazlar. Sektörünüz, rakipleriniz, hedef kitleniz ve marka değerleriniz analiz edilir. Renk psikolojisi ve tipografi araştırmaları yapılır. Bu stratejik süreç, fiyatı belirleyen en değerli fikri mülkiyet aşamasıdır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Tasarım Kapsamı (Neler Dahil?)</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Kurumsal kimlik fiyatları paketin içeriğine göre değişir. Sadece Logo + Kartvizit içeren temel bir paket ile; antetli kağıt, diplomat zarf, fatura şablonu, personel kartları, sunum şablonları, araç giydirme, ofis içi yönlendirme tabelaları ve promosyon ürünlerini kapsayan tam donanımlı bir markalama çalışmasının ücreti elbette farklıdır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Kurumsal Kimlik Kılavuzu (Brand Book)</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Logonun hangi arka planlarda nasıl kullanılacağı, minimum kullanım boyutları, marka renk kodları (Pantone, CMYK, RGB) ve tipografi kurallarını anlatan 30-40 sayfalık bir "Marka Anayasası" oluşturulması, çalışmanın kalitesini artırdığı gibi fiyatlandırmayı da yukarı taşır. Bu kılavuz, gelecekte başka ajanslarla veya matbaalarla çalışırken markanızın bozulmasını engeller.
+      </p>
+    </div>
+    `
+  },
+  {
+    id: 1005,
+    slug: "matbaa-baski-hizmetleri-fiyatlari",
+    title: "Matbaa ve Baskı Hizmetleri Fiyatlarını Etkileyen 5 Önemli Faktör",
+    category: "Baskı",
+    date: "25 Temmuz 2026",
+    author: "/beyin.png",
+    excerpt: "Kurumsal katalog, broşür ve ambalaj baskılarında maliyetleri ne belirler? Kağıt türü, baskı tekniği ve adet miktarı gibi detaylar.",
+    image: "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    tags: ["Baskı", "Matbaa", "Fiyatlandırma", "Katalog", "Ambalaj"],
+    readTime: "5 dk",
+    metaDescription: "Matbaa ve baskı hizmetleri ücretleri ve fiyat listeleri neye göre çıkarılır? Ofset, dijital baskı, kağıt gramajı ve ekstra uygulamaların maliyetlere etkisi.",
+    content: `
+    <div style="max-width: 900px; margin: 0 auto; padding: 10px 0; font-size: 18px; line-height: 1.9; color: #fff;">
+      <h2 style="font-size: 34px; line-height: 1.25; margin-bottom: 14px; color: #fff;">
+        Kurumsal Baskı ve Matbaa Maliyetleri
+      </h2>
+      <p style="font-size: 18px; color: rgba(255,255,255,0.8); margin-top: 0; margin-bottom: 22px;">
+        Katalog, broşür, dergi veya kartvizit bastırmak istediğinizde matbaalardan aldığınız fiyatların birbirinden farklı olduğunu görebilirsiniz. Baskı fiyatları tamamen projenin fiziksel özelliklerine ve malzeme kalitesine bağlı olarak şeffaf bir şekilde hesaplanır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">1) Kağıt Türü ve Gramajı</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Baskı ücretlerinin büyük bölümünü hammadde olan kağıt oluşturur. Kuşe kağıt, 1. hamur veya geri dönüştürülmüş özel dokulu fantazi kağıtların fiyatları farklıdır. Ayrıca kağıdın kalınlığı (135 gr ile 350 gr arası) hem fiyatı hem de ürünün lüks hissiyatını doğrudan etkiler.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">2) Baskı Adedi (Tiraj)</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Baskı miktarınız arttıkça "birim başı maliyet" düşer. Özellikle ofset baskıda kalıp maliyeti ilk etapta sabittir. Bu yüzden 500 adet katalog bastırmak ile 5.000 adet bastırmak arasında toplam bütçe artsa da, katalog başı düşen ücret ciddi oranda ucuzlar. Düşük adetler (50-100 adet) için dijital baskı daha avantajlıdır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">3) Renk Sayısı (CMYK veya Pantone)</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Standart 4 renkli (CMYK) baskıların yanı sıra, markanızın kurumsal rengini tam olarak tutturmak için özel Pantone veya yaldız renklerin kullanılması ekstra kalıp ve mürekkep gerektirdiği için maliyeti değiştirir.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">4) Ciltleme ve Selefon (Laminasyon)</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Kataloğunuz tel dikiş mi, Amerikan cilt mi yoksa iplik dikiş mi olacak? Kapağında mat/parlak selefon olacak mı? Bu işlemler üretim sonrası ciltleme atölyesinde yapılan işçiliklerdir ve bütçeye eklenir.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">5) Ekstra Uygulamalar (Lak, Gofre, Varak)</h3>
+        Logonuzun veya kapağınızın belli yerlerinin parlaması (Kısmi Lak), kabartılması (Gofre) veya gümüş/altın yaldız (Varak) ile süslenmesi gibi premium işçilikler baskı sürecini lüks segmente taşır ve fiyata yansır.
+      </p>
+    </div>
+    `
+  },
+  {
+    id: 1006,
+    slug: "seo-calismalari-ve-yatirim-getirisi",
+    title: "SEO Çalışmaları ve Uzun Vadeli Yatırım Getirisi (ROI)",
+    category: "SEO",
+    date: "1 Ağustos 2026",
+    author: "/beyin.png",
+    excerpt: "Arama motoru optimizasyonu (SEO) hizmetleri için ayrılan bütçe, uzun vadede markanıza nasıl geri döner? Dijital pazarlamadaki en karlı yatırımı keşfedin.",
+    image: "https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    tags: ["SEO", "Dijital Pazarlama", "Yatırım", "Trafik", "Maliyet"],
+    readTime: "7 dk",
+    metaDescription: "SEO hizmeti ücretleri ve arama motoru optimizasyonu çalışmalarının markalara uzun vadedeki finansal getirisi (ROI) hakkında detaylı rehber.",
+    content: `
+    <div style="max-width: 900px; margin: 0 auto; padding: 10px 0; font-size: 18px; line-height: 1.9; color: #fff;">
+      <h2 style="font-size: 34px; line-height: 1.25; margin-bottom: 14px; color: #fff;">
+        SEO Bir Gider Değil, Kalıcı Bir Yatırımdır
+      </h2>
+      <p style="font-size: 18px; color: rgba(255,255,255,0.8); margin-top: 0; margin-bottom: 22px;">
+        Dijital pazarlama bütçesi planlanırken en sık sorulan sorulardan biri "SEO hizmeti fiyatları ne kadar ve bu yatırıma değer mi?" sorusudur. Google Ads gibi tıklama başı maliyet (CPC) gerektiren reklamların aksine, SEO çalışmaları uzun vadeli, sürdürülebilir ve en yüksek ROI (Yatırım Getirisi) sağlayan pazarlama stratejisidir.
+      </p>
+
+      <img
+        src="https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+        alt="SEO Çalışmaları ve Yatırım Getirisi"
+        style="width:100%; height:auto; border-radius: 16px; margin: 22px 0; object-fit: cover;"
+      />
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Site İçi (On-Page) Optimizasyonun Rolü</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Web sitenizin teknik altyapısı, hız optimizasyonu (Core Web Vitals), H1-H2 etiketlerinin düzenlenmesi ve mobil uyumluluğu temel SEO gereksinimleridir. Altyapısı zayıf olan bir sitenin organik trafiği artmaz. Bu teknik düzenlemeler SEO fiyatlandırmasının belkemiğini oluşturur.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">İçerik Stratejisi ve Blog Yönetimi</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        "Content is King" kuralı geçerliliğini koruyor. Hedef kitle araştırması yapılarak belirlenen anahtar kelimelerle düzenli ve kaliteli içerik üretimi, SEO danışmanlık bütçesinin önemli bir parçasıdır. Kaliteli içerikler sitenizin arama motorlarındaki otoritesini zamanla yukarı taşır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Reklam Maliyetlerini Düşürme Etkisi</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Güçlü bir SEO yapısı kurduğunuzda, en değerli anahtar kelimelerde organik (ücretsiz) olarak ilk sayfada çıkmaya başlarsınız. Bu sayede o kelimelere reklam bütçesi (Google Ads) harcamak zorunda kalmazsınız. SEO'ya ayrılan bütçe, aylar içinde kendisini fazlasıyla amorti eder.
+      </p>
+
+      <div style="background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.18); padding: 16px; border-radius: 14px; margin: 20px 0;">
+        <strong style="color:#fff; font-size: 20px;">Organik Trafiğinizi Artırın</strong><br/>
+        <p style="margin-top: 8px; color: rgba(255,255,255,0.85);">
+          Sektörünüze özel SEO stratejileri ve kalıcı organik büyüme hedefleri için <a href="/iletisim" style="color: #60a5fa; text-decoration: underline;">bizimle iletişime geçin</a>.
+        </p>
+      </div>
+    </div>
+    `
+  },
+  {
+    id: 1007,
+    slug: "dijital-reklam-yonetimi-maliyetleri",
+    title: "Dijital Reklam Bütçesi ve Kampanya Yönetimi Ücretleri",
+    category: "Reklam",
+    date: "5 Ağustos 2026",
+    author: "/beyin.png",
+    excerpt: "Google Ads ve Meta reklamlarında harcanan bütçenin doğru optimize edilmesi neden önemlidir? Reklam yönetimi ajans ücretleri ve performans metrikleri.",
+    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    tags: ["Google Ads", "Meta Ads", "Reklam", "Bütçe", "Dijital Pazarlama"],
+    readTime: "6 dk",
+    metaDescription: "Dijital reklam ajansı ücretleri, Google Ads ve Facebook/Instagram (Meta) reklam bütçesi optimizasyonu ve maliyet analizi.",
+    content: `
+    <div style="max-width: 900px; margin: 0 auto; padding: 10px 0; font-size: 18px; line-height: 1.9; color: #fff;">
+      <h2 style="font-size: 34px; line-height: 1.25; margin-bottom: 14px; color: #fff;">
+        Reklam Bütçenizi Boşa Harcamayın: Optimizasyonun Gücü
+      </h2>
+      <p style="font-size: 18px; color: rgba(255,255,255,0.8); margin-top: 0; margin-bottom: 22px;">
+        İnternet reklamlarına bütçe ayırmak tek başına başarı getirmez. Yanlış hedefleme ve zayıf kampanya kurgusu ile binlerce lira birkaç gün içinde boşa gidebilir. Bu yüzden profesyonel bir ajansın aldığı "Reklam yönetimi ücreti" aslında bütçenizi koruyan bir kalkan işlevi görür.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Hesap Kurulumu ve Strateji</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Sıfırdan kurulan bir Google veya Meta Ads hesabında, anahtar kelime planlaması, negatif kelime tespiti, hedef kitle demografik analizi ve rakip analizleri yapılır. Kampanyanın temelleri doğru atılmazsa, Tıklama Başına Maliyet (CPC) çok yüksek çıkabilir.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Ajans Yönetim Ücreti vs. Reklam Bütçesi</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Genellikle ajanslar, Google veya Meta'ya ödenen medya bütçesinden bağımsız olarak aylık bir "Danışmanlık/Yönetim Ücreti" talep ederler. Bu ücret, efor gerektiren A/B testlerinin yapılması, görsellerin/videoların değiştirilmesi, günlük performans takibi ve ROAS (Reklam Getirisi) optimizasyonu karşılığında alınır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Performansa Dayalı İyileştirmeler</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Kampanya başladıktan sonra her şey bitmez. İlk hafta toplanan verilere göre hangi reklam setlerinin iş yaptığı, hangilerinin bütçe yaktığı analiz edilir. Uzman ellerde yönetilen bir reklam bütçesi, aynı harcama ile %300'e kadar daha fazla dönüşüm (satış/lead) getirebilir.
+      </p>
+    </div>
+    `
+  },
+  {
+    id: 1008,
+    slug: "e-ticaret-sitelerinde-donusum-oranini-artirma",
+    title: "E-Ticaret Sitelerinde Maliyetsiz Dönüşüm Oranı Artırma (CRO)",
+    category: "Web Tasarım",
+    date: "12 Ağustos 2026",
+    author: "/beyin.png",
+    excerpt: "E-ticaret sitenize gelen trafiği satışa çeviremiyor musunuz? Reklam bütçenizi artırmadan satışları artırmanın kullanıcı deneyimi (UX) odaklı yolları.",
+    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    tags: ["E-Ticaret", "Dönüşüm", "Satış", "UX", "Web Tasarım"],
+    readTime: "5 dk",
+    metaDescription: "E-ticaret sitelerinde satış artırma, dönüşüm oranı optimizasyonu (CRO) ve sepette terk oranını düşürmek için yapılabilecek iyileştirmeler.",
+    content: `
+    <div style="max-width: 900px; margin: 0 auto; padding: 10px 0; font-size: 18px; line-height: 1.9; color: #fff;">
+      <h2 style="font-size: 34px; line-height: 1.25; margin-bottom: 14px; color: #fff;">
+        Trafiğiniz Var Ama Satış Yok mu?
+      </h2>
+      <p style="font-size: 18px; color: rgba(255,255,255,0.8); margin-top: 0; margin-bottom: 22px;">
+        Birçok marka dijital reklamlarla sitesine binlerce kişi çeker ancak bu ziyaretçilerin çok azı satın alma yapar. Satışları artırmak için her zaman reklam bütçesini artırmak gerekmez. Dönüşüm Oranı Optimizasyonu (CRO) çalışmaları sayesinde aynı trafikle daha fazla satış elde edilebilir.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Sepet Terk Oranını Düşürmek</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Müşterilerinizin %70'i ürünleri sepete ekledikten sonra satın almadan çıkıyor. Bunun sebepleri; gizli kargo ücretleri, zorunlu üyelik şartı veya karmaşık ödeme adımları olabilir. "Misafir Alışverişi" seçeneği sunmak ve tek sayfalık ödeme (one-page checkout) altyapısı kurmak satışları doğrudan artırır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Güven Unsurları ve Şeffaflık</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Fiyatlandırma, iade politikaları ve kargo süreçleri şeffaf olmalıdır. Kullanıcılar ödeme sayfasına gelene kadar fiyat veya ekstra maliyetler konusunda sürpriz yaşamamalıdır. SSL sertifikası rozetleri ve müşteri yorumları gibi sosyal kanıtlar satın alma kararını hızlandırır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Hız ve Mobil Performans</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Özellikle mobilden yapılan alışverişlerde, 3 saniyeden geç açılan ürün sayfaları müşteriyi rakip siteye gönderir. E-ticaret sitenizin altyapısı, hız optimizasyonu açısından kusursuz olmalıdır. MFO Creative olarak yüksek performanslı e-ticaret çözümleri sunuyoruz.
+      </p>
+    </div>
+    `
+  },
+  {
+    id: 1009,
+    slug: "kurumsal-kimlik-renk-psikolojisi",
+    title: "Kurumsal Kimlik Tasarımında Renk Psikolojisi ve Tüketici Algısı",
+    category: "Tasarım",
+    date: "18 Ağustos 2026",
+    author: "/beyin.png",
+    excerpt: "Marka renginiz müşterilerinizin satın alma kararını ve fiyat algısını nasıl etkiler? Kurumsal kimlik tasarımında doğru rengin stratejik önemi.",
+    image: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    tags: ["Kurumsal Kimlik", "Tasarım", "Renkler", "Marka İmajı", "Logo"],
+    readTime: "6 dk",
+    metaDescription: "Kurumsal kimlik ve logo tasarımında renk psikolojisi. Mavi, kırmızı, siyah gibi renklerin marka kimliğine ve tüketici algısına etkileri.",
+    content: `
+    <div style="max-width: 900px; margin: 0 auto; padding: 10px 0; font-size: 18px; line-height: 1.9; color: #fff;">
+      <h2 style="font-size: 34px; line-height: 1.25; margin-bottom: 14px; color: #fff;">
+        Renkler Sadece Bir Estetik Meselesi Değildir
+      </h2>
+      <p style="font-size: 18px; color: rgba(255,255,255,0.8); margin-top: 0; margin-bottom: 22px;">
+        Müşteriler, bir ürün veya marka hakkında bilinçaltı kararlarının %90'ını sadece 90 saniye içinde ve büyük oranda renklere dayalı olarak verirler. Bu nedenle kurumsal kimlik oluştururken ajansların renk seçimi için ciddi bir araştırma mesaisi harcaması gerekir.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Premium Algısı İçin Hangi Renkler Kullanılır?</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Siyah, altın (gold) ve koyu gri tonları genellikle lüks, kalite ve yüksek fiyat etiketini simgeler. Otomotiv, saat, mücevher ve üst düzey mimarlık ofisleri bu renkleri tercih eder. Markanızı "ucuz" değil, "kaliteli" olarak konumlandırmak istiyorsanız bu paletler kurumsal kimliğinize entegre edilmelidir.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Güven ve Teknoloji: Mavi'nin Gücü</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Mavi renk güven, dürüstlük ve teknolojik uzmanlık hissi verir. Bankaların, sigorta şirketlerinin ve yazılım firmalarının logolarında sıkça maviyi görmemizin sebebi budur. Tüketici parasını veya datasını emanet edeceği kurumu seçerken bilinçaltında bu güveni arar.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Aksiyon ve Enerji: Kırmızı ve Turuncu</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Kırmızı nabzı hızlandırır, aciliyet hissi yaratır. İndirim kampanyaları, hızlı tüketim ürünleri (FMCG) ve yiyecek sektöründe sıkça kullanılır. Fiyat odaklı satış yapan veya genç kitlenin dinamizmini yakalamak isteyen markalar için ideal bir aksiyon rengidir.
+      </p>
+    </div>
+    `
+  },
+  {
+    id: 1010,
+    slug: "reels-ve-tiktok-video-trendleri",
+    title: "Kısa Video Devrimi: Markalar İçin Reels ve TikTok Stratejileri",
+    category: "Video Prodüksiyon",
+    date: "22 Ağustos 2026",
+    author: "/beyin.png",
+    excerpt: "Uzun yatay videoların yerini alan dikey kısa videolar (Reels, TikTok, Shorts) ile daha düşük bütçelerle daha geniş kitlelere nasıl ulaşılır?",
+    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    tags: ["Video", "Reels", "TikTok", "Sosyal Medya", "İçerik"],
+    readTime: "5 dk",
+    metaDescription: "Instagram Reels, TikTok ve YouTube Shorts için video içerik üretimi. Markaların dikey video stratejileri ve içerik üretim maliyetleri.",
+    content: `
+    <div style="max-width: 900px; margin: 0 auto; padding: 10px 0; font-size: 18px; line-height: 1.9; color: #fff;">
+      <h2 style="font-size: 34px; line-height: 1.25; margin-bottom: 14px; color: #fff;">
+        Dikkat Süresi Daralırken Etkiyi Büyütmek
+      </h2>
+      <p style="font-size: 18px; color: rgba(255,255,255,0.8); margin-top: 0; margin-bottom: 22px;">
+        Geleneksel uzun reklam filmlerinin yerini hızla 15-60 saniyelik dikey kısa videolar alıyor. Instagram Reels, TikTok ve YouTube Shorts algoritmaları, eğlenceli ve değer katan içerikleri saniyeler içinde milyonlara ulaştırabiliyor. Peki markalar bu trene nasıl binmeli?
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Sürekli Prodüksiyon Maliyetlerinden Kaçınmak</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Her dikey video için devasa setler kurmaya gerek yoktur. Gerçekçi, kamera arkası (UGC - Kullanıcı Tarafından Oluşturulan İçerik) formatındaki samimi videolar genellikle daha fazla organik etkileşim alır. Ayda bir kez yapılacak tam günlük toplu bir çekim ile o ayın tüm Reels ihtiyacı karşılanarak prodüksiyon maliyetleri optimize edilebilir.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">İlk 3 Saniye Kuralı</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Kullanıcının kaydırma (scroll) hareketini durdurmak için videonun en çarpıcı anı veya "hook" dediğimiz merak uyandıran metin/sorusu ilk 3 saniyede yer almalıdır. Eğer bu sürede dikkat çekilemezse, harcanan çekim ve kurgu emeği maalesef karşılık bulmaz.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Ses (Müzik) Trendlerine Ayak Uydurmak</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Platformlardaki popüler (trending) sesleri markanın kurumsal kimliğini zedelemeden kullanmak organik erişimi katlar. MFO Creative olarak video stratejilerinizi belirlerken güncel algoritmaları ve trendleri yakından takip ediyor, markanıza en uygun dinamik kurguları hazırlıyoruz.
+      </p>
+    </div>
+    `
+  },
+  {
+    id: 1011,
+    slug: "e-ticaret-sitesi-kurarken-nelere-dikkat-edilmeli",
+    title: "E-Ticaret Sitesi Kurarken Nelere Dikkat Edilmeli?",
+    category: "Web Tasarım",
+    date: "10 Eylül 2026",
+    author: "/beyin.png",
+    excerpt: "Sakarya ve Kocaeli'de online satışa başlamak isteyen KOBİ'ler için e-ticaret altyapısı seçimi, ödeme sistemleri ve UX tasarımı rehberi.",
+    image: "https://images.unsplash.com/photo-1497636577773-f1231844b336?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    tags: ["E-Ticaret", "Web Tasarım", "Satış", "Sakarya Web Tasarım", "İzmit Web Ajansı"],
+    readTime: "7 dk",
+    metaDescription: "E-ticaret sitesi kurarken dikkat edilmesi gerekenler. Sakarya, Kocaeli ve Düzce firmaları için B2B ve B2C e-ticaret altyapı çözümleri.",
+    content: `
+    <div style="max-width: 900px; margin: 0 auto; padding: 10px 0; font-size: 18px; line-height: 1.9; color: #fff;">
+      <h2 style="font-size: 34px; line-height: 1.25; margin-bottom: 14px; color: #fff;">
+        Dijital Vitrininizi Güçlendirin
+      </h2>
+      <p style="font-size: 18px; color: rgba(255,255,255,0.8); margin-top: 0; margin-bottom: 22px;">
+        Fiziksel bir mağazanın aksine, e-ticaret siteniz 7 gün 24 saat müşterilerinizi ağırlayan küresel bir vitrindir. <strong>Sakarya web tasarım</strong>, <strong>Kocaeli</strong> ve <strong>Düzce</strong> bölgesindeki KOBİ'lerin dijital dönüşümünde en büyük adımı olan e-ticaret siteleri, sadece "güzel görünmekle" kalmamalı, güvenli ve hızlı olmalıdır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">UX (Kullanıcı Deneyimi) ve Mobil Uyumluluk</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Ziyaretçilerin %80'inden fazlası alışverişlerini mobil cihazlardan yapıyor. Sepete ekle butonunun yeri, ödeme adımlarının kısalığı ve sayfa yüklenme hızı doğrudan satış oranlarınızı (Conversion Rate) etkiler. Profesyonel bir <strong>e-ticaret sitesi tasarımı</strong> ziyaretçiyi yormadan doğrudan ödemeye yönlendirmelidir.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Güvenilir Ödeme Altyapısı (Sanal Pos)</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        BDDK onaylı sanal POS entegrasyonları ile müşteriye "burası güvenli" hissiyatı vermek şarttır. SSL sertifikası olmayan bir e-ticaret sitesi, arama motorlarında (SEO) daima geriye düşecektir. MFO Creative olarak <strong>Sakarya yazılım firmaları</strong> arasında en güvenli altyapıları sunuyoruz.
+      </p>
+    </div>
+    `
+  },
+  {
+    id: 1012,
+    slug: "2026-kurumsal-seo-stratejileri",
+    title: "2026 Yılında Kurumsal SEO Stratejileri Nasıl Olmalı?",
+    category: "Dijital Pazarlama",
+    date: "15 Eylül 2026",
+    author: "/beyin.png",
+    excerpt: "Organik aramalar (Google) üzerinden müşteri bulmak isteyen markalar için ileri seviye yerel SEO (Local SEO) ve backlink yönetimi.",
+    image: "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    tags: ["SEO", "Google", "Dijital Ajans", "Organik Trafik", "Sakarya SEO Uzmanı"],
+    readTime: "8 dk",
+    metaDescription: "Kurumsal SEO nasıl yapılır? Sakarya reklam ajansı MFO Creative'den Google ilk sayfa sırları, yerel SEO (Local SEO) ve anahtar kelime analizi.",
+    content: `
+    <div style="max-width: 900px; margin: 0 auto; padding: 10px 0; font-size: 18px; line-height: 1.9; color: #fff;">
+      <h2 style="font-size: 34px; line-height: 1.25; margin-bottom: 14px; color: #fff;">
+        Google İlk Sayfa Sırrı: Kaliteli İçerik ve Hız
+      </h2>
+      <p style="font-size: 18px; color: rgba(255,255,255,0.8); margin-top: 0; margin-bottom: 22px;">
+        SEO (Arama Motoru Optimizasyonu) 2026 yılında artık sadece metinlere anahtar kelime yığmaktan çok daha fazlası. Google, kullanıcıların sitenizde ne kadar süre geçirdiğine, sitenizin mobil hızına (Core Web Vitals) ve içeriğin "gerçek insanlara" fayda sağlayıp sağlamadığına bakıyor. <strong>Sakarya SEO uzmanı</strong> arayışlarınızda ajansımızın ilk odak noktası her zaman temiz kod ve hızlı altyapıdır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Yerel SEO (Local SEO) ile Bölgenize Hakim Olun</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Eğer hedef kitleniz <strong>Sakarya, Kocaeli veya Düzce</strong> ise, Google Benim İşletmem (Google Maps) kayıtlarınızın kusursuz olması gerekir. Sitenize entegre edilecek <em>LocalBusiness JSON-LD</em> şemaları, bölgenizdeki "yakınımdaki ajanslar" aramalarında sizi direkt haritada 1. sıraya taşır.
+      </p>
+
+      <h3 style="font-size: 26px; margin-bottom: 10px; color:#fff;">Backlink Stratejisi</h3>
+      <p style="margin-top: 0; color: rgba(255,255,255,0.85);">
+        Sektörünüzle alakalı, otoriter sitelerden alınan referans bağlantılar (backlink), sitenizin güvenilirliğini artırır. Sadece nitelikli link inşası yapmak profesyonel bir <strong>dijital reklam ajansı</strong>'nın işidir.
       </p>
     </div>
     `

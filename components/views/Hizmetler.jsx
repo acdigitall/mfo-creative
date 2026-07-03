@@ -1,5 +1,7 @@
 "use client";
+import Head from 'next/head';
 import Link from 'next/link';
+import CTA from '@/components/CTA';
 import { useState } from "react";
 
 
@@ -320,41 +322,51 @@ export default function Hizmetler() {
           </div>
         </section>
 
-        {/* CTA Section */}
-        <section className="py-12 sm:py-20 px-4 sm:px-6">
-          <div className="max-w-5xl mx-auto">
-            <div className="relative rounded-2xl sm:rounded-3xl overflow-hidden">
-              {/* Background */}
-              <div className="absolute inset-0 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600"></div>
-              <div className="absolute inset-0 bg-[url('/images/pattern.svg')] opacity-10"></div>
-              
-              {/* Content */}
-              <div className="relative p-8 sm:p-12 md:p-16 text-center">
-                <h2 className="text-2xl sm:text-4xl md:text-5xl font-bold mb-4 sm:mb-6">
-                  Projenize Bugün Başlayalım
-                </h2>
-                <p className="text-base sm:text-xl text-white/90 mb-6 sm:mb-8 max-w-2xl mx-auto leading-relaxed">
-                  Ücretsiz danışmanlık için bizimle iletişime geçin. 
-                  Size özel çözümler üretmek için sabırsızlanıyoruz!
-                </p>
-                <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
-                  <a 
-                    href="/iletisim" 
-                    className="px-6 sm:px-8 py-3 sm:py-4 bg-white text-black rounded-full font-semibold text-sm sm:text-base hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-xl"
-                  >
-                    Hemen İletişime Geç
-                  </a>
-                  <a 
-                    href="/portfoy" 
-                    className="px-6 sm:px-8 py-3 sm:py-4 bg-white/20 backdrop-blur-md text-white rounded-full font-semibold text-sm sm:text-base hover:bg-white/30 transition-all duration-300 border border-white/30"
-                  >
-                    Çalışmalarımızı Gör
-                  </a>
-                </div>
-              </div>
-            </div>
+        {/* Sakarya SEO / FAQ Section */}
+        <section className="py-12 sm:py-16 px-4 sm:px-6 max-w-4xl mx-auto">
+          <div className="text-center mb-10">
+            <h2 className="text-2xl sm:text-4xl font-bold mb-4">Sıkça Sorulan Sorular</h2>
+            <p className="text-gray-400">Sakarya web tasarım ve dijital pazarlama süreçlerimiz hakkında merak edilenler.</p>
+          </div>
+          <div className="space-y-4">
+            <details className="group bg-white/5 backdrop-blur-sm border border-white/10 rounded-xl p-6 [&_summary::-webkit-details-marker]:hidden cursor-pointer hover:bg-white/10 transition-colors">
+              <summary className="flex items-center justify-between font-semibold text-base sm:text-lg text-white">
+                <span>Sakarya dışındaki şehirlere hizmet veriyor musunuz?</span>
+                <span className="transition group-open:rotate-180 text-gray-400">
+                  <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
+                </span>
+              </summary>
+              <p className="text-gray-400 mt-4 leading-relaxed text-sm sm:text-base border-t border-white/10 pt-4">
+                Evet, merkezimiz Sakarya (Serdivan / Adapazarı) olsa da Kocaeli (İzmit), Düzce ve İstanbul başta olmak üzere tüm Marmara bölgesine ve Türkiye'ye profesyonel web tasarım, sosyal medya yönetimi ve kurumsal kimlik hizmetleri sunuyoruz. Toplantılarımızı online veya yüz yüze planlayabiliyoruz.
+              </p>
+            </details>
+            <details className="group bg-white/5 backdrop-blur-sm border border-white/10 rounded-xl p-6 [&_summary::-webkit-details-marker]:hidden cursor-pointer hover:bg-white/10 transition-colors">
+              <summary className="flex items-center justify-between font-semibold text-base sm:text-lg text-white">
+                <span>Sakarya web tasarım fiyatları neye göre belirleniyor?</span>
+                <span className="transition group-open:rotate-180 text-gray-400">
+                  <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
+                </span>
+              </summary>
+              <p className="text-gray-400 mt-4 leading-relaxed text-sm sm:text-base border-t border-white/10 pt-4">
+                Fiyatlandırmalarımız, projenin büyüklüğüne, özel yazılım gereksinimlerine (e-ticaret, B2B, kurumsal site) ve tasarımsal sayfa sayısına göre değişmektedir. MFO Creative olarak Sakarya reklam ajansları arasında fiyat/performans odaklı, premium tasarımlar sunarak markanıza yüksek bir yatırım getirisi (ROI) sağlamayı hedefliyoruz.
+              </p>
+            </details>
+            <details className="group bg-white/5 backdrop-blur-sm border border-white/10 rounded-xl p-6 [&_summary::-webkit-details-marker]:hidden cursor-pointer hover:bg-white/10 transition-colors">
+              <summary className="flex items-center justify-between font-semibold text-base sm:text-lg text-white">
+                <span>Sosyal medya yönetimi paketleriniz neleri kapsıyor?</span>
+                <span className="transition group-open:rotate-180 text-gray-400">
+                  <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
+                </span>
+              </summary>
+              <p className="text-gray-400 mt-4 leading-relaxed text-sm sm:text-base border-t border-white/10 pt-4">
+                İçerik planlaması, gönderi (post) ve hikaye tasarımı, Reels ve TikTok video kurguları, hesap moderasyonu ve aylık Google Ads / Meta reklam yönetimini kapsayan uçtan uca bir dijital hizmet veriyoruz. Hedefimiz sadece takipçi kazanmak değil, doğrudan satışlarınızı ve marka bilinirliğinizi artırmaktır.
+              </p>
+            </details>
           </div>
         </section>
+
+        {/* CTA Section */}
+        <CTA />
       </div>
     </>
   );

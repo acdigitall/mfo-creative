@@ -6,7 +6,7 @@ import React, { useMemo, useState } from "react";
 import { BlogData } from "@/data/blog"; // yolunu projenize göre düzeltin: "@/data/blog" gibi
 
 export default function Blog() {
-  const navigate = useRouter();
+  const router = useRouter();
 
   // UI state
   const [activeCategory, setActiveCategory] = useState("Tümü");
@@ -215,7 +215,7 @@ export default function Blog() {
                 {filteredPosts.map((post) => (
                   <article
                     key={post.id}
-                    onClick={() => navigate(`/blog/${post.slug}`)}
+                    onClick={() => router.push(`/blog/${post.slug}`)}
                     className="group rounded-2xl overflow-hidden transition-all hover:scale-[1.02] cursor-pointer"
                     style={{
                       backdropFilter: "blur(20px) saturate(180%)",
@@ -308,11 +308,10 @@ export default function Blog() {
                       </div>
 
                       {/* CTA */}
-                      <div className="flex items-center justify-between">
+                      <div className="flex items-center justify-between mt-auto">
                         <div className="flex items-center gap-2 text-sm text-gray-300 group-hover:gap-4 transition-all">
                           Devamını Oku <span>→</span>
                         </div>
-                        <span className="text-xs text-gray-500">/{post.slug}</span>
                       </div>
                     </div>
                   </article>

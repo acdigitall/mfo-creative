@@ -1,13 +1,9 @@
-// src/api/index.js (MOCK DATA VERSION)
+import portfoy from "@/data/portfoy.json";
 
 const MOCK_DELAY = 500;
 const delay = (ms) => new Promise(r => setTimeout(r, ms));
 
-let mockProducts = [
-  { id: "1", title: "Örnek Web Tasarım", category: "Web", description: "Kurumsal web sitesi tasarımı", tur: ["tasarim", "sosyal"], image_path: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&q=80", client: "Acme Corp", year: 2024 },
-  { id: "2", title: "Örnek Logo Tasarımı", category: "Kimlik", description: "Yeni marka kimliği", tur: ["kmlik", "tasarim"], image_path: "https://images.unsplash.com/photo-1626785773985-9a8c0811e5a5?w=500&q=80", client: "XYZ Lojistik", year: 2023 },
-  { id: "3", title: "Örnek Katalog", category: "Baskı", description: "2024 Ürün Kataloğu", tur: ["baski"], image_path: "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&q=80", client: "ABC Mobilya", year: 2024 }
-];
+let mockProducts = portfoy;
 
 /** -------------------- PRODUCTS -------------------- **/
 
@@ -18,7 +14,12 @@ export async function getProducts() {
 
 export async function getProductsByTur(tur) {
   await delay(MOCK_DELAY);
-  return mockProducts.filter(p => (p.tur || []).includes(tur));
+  return mockProducts.filter(p => {
+    const pTur = p.tur || [];
+    if (Array.isArray(pTur)) return pTur.includes(tur);
+    if (typeof pTur === "string") return pTur.includes(tur);
+    return false;
+  });
 }
 
 export async function createProduct(form) {

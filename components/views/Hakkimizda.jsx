@@ -1,5 +1,7 @@
 "use client";
+import Head from 'next/head';
 import Link from 'next/link';
+import CTA from '@/components/CTA';
 
 
 export default function Hakkimizda() {
@@ -108,17 +110,18 @@ export default function Hakkimizda() {
                 <div className="space-y-4 text-gray-300 leading-relaxed">
                   <p>
                     2014 yılında, dijital dünyayı daha renkli ve yaratıcı hale getirme hayaliyle yola çıktık. 
-                    Küçük bir ekiple başladığımız yolculuğumuz, bugün 150'den fazla mutlu müşteriye 
-                    hizmet veren bir ajansa dönüştü.
+                    <strong>Sakarya</strong> merkezli olarak kurulan ajansımızda küçük bir ekiple başladığımız bu yolculuk, bugün başta 
+                    Serdivan, Adapazarı, <strong>Kocaeli (İzmit)</strong> ve <strong>Düzce</strong> olmak üzere tüm Türkiye'de 150'den fazla mutlu müşteriye 
+                    hizmet veren saygın bir dijital reklam ajansına dönüştü.
                   </p>
                   <p>
                     Başlangıçta sadece grafik tasarım hizmeti verirken, zamanla dijital pazarlama, 
-                    web geliştirme, video prodüksiyon ve baskı hizmetlerini de portföyümüze ekledik. 
-                    Her geçen gün büyüyor, gelişiyor ve daha iyisini yapmak için çabalıyoruz.
+                    web geliştirme, kurumsal kimlik ve video prodüksiyon hizmetlerini de portföyümüze ekledik. 
+                    MFO Creative olarak her geçen gün büyüyor, gelişiyor ve markanızı dijitalde parlatmak için çabalıyoruz.
                   </p>
                   <p>
                     Ekibimiz, her biri kendi alanında uzman, tutkulu profesyonellerden oluşuyor. 
-                    Ortak hedefimiz: Müşterilerimizin markalarını öne çıkaran, akılda kalıcı projeler üretmek.
+                    Ortak hedefimiz: Müşterilerimizin markalarını öne çıkaran, yenilikçi projeler üretmek ve yerel pazarın yanı sıra global arenada da rekabet güçlerini artırmaktır.
                   </p>
                 </div>
               </div>
@@ -276,39 +279,7 @@ export default function Hakkimizda() {
         </section>
 
         {/* CTA Section */}
-        <section className="py-16 sm:py-20 px-4 sm:px-6">
-          <div className="max-w-5xl mx-auto">
-            <div className="relative rounded-3xl overflow-hidden shadow-2xl">
-              <div className="absolute inset-0 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600"></div>
-              <div className="absolute inset-0 bg-[url('/images/pattern.svg')] opacity-10"></div>
-              
-              <div className="relative p-12 md:p-16 text-center">
-                <div className="text-6xl mb-6">🤝</div>
-                <h2 className="text-4xl md:text-5xl font-bold mb-6">
-                  Birlikte Çalışalım
-                </h2>
-                <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto leading-relaxed">
-                  Markanızı bir sonraki seviyeye taşımak için hazırız. 
-                  Ücretsiz danışmanlık için hemen iletişime geçin!
-                </p>
-                <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  <Link 
-                    href="/iletisim" 
-                    className="px-8 py-4 bg-white text-purple-600 rounded-full font-bold hover:bg-gray-100 transition-all duration-300 hover:scale-110 shadow-2xl"
-                  >
-                    İletişime Geçin 📧
-                  </Link>
-                  <Link 
-                    href="/portfoy" 
-                    className="px-8 py-4 bg-white/20 backdrop-blur-md text-white rounded-full font-semibold hover:bg-white/30 transition-all duration-300 border border-white/30"
-                  >
-                    Çalışmalarımızı Görün
-                  </Link>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+        <CTA />
 
       </div>
     </>

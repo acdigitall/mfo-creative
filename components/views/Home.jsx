@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import Image from 'next/image';
 import portfolioData from '@/data/portfoy.json';
 import data from '@/data/portfoy.json'; 
+import CTA from '@/components/CTA';
 function TrustedBrandsSwiper({ items }) {
   const [perView, setPerView] = useState(6);
   const [index, setIndex] = useState(0); // 0'dan başlıyoruz, clone yok
@@ -730,48 +731,23 @@ export default function Home() {
       />
     </div>
   </section>
-        {/* CTA Section */}
-        <section className="py-12 sm:py-16 lg:py-20 px-4 sm:px-6">
-  <div className="max-w-5xl mx-auto">
-    <div className="relative rounded-2xl sm:rounded-3xl overflow-hidden shadow-2xl">
-      <div className="absolute inset-0 bg-gradient-to-r from-blue-500 via-purple-400 to-pink-400"></div>
-      <div className="absolute inset-0 bg-[url('/images/pattern.svg')] opacity-10"></div>
+        {/* Sakarya SEO Bölümü */}
+        <section className="py-8 sm:py-12 px-4 sm:px-6 max-w-6xl mx-auto">
+          <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 sm:p-10 text-center text-gray-300">
+            <h2 className="text-xl sm:text-2xl font-bold text-white mb-4">
+              Sakarya Web Tasarım ve Dijital Çözüm Ortaklığınız
+            </h2>
+            <p className="text-sm sm:text-base leading-relaxed max-w-4xl mx-auto mb-4">
+              Merkezi <strong>Sakarya</strong>'da bulunan <strong>MFO Creative</strong>, başta Serdivan, Adapazarı ve Sapanca olmak üzere tüm Türkiye'ye uçtan uca dijital dönüşüm hizmetleri sunan yaratıcı bir ajanstır. Markanızın dijital dünyada sağlam adımlarla ilerlemesi için profesyonel <em>web tasarım, sosyal medya yönetimi, kurumsal kimlik oluşturma</em> ve <em>tanıtım filmi prodüksiyonu</em> alanlarında stratejik çözümler geliştiriyoruz.
+            </p>
+            <p className="text-sm sm:text-base leading-relaxed max-w-4xl mx-auto text-gray-400">
+              Sadece estetik değil, satış ve dönüşüm odaklı performans pazarlaması (Google Ads, Meta Reklamları) stratejilerimizle Sakarya reklam ajansı arayışınıza yenilikçi bir bakış açısı getiriyoruz. İşinizi büyütmek, doğru hedef kitleye ulaşmak ve sürdürülebilir başarı yakalamak için yanınızdayız.
+            </p>
+          </div>
+        </section>
 
-      <div className="relative p-6 sm:p-8 md:p-12 lg:p-16 text-center">
-        <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-4 sm:mb-6 px-2">
-          Fikirleriniz Hayata Geçmeyi Bekliyor
-        </h2>
-        
-        <p className="text-base sm:text-lg md:text-xl text-white/90 mb-6 sm:mb-8 max-w-2xl mx-auto leading-relaxed px-2">
-          Ücretsiz danışmanlık ve proje teklifi için bizimle iletişime geçin.
-          <br className="hidden sm:block" />
-          <span className="font-bold block sm:inline mt-1 sm:mt-0">
-            Markanızı birlikte renklendirin!
-          </span>
-        </p>
-        
-        <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center items-center">
-          <Link
-            href="/iletisim"
-            className="w-full sm:w-auto px-6 py-3 sm:px-7 sm:py-3.5 bg-white text-purple-600 rounded-lg sm:rounded-full font-semibold hover:bg-gray-50 transition-all duration-300 hover:scale-[1.02] sm:hover:scale-105 shadow-lg sm:shadow-2xl active:scale-[0.98] text-sm sm:text-base flex items-center justify-center gap-2 group"
-          >
-            <span>Hemen İletişime Geçin</span>
-            <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-            </svg>
-          </Link>
-          
-          <Link
-            href="/hakkimizda"
-            className="w-full sm:w-auto px-6 py-3 sm:px-7 sm:py-3.5 bg-white/20 backdrop-blur-sm text-white rounded-lg sm:rounded-full font-medium hover:bg-white/30 transition-all duration-300 border border-white/30 hover:border-white/50 active:scale-[0.98] text-sm sm:text-base"
-          >
-            Bizi Tanıyın
-          </Link>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+        {/* CTA Section */}
+        <CTA />
 
 
 

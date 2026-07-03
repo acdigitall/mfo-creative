@@ -2,6 +2,13 @@ Options -MultiViews
 RewriteEngine On
 
 # =========================
+# HTTP -> HTTPS & WWW -> WWW'suz Yönlendirmesi (SEO)
+# =========================
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^(.*)$ https://mfocreative.com.tr/$1 [L,R=301]
+
+# =========================
 # WP / hack kalıntılarını HIZLI SİLDİR (410)
 # =========================
 
